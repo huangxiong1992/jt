@@ -9,16 +9,16 @@
 		"type": 3,
 		"quickSearch": 1,
 		"api": "csp_MiTuApp",
-	    "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
+	        "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
 	  },		
 	  {
-        "key": "csp_MiTuApp",
-        "name": "蓝光┃速播",
-        "type": 3,
-        "searchable": 1,
-        "quickSearch": 1,
-        "api": "csp_MiTuApp",
-        "ext": "s1/kf8dfHZAgs5H4ledT0oVFC1n/KhNfQfc0onBTauGjjbKin/VdMFrfJlKKnt/ClccntSyJqzbI1hHzGUUmZg7v02l1fvcdAH0iCUzGlopNgnI3rkeQtAwS54GySfRT0IRokasLwr5Rr6pm8/lTNJXMTEkq+9mzK976Dvv80seU9riYmFeBD+EBp8RzurdP02PNc0S2aZPlMbdm5yTIQfI8QeSRJGz+0AIsFOyBoPr4LDptq0AAc37KMhnWDCXF"
+                "key": "csp_MiTuApp",
+                "name": "蓝光┃速播",
+                "type": 3,
+                "searchable": 1,
+                "quickSearch": 1,
+                "api": "csp_MiTuApp",
+                "ext": "s1/kf8dfHZAgs5H4ledT0oVFC1n/KhNfQfc0onBTauGjjbKin/VdMFrfJlKKnt/ClccntSyJqzbI1hHzGUUmZg7v02l1fvcdAH0iCUzGlopNgnI3rkeQtAwS54GySfRT0IRokasLwr5Rr6pm8/lTNJXMTEkq+9mzK976Dvv80seU9riYmFeBD+EBp8RzurdP02PNc0S2aZPlMbdm5yTIQfI8QeSRJGz+0AIsFOyBoPr4LDptq0AAc37KMhnWDCXF"
 	  },    
 	  {
 		"key": "wencai",
@@ -200,11 +200,11 @@
 	  {
 		"name": "1080解析",
 		"type": 1,
-		 "url" : "https://zy.qiaoji8.com/gouzi.php?url=" ,
-		 "ext" : {
-		   "flag" : [
-			 "qq" ,
-			 "腾讯" ,
+		"url": "https://zy.qiaoji8.com/gouzi.php?url=",
+		"ext": {
+		  "flag": [
+			"qq",
+			"腾讯",
 			"qiyi",
 			"爱奇艺",
 			"奇艺",
@@ -353,53 +353,53 @@
 		  "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
 		  "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
 		]
-	  },
-	  {{
-		"name": "♻️农民","name": "♻️农民","name": "♻️农民","name": "♻️农民",
-		"hosts": ["hosts": ["hosts": ["hosts": [
-		  "toutiaovod.com""toutiaovod.com""toutiaovod.com""toutiaovod.com"
-		],],],],
-		"regex": ["regex": ["regex": ["regex": [
-		  "video/tos/cn""video/tos/cn""video/tos/cn""video/tos/cn"
-		]]]]
-	  },},},},
-	  {{{{
-		"name": "♻️火山","name": "♻️火山","name": "♻️火山","name": "♻️火山",
-		"hosts": ["hosts": ["hosts": ["hosts": [
-		  "huoshan.com""huoshan.com""huoshan.com""huoshan.com"
-		],],],],
-		"regex": ["regex": ["regex": ["regex": [
-		  "item_id=""item_id=""item_id=""item_id="
-		]]]]
-	  },},},},
-	  {{{{
-		"name": "♻️抖音","name": "♻️抖音","name": "♻️抖音","name": "♻️抖音","name": "♻️抖音","name": "♻️抖音","name": "♻️抖音","name": "♻️抖音",
-		"hosts": ["hosts": ["hosts": ["hosts": ["hosts": ["hosts": ["hosts": ["hosts": [
-		  "douyin.com""douyin.com""douyin.com""douyin.com""douyin.com""douyin.com""douyin.com""douyin.com"
-		],],],],],],],],
-		"regex": ["regex": ["regex": ["regex": ["regex": ["regex": ["regex": ["regex": [
-		  "is_play_url=""is_play_url=""is_play_url=""is_play_url=""is_play_url=""is_play_url=""is_play_url=""is_play_url="
-		]]]]]]]]
-	  },},},},},},},},
-	  {{{{{{{{
-		"name": "♻️磁力","name": "♻️磁力","name": "♻️磁力","name": "♻️磁力","name": "♻️磁力","name": "♻️磁力","name": "♻️磁力","name": "♻️磁力",
-		"hosts": ["hosts": ["hosts": ["hosts": ["hosts": ["hosts": ["hosts": ["hosts": [
-		  "magnet""magnet""magnet""magnet""magnet""magnet""magnet""magnet"
-		],],],],],],],],
-		"regex": ["regex": ["regex": ["regex": ["regex": ["regex": ["regex": ["regex": [
-		  "最 新","最 新","最 新","最 新","最 新","最 新","最 新","最 新",
-		  "直 播","直 播","直 播","直 播","直 播","直 播","直 播","直 播",
-		  "更 新""更 新""更 新""更 新""更 新""更 新""更 新""更 新"
-		]]]]]]]]
-	  },},},},},},},},
-	  {{{{{{{{
-		"name": "♻️饭团点击","name": "♻️饭团点击","name": "♻️饭团点击","name": "♻️饭团点击","name": "♻️饭团点击","name": "♻️饭团点击","name": "♻️饭团点击","name": "♻️饭团点击",
-		"hosts": ["hosts": ["hosts": ["hosts": ["hosts": ["hosts": ["hosts": ["hosts": [
-		  "fantuan""fantuan""fantuan""fantuan""fantuan""fantuan""fantuan""fantuan"
-		],],],],],],],],
-		"script": ["script": ["script": ["script": ["script": ["script": ["script": ["script": [
-		  "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();""document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();""document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();""document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();""document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();""document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();""document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();""document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
-		]]]]]]]]
-	  }}}}}}}}
-	]]]]]]]]
-  }}}}
+	   } ,
+	  {
+		 "name" : "♻️农民" ,
+		 "hosts" : [
+		  "toutiaovod.com"
+		 ] ,
+		 "regex" : [
+		  "video/tos/cn"
+		]
+	   } ,
+	  {
+		 "name" : "♻️火山" ,
+		 "hosts" : [
+		  "huoshan.com"
+		 ] ,
+		 "regex" : [
+		  "item_id="
+		]
+	   } ,
+	  {
+		 "name" : "♻️抖音" ,
+		 "hosts" : [
+		  "douyin.com"
+		 ] ,
+		 "regex" : [
+		  "is_play_url="
+		]
+	   } ,
+	  {
+		 "name" : "♻️磁力" ,
+		 "hosts" : [
+		  "magnet"
+		 ] ,
+		 "regex" : [
+		   "最 新" ,
+		   "直 播" ,
+		  "更 新"
+		]
+	   } ,
+	  {
+		 "name" : "♻️饭团点击" ,
+		 "hosts" : [
+		  "fantuan"
+		 ] ,
+		 "script" : [
+		  "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
+		]
+	  }
+	]
+}
