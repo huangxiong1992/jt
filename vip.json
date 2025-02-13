@@ -79,7 +79,7 @@
 	  },
 	  {
 		"key": "瓜子",
-		"name": "蓝光┃立播",
+		"name": "蓝光┃速播",
 		"type": 3,
 		"api": "csp_Gz360",
 		"searchable": 1,
@@ -146,9 +146,9 @@
 		"ext": {
 		  "flag": [
 			"qq",
-			“腾讯”，
-			“ Qiyi”，
-			“爱奇艺”，
+			"腾讯",
+			"qiyi",
+			"爱奇艺",
 			"奇艺",
 			"youku",
 			"优酷",
@@ -353,53 +353,53 @@
 		  "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
 		  "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
 		]
-	   } ,
+	  },
 	  {
-		 "name" : "♻️农民" ,
-		 "hosts" : [
+		"name": "♻️农民",
+		"hosts": [
 		  "toutiaovod.com"
-		 ] ,
-		 "regex" : [
+		],
+		"regex": [
 		  "video/tos/cn"
 		]
-	   } ,
+	  },
 	  {
-		 "name" : "♻️火山" ,
-		 "hosts" : [
+		"name": "♻️火山",
+		"hosts": [
 		  "huoshan.com"
-		 ] ,
-		 "regex" : [
+		],
+		"regex": [
 		  "item_id="
 		]
-	   } ,
+	  },
 	  {
-		 "name" : "♻️抖音" ,
-		 "hosts" : [
+		"name": "♻️抖音",
+		"hosts": [
 		  "douyin.com"
-		 ] ,
-		 "regex" : [
+		],
+		"regex": [
 		  "is_play_url="
 		]
-	   } ,
+	  },
 	  {
-		 "name" : "♻️磁力" ,
-		 "hosts" : [
+		"name": "♻️磁力",
+		"hosts": [
 		  "magnet"
-		 ] ,
-		 "regex" : [
-		   "最 新" ,
-		   "直 播" ,
+		],
+		"regex": [
+		  "最 新",
+		  "直 播",
 		  "更 新"
 		]
-	   } ,
+	  },
 	  {
-		 "name" : "♻️饭团点击" ,
-		 "hosts" : [
+		"name": "♻️饭团点击",
+		"hosts": [
 		  "fantuan"
-		 ] ,
-		 "script" : [
+		],
+		"script": [
 		  "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
 		]
 	  }
 	]
-}
+  }
