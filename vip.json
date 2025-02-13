@@ -4,29 +4,21 @@
 	"wallpaper": "https://bing.img.run/uhd.php",
 	"sites": [
 	  {
-		"key": "csp_DUODUO",
-		"name": "蓝光┃秒播",
-		"type": 3,
-		"quickSearch": 1,
-		"api": "csp_MiTuApp",
-	        "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
-	  },		
+                “键”：“ csp_mituapp”，"key": "csp_MiTuApp",
+                “名称”：“蓝光┃速播”，"name": "蓝光┃速播",
+                “类型”：3，"type": 3,
+                “可搜索”：1，"searchable": 1,
+                “ QuickSearch”：1，"quickSearch": 1,
+                “ api”：“ csp_mituapp”，"api": "csp_MiTuApp",
+                "ext" : "s1/kf8dfHZAgs5H4ledT0oVFC1n/KhNfQfc0onBTauGjjbKin/VdMFrfJlKKnt/ClccntSyJqzbI1hHzGUUmZg7v02l1fvcdAH0iCUzGlopNgnI3rkeQtAwS54GySfRT0IRokasLwr5Rr6pm8/lTNJXMTEkq+9mzK976Dvv80seU9riYmFeBD+EBp8RzurdP02PNc0S2aZPlMbdm5yTIQfI8QeSRJGz+0AIsFOyBoPr4LDptq0AAc37KMhnWDCXF"
+	  }，    
 	  {
-                "key": "csp_MiTuApp",
-                "name": "蓝光┃速播",
-                "type": 3,
-                "searchable": 1,
-                "quickSearch": 1,
-                "api": "csp_MiTuApp",
-                "ext": "s1/kf8dfHZAgs5H4ledT0oVFC1n/KhNfQfc0onBTauGjjbKin/VdMFrfJlKKnt/ClccntSyJqzbI1hHzGUUmZg7v02l1fvcdAH0iCUzGlopNgnI3rkeQtAwS54GySfRT0IRokasLwr5Rr6pm8/lTNJXMTEkq+9mzK976Dvv80seU9riYmFeBD+EBp8RzurdP02PNc0S2aZPlMbdm5yTIQfI8QeSRJGz+0AIsFOyBoPr4LDptq0AAc37KMhnWDCXF"
-	  },    
-	  {
-		"key": "wencai",
-		"name": "蓝光┃高清",
-		"type": 3,
-		"api": "csp_Jpys",
-		"searchable": 1,
-		"quickSearch": 1,
+		“键”：“ wencai”，
+		“名称”：“蓝光┃高清”，
+		“类型”：3，
+		“ api”：“ csp_jpys”，
+		“可搜索”：1，
+		“ QuickSearch”：1，
 		"filterable": 1,
 		"order_num": 0,
 		"changeable": 0,
