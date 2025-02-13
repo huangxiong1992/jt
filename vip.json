@@ -1,3 +1,4 @@
+{
 	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737710777074/012403.jar;md5;11e7f4b3a83620a0b1c31eb7f609aa10",
 	"logo": "",
 	"wallpaper": "https://bing.img.run/uhd.php",
@@ -388,8 +389,8 @@
 		"hosts": [
 		  "fantuan"
 		],
-		"script": [
-		  “ document.queryselector（\”＃playleft iframe \“）。contentwindow.document.document.queryselector（\ \“＃启动\”（单击（）;”）;”
+		“脚本”：[
+		  “ document.queryselector（\”＃playleft iframe \“）。contentwindow.document.queryselector（\“＃start \”）。click（）;”
 		这是给出的
 	  }
 	这是给出的
