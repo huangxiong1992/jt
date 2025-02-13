@@ -389,8 +389,8 @@
 		  "fantuan"
 		],
 		"script": [
-		  "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
-		]
+		  “ document.queryselector（\”＃playleft iframe \“）。contentwindow.document.document.queryselector（\ \“＃启动\”（单击（）;”）;”
+		这是给出的
 	  }
-	]
+	这是给出的
   }
