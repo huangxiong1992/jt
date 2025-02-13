@@ -16,21 +16,21 @@
 		"name": "蓝光┃高清",
 		"type": 3,
 		"api": "csp_Jpys",
-		“可搜索”：1，
-		“ QuickSearch”：1，
-		“可过滤”：1，
-		“ order_num”：0，
-		“可变”：0，
-		“ ext”：“ https：//www.hkybqufgh.com”
-	  }，，
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"order_num": 0,
+		"changeable": 0,
+		"ext": "https://www.hkybqufgh.com"
+	  },
 	  {
-		“键”：“ csp_wwys”，
-		“名称”：“蓝光┃超清”，
-		“类型”：3，
-		“ PlayerType”：2，
-		“可搜索”：1，
-		“ QuickSearch”：1，
-		“可变”：1，
+		"key": "csp_Wwys",
+		"name": "蓝光┃超清",
+		"type": 3,
+		"playerType": 2,
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 1,
 		"api": "csp_Wwys",
 		"ext": "https://www.wwgz.cn/"
 	  },
@@ -345,52 +345,52 @@
 		  "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
 		]
 	  },
-	  {{
-		“名称”：“♻️农民”，“名称”：“♻️农民”，
-		“主持人”：[ “主持人”：[
-		  “ toutiaovod.com”“ toutiaovod.com”
-		]，]，，，，
-		“正则”：[ [ “ Regex”：[
-		  “视频/tos/cn”“视频/tos/cn”
-		这是给出的这是给出的
-	  }，，}，
-	  { {
-		“名称”：“♻️火山”，“名称”：“♻️火山”，
-		“主持人”：[ “主持人”：[
-		  “ huoshan.com”“ huoshan.com”
-		]，]，，，，
-		“正则”：[ [ “ Regex”：[
-		  “ item_id =”“ item_id =”
-		这是给出的这是给出的
-	  }，，}，
-	  { {
-		“名称”：“♻️抖音”，“名称”：“♻️抖音”，
-		“主持人”：[ “主持人”：[
-		  “ douyin.com”“ douyin.com”
-		]，]，，，，
-		“正则”：[ [ “ Regex”：[
-		  “ is_play_url =”“ is_play_url =”
-		这是给出的这是给出的
-	  }，，}，
-	  { {
-		“名称”：“♻️磁力”，“名称”：“♻️磁力”，
-		“主持人”：[ “主持人”：[
-		  “磁铁”“磁铁”
-		]，]，，，，
-		“正则”：[ [ “ Regex”：[
-		  “最”，“最”，
-		  “直”，“直”，
-		  “更”“更”
-		这是给出的这是给出的
-	  }，，}，
-	  { {
-		“名称”：“♻️饭团点击”，“名称”：“♻️饭团点击”，
-		“主持人”：[ “主持人”：[
-		  “幻想“幻想
-		]，]，，，，
-		“脚本”： [[ [[
-		  “ document.queryselector（\”＃playleft iframe \“）。contentwindow.document.queryselector（\“＃start \”）。click（）;”
-		这是给出的
+	  {
+		"name": "♻️农民",
+		"hosts": [
+		  "toutiaovod.com"
+		],
+		"regex": [
+		  "video/tos/cn"
+		]
+	  },
+	  {
+		"name": "♻️火山",
+		"hosts": [
+		  "huoshan.com"
+		],
+		"regex": [
+		  "item_id="
+		]
+	  },
+	  {
+		"name": "♻️抖音",
+		"hosts": [
+		  "douyin.com"
+		],
+		"regex": [
+		  "is_play_url="
+		]
+	  },
+	  {
+		"name": "♻️磁力",
+		"hosts": [
+		  "magnet"
+		],
+		"regex": [
+		  "最 新",
+		  "直 播",
+		  "更 新"
+		]
+	  },
+	  {
+		"name": "♻️饭团点击",
+		"hosts": [
+		  "fantuan"
+		],
+		"script": [
+		  "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
+		]
 	  }
-	这是给出的
-  }}
+	]
+  }
