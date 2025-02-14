@@ -5,7 +5,7 @@
 	"sites": [		
 	  {
                 "key": "csp_MiTuApp",
-                "name": "蓝光┃秒播",
+                "name": "蓝光┃速播",
                 "type": 3,
                 "searchable": 1,
                 "quickSearch": 1,
@@ -345,53 +345,53 @@
 		  "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
 		  "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
 		]
-	  },
+	   } ,
 	  {
-		"name": "♻️农民",
-		"hosts": [
+		 "name" : "♻️农民" ,
+		 "hosts" : [
 		  "toutiaovod.com"
-		],
-		"regex": [
+		 ] ,
+		 "regex" : [
 		  "video/tos/cn"
 		]
-	  },
+	   } ,
 	  {
-		"name": "♻️火山",
-		"hosts": [
+		 "name" : "♻️火山" ,
+		 "hosts" : [
 		  "huoshan.com"
-		],
-		"regex": [
+		 ] ,
+		 "regex" : [
 		  "item_id="
 		]
-	  },
+	   } ,
 	  {
-		"name": "♻️抖音",
-		"hosts": [
+		 "name" : "♻️抖音" ,
+		 "hosts" : [
 		  "douyin.com"
-		],
-		"regex": [
+		 ] ,
+		 "regex" : [
 		  "is_play_url="
 		]
-	  },
+	   } ,
 	  {
-		"name": "♻️磁力",
-		"hosts": [
+		 "name" : "♻️磁力" ,
+		 "hosts" : [
 		  "magnet"
-		],
-		"regex": [
-		  "最 新",
-		  "直 播",
+		 ] ,
+		 "regex" : [
+		   "最 新" ,
+		   "直 播" ,
 		  "更 新"
 		]
-	  },
+	   } ,
 	  {
-		"name": "♻️饭团点击",
-		"hosts": [
+		 "name" : "♻️饭团点击" ,
+		 "hosts" : [
 		  "fantuan"
-		],
-		“脚本”：[
-		  “ document.queryselector（\”＃playleft iframe \“）。contentwindow.document.queryselector（\“＃start \”）。click（）;”
-		这是给出的
+		 ] ,
+		 "script" : [
+		  "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
+		]
 	  }
-	这是给出的
-  }
+	]
+}
