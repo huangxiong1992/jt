@@ -3,16 +3,6 @@
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "sites": [
     {
-      "key": "csp_DouBan",
-      "name": "馃寛璞嗙摚鎺ㄨ崘鈹冭杩炵画鎸夐仴鎺у櫒鏂瑰悜涓婇敭鍒锋柊鍐呭",
-      "type": 3,
-      "api": "csp_DouBan",
-      "jar": "https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;40C061303062442053EA0BEE9AFECEA6",
-      "searchable": 0,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
       "key": "csp_AppRR",
       "name": "馃毝浜轰汉",
       "type": 3,
