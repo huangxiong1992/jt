@@ -3,59 +3,63 @@
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "sites": [
     {
+      "key": "csp_DouBan",
+      "name": "关注抖音皇兄",
+      "type": 3,
+      "api": "csp_DouBan",
+      "jar": "https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;40C061303062442053EA0BEE9AFECEA6",
+      "searchable": 0,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
       "key": "csp_AppRR",
-      "name": "蓝光秒播",
+      "name": "🚶人人",
       "type": 3,
       "api": "csp_AppRR",
       "ext": "WsTbUN+IzcfBYxQ6QFfhNbGQHAJ3uDtQrJqsZDQMRZ33dQlQckxRblQPSfNOwdvHZw7dBuy1ysMc7T5CFk8zgHL8O4D6nXhv18hYKphskvH9Ehle3V/b05I+7Vh/8XzIr5sgF9jH2enSkvNdCX+fm56ExGC0i9VATPdNFt0O9HJetzaOareaj4+Bq8VY8S50nW01FRDiGrD8UFqUN3sAIQ=="
     },
     {
       "key": "csp_Gz360",
-      "name": "蓝光速播",
+      "name": "🍉瓜子",
       "type": 3,
       "api": "csp_Gz360"
     },
     {
-      "key": "csp_AppXY",
-      "name": "馃惛涓婂ご鈹冪煭鍓�",
-      "type": 3,
-      "api": "csp_AppXY"
-    },
-    {
       "key": "csp_AppNG",
-      "name": "馃巸鍗楃摐",
+      "name": "🎃南瓜",
       "type": 3,
       "api": "csp_AppNG"
     },
     {
       "key": "csp_Wwys",
-      "name": "馃懆鍐滄皯",
+      "name": "👨农民",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://m.wwgz.cn"
     },
     {
       "key": "csp_Lgyy",
-      "name": "鈴筹笍锔忔祦鍏�",
+      "name": "⏳️️流光",
       "type": 3,
       "api": "csp_Lgyy"
     },
     {
       "key": "csp_Lkdy",
-      "name": "馃拹鏉ョ湅",
+      "name": "💐来看",
       "type": 3,
       "api": "csp_Lkdy"
     },
     {
       "key": "csp_Xlys",
-      "name": "馃崵鍝斿榾",
+      "name": "🍤哔嘀",
       "api": "csp_Xlys",
       "type": 3,
       "playerType": 2
     },
     {
-      "key": "88鐪嬬悆",
-      "name": "馃弨鐪嬬悆鈹冪洿鎾�",
+      "key": "88看球",
+      "name": "🏀看球┃直播",
       "type": 3,
       "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 0,
@@ -67,7 +71,7 @@
     },
     {
       "key": "csp_LaoBaiBook",
-      "name": "馃摎鑰佺櫧鈹冨惉涔�",
+      "name": "📚老白┃听书",
       "type": 3,
       "api": "csp_LaoBaiBook",
       "searchable": 0,
@@ -79,17 +83,17 @@
   ],
   "parses": [
     {
-      "name": "Json鑱氬悎",
+      "name": "Json聚合",
       "type": 3,
       "url": "Demo"
     },
     {
-      "name": "褰辫鑱氬悎",
+      "name": "影视聚合",
       "type": 3,
-      "url": "褰辫"
+      "url": "影视"
     },
     {
-      "name": "鑷敤",
+      "name": "自用",
       "type": 1,
       "url": ""
     },
@@ -99,12 +103,12 @@
       "url": ""
     },
     {
-      "name": "铏剧背",
+      "name": "虾米",
       "type": 0,
       "url": ""
     },
     {
-      "name": "澶滃箷",
+      "name": "夜幕",
       "type": 0,
       "url": ""
     }
@@ -112,7 +116,7 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739415605613/015dae5bcd1ff5a801213dea55f8c4.jpg",
   "lives": [
     {
-      "name": "澶崼",
+      "name": "央卫",
       "type": 0,
       "url": "https://7952.kstore.space/%E7%9B%B4%E6%92%AD.txt",
       "playerType": 1,
@@ -133,7 +137,7 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "骞冲彴鐩存挱",
+      "name": "平台直播",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Live",
       "ua": "okhttp/3.15",
@@ -142,7 +146,7 @@
   ],
   "rules": [
     {
-      "name": "鈾伙笍閲忛潪",
+      "name": "非非",
       "hosts": [
         "lz",
         "vip.lz",
@@ -158,7 +162,7 @@
       ]
     },
     {
-      "name": "鈾伙笍绱㈠凹",
+      "name": "妮妮",
       "hosts": [
         "suonizy",
         "qrssv.com"
@@ -169,7 +173,7 @@
       ]
     },
     {
-      "name": "鈾伙笍涔愯",
+      "name": "乐乐",
       "hosts": [
         "leshiyun"
       ],
@@ -178,7 +182,7 @@
       ]
     },
     {
-      "name": "鈾伙笍浼樿川",
+      "name": "优优",
       "hosts": [
         "yzzy",
         "playback"
@@ -191,7 +195,7 @@
       ]
     },
     {
-      "name": "鈾伙笍蹇湅",
+      "name": "看看",
       "hosts": [
         "kuaikan",
         "vip.kuaikan"
@@ -203,7 +207,7 @@
       ]
     },
     {
-      "name": "鈾伙笍360",
+      "name": "360",
       "hosts": [
         "lyhuicheng"
       ],
@@ -213,7 +217,7 @@
       ]
     },
     {
-      "name": "鈾伙笍寮€婧愭鐗�",
+      "name": "勿信广告",
       "hosts": [
         "askzycdn",
         "jkunbf",
@@ -226,7 +230,7 @@
       ]
     },
     {
-      "name": "鈾伙笍鏆撮",
+      "name": "暴风",
       "hosts": [
         "bfengbf.com",
         "bfzy",
@@ -238,7 +242,7 @@
       ]
     },
     {
-      "name": "鈾伙笍鍐滄皯",
+      "name": "农民",
       "hosts": [
         "toutiaovod.com"
       ],
@@ -247,7 +251,7 @@
       ]
     },
     {
-      "name": "鈾伙笍鐏北",
+      "name": "火山",
       "hosts": [
         "huoshan.com"
       ],
@@ -256,7 +260,7 @@
       ]
     },
     {
-      "name": "鈾伙笍鎶栭煶",
+      "name": "抖音",
       "hosts": [
         "douyin.com"
       ],
@@ -265,18 +269,18 @@
       ]
     },
     {
-      "name": "鈾伙笍纾佸姏",
+      "name": "磁力",
       "hosts": [
         "magnet"
       ],
       "regex": [
-        "鏈€ 鏂�",
-        "鐩� 鎾�",
-        "鏇� 鏂�"
+        "最 新",
+        "直 播",
+        "更 新"
       ]
     },
     {
-      "name": "鈾伙笍楗洟鐐瑰嚮",
+      "name": "蓝光高清",
       "hosts": [
         "dadagui",
         "freeok",
@@ -287,7 +291,7 @@
       ]
     },
     {
-      "name": "鈾伙笍姣涢┐鐐瑰嚮",
+      "name": "蓝光超清",
       "hosts": [
         "www.maolvys.com"
       ],
