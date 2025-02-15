@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "csp_DouBan",
-      "name": "🌈豆瓣推荐┃皇兄抖音皇兄",
+      "name": "🌈豆瓣推荐┃关注抖音皇兄",
       "type": 3,
       "api": "csp_DouBan",
       "jar": "https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;40C061303062442053EA0BEE9AFECEA6",
@@ -14,51 +14,51 @@
     },
     {
       "key": "csp_AppRR",
-      "name": "蓝光秒播",
+      "name": "🚶蓝光秒播",
       "type": 3,
       "api": "csp_AppRR",
       "ext": "WsTbUN+IzcfBYxQ6QFfhNbGQHAJ3uDtQrJqsZDQMRZ33dQlQckxRblQPSfNOwdvHZw7dBuy1ysMc7T5CFk8zgHL8O4D6nXhv18hYKphskvH9Ehle3V/b05I+7Vh/8XzIr5sgF9jH2enSkvNdCX+fm56ExGC0i9VATPdNFt0O9HJetzaOareaj4+Bq8VY8S50nW01FRDiGrD8UFqUN3sAIQ=="
     },
     {
       "key": "csp_Gz360",
-      "name": "蓝光立播",
+      "name": "🍉蓝光立播",
       "type": 3,
       "api": "csp_Gz360"
     },
     {
       "key": "csp_AppXY",
-      "name": "蓝光┃短剧",
+      "name": "🐸上头┃短剧",
       "type": 3,
       "api": "csp_AppXY"
     },
     {
       "key": "csp_AppNG",
-      "name": "蓝光超清",
+      "name": "🎃蓝光高清",
       "type": 3,
       "api": "csp_AppNG"
     },
     {
       "key": "csp_Wwys",
-      "name": "蓝光立播",
+      "name": "👨蓝光光速",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://m.wwgz.cn"
     },
     {
       "key": "csp_Lgyy",
-      "name": "蓝光超速",
+      "name": "⏳️️蓝光超速",
       "type": 3,
       "api": "csp_Lgyy"
     },
     {
       "key": "csp_Lkdy",
-      "name": "蓝光高速",
+      "name": "💐蓝光高速",
       "type": 3,
       "api": "csp_Lkdy"
     },
     {
       "key": "csp_Xlys",
-      "name": "蓝光光速",
+      "name": "🍤蓝光少儿",
       "api": "csp_Xlys",
       "type": 3,
       "playerType": 2
@@ -77,7 +77,7 @@
     },
     {
       "key": "csp_LaoBaiBook",
-      "name": "休闲┃听书",
+      "name": "📚老白┃听书",
       "type": 3,
       "api": "csp_LaoBaiBook",
       "searchable": 0,
@@ -85,6 +85,15 @@
         "type": "rect",
         "ratio": 1.333
       }
+    },
+    {
+      "key": "push_agent",
+      "name": "🛴推送┃播放",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "ext": ""
+    }
   ],
   "parses": [
     {
@@ -306,4 +315,3 @@
     }
   ]
 }
-
