@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "csp_DouBan",
-      "name": "🌈豆瓣推荐┃请连续按遥控器方向上键刷新内容",
+      "name": "🌈如遇卡顿┃点击换源",
       "type": 3,
       "api": "csp_DouBan",
       "jar": "https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;40C061303062442053EA0BEE9AFECEA6",
