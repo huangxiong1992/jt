@@ -3,16 +3,6 @@
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "sites": [
     {
-      "key": "csp_DouBan",
-      "name": "关注抖音皇兄",
-      "type": 3,
-      "api": "csp_DouBan",
-      "jar": "https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;40C061303062442053EA0BEE9AFECEA6",
-      "searchable": 0,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
       "key": "csp_AppRR",
       "name": "蓝光｜秒播",
       "type": 3,
