@@ -4,17 +4,8 @@
   "wallpaper": "https://bing.img.run/uhd.php",
   "sites": [
     {
-      "key": "csp_Wwys",
-      "name": "蓝光┃秒播",
-      "type": 3,
-      "playerType": 2,
-      "changeable": 0,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn/"
-    },
-    {
       "key": "瓜子",
-      "name": "蓝光┃立播",
+      "name": "蓝光┃秒播",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
