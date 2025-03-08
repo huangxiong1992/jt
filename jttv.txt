@@ -2164,7 +2164,7 @@ KAKU少儿,http://8.146.211.219:2000/live_tv?pid=3ba2d9ab8ea2477378609821a065858
 뿅뿅 지구오락실 게임 모음.zip_q,http://8.146.211.219:2000/live_tv?pid=abf3f56fcc926ab6ebd344f8c61c0068
 뿅뿅 지구오락실 댄스 모음.zip_q,http://8.146.211.219:2000/live_tv?pid=26d4250bbed405494fb36d9f2459bd71
 투니버스 흔한남매의 안흔한일기3_h,http://8.146.211.219:2000/live_tv?pid=8dc4095dccf299e4277c6354520e1015
-
+节目大全,#genre#
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
