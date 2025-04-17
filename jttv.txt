@@ -27,7 +27,7 @@ CCTV-5+ HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m
 山东卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 山西卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
 江西卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-江苏卫视 HD,,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+江苏卫视 HD,http://107.174.52.32/itv.php?id=%e6%b1%9f%e8%8b%8f%e5%8d%ab%e8%a7%86
 浙江卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 东方卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 东南卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
