@@ -108,6 +108,22 @@ CETV4 HD,http://itv.iptv1688.top:2016/itv.php?id=CETV4
 兵团卫视 HD,http://itv.iptv1688.top:2016/itv.php?id=兵团卫视
 
 河南地方,#genre#
+河南卫视,http://115.58.216.216:60001/hls/16/index.m3u8
+河南都市,http://115.58.216.216:60001/hls/17/index.m3u8
+河南民生,http://115.58.216.216:60001/hls/18/index.m3u8
+河南法制,http://115.58.216.216:60001/hls/19/index.m3u8
+河南新闻,http://115.58.216.216:60001/hls/20/index.m3u8
+河南公共,http://115.58.216.216:60001/hls/23/index.m3u8
+河南电视剧,http://115.58.216.216:60001/hls/20/index.m3u8
+河南乡村,http://115.58.216.216:60001/hls/24/index.m3u8
+河南戏曲,http://115.58.216.216:60001/hls/28/index.m3u8
+移动戏曲,http://115.58.216.216:60001/hls/26/index.m3u8
+百姓调解,http://115.58.216.216:60001/hls/32/index.m3u8
+晴彩中原,http://115.58.216.216:60001/hls/25/index.m3u8
+收藏天下,http://115.58.216.216:60001/hls/27/index.m3u8
+中华功夫,http://115.58.216.216:60001/hls/29/index.m3u8
+美食汇,http://115.58.216.216:60001/hls/30/index.m3u8
+棋牌,http://115.58.216.216:60001/hls/31/index.m3u8
 河南|浚县一套,http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
 河南|汤阴综合,http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
 内黄综合频道,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
