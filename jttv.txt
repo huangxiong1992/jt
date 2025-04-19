@@ -1,56 +1,5 @@
 哈喽朋友！本直播源仅供个人测试,切勿外传 
 
-央央卫卫(全),#genre#
-CCTV-01 HD,http://39.165.196.149:9003//hls/1/index.m3u8
-CCTV-02 HD,http://39.165.196.149:9003//hls/2/index.m3u8
-CCTV-03 HD,http://39.165.196.149:9003//hls/3/index.m3u8
-CCTV-04 HD,http://39.165.196.149:9003//hls/4/index.m3u8
-CCTV-05 HD,http://39.165.196.149:9003//hls/5/index.m3u8
-CCTV-5+ HD,http://39.165.196.149:9003//hls/16/index.m3u8
-CCTV-06 HD,http://39.165.196.149:9003//hls/6/index.m3u8
-CCTV-07 HD,http://39.165.196.149:9003//hls/7/index.m3u8
-CCTV-08 HD,http://39.165.196.149:9003//hls/8/index.m3u8
-CCTV-09 HD,http://39.165.196.149:9003//hls/9/index.m3u8
-CCTV-10 HD,http://39.165.196.149:9003//hls/10/index.m3u8
-CCTV-11 HD,http://39.165.196.149:9003//hls/11/index.m3u8
-CCTV-12 HD,http://39.165.196.149:9003//hls/12/index.m3u8
-CCTV-13 HD,http://39.165.196.149:9003//hls/13/index.m3u8
-CCTV-14 HD,http://39.165.196.149:9003//hls/14/index.m3u8
-CCTV-15 HD,http://39.165.196.149:9003//hls/15/index.m3u8
-CCTV-17 HD,http://39.165.196.149:9003//hls/17/index.m3u8
-北京卫视 HD,http://39.165.196.149:9003//hls/27/index.m3u8
-浙江卫视 HD,http://39.165.196.149:9003//hls/28/index.m3u8
-湖南卫视 HD,http://39.165.196.149:9003//hls/29/index.m3u8
-山东卫视 HD,http://39.165.196.149:9003//hls/30/index.m3u8
-安徽卫视 HD,http://39.165.196.149:9003//hls/31/index.m3u8
-四川卫视 HD,http://39.165.196.149:9003//hls/32/index.m3u8
-深圳卫视 HD,http://39.165.196.149:9003//hls/33/index.m3u8
-天津卫视 HD,http://39.165.196.149:9003//hls/34/index.m3u8
-山西卫视 HD,http://39.165.196.149:9003//hls/35/index.m3u8
-河北卫视 HD,http://39.165.196.149:9003//hls/36/index.m3u8
-江苏卫视 HD,http://39.165.196.149:9003//hls/37/index.m3u8
-广东卫视 HD,http://39.165.196.149:9003//hls/38/index.m3u8
-东方卫视 HD,http://39.165.196.149:9003//hls/39/index.m3u8
-湖北卫视 HD,http://39.165.196.149:9003//hls/40/index.m3u8
-黑龙江卫视 HD,http://39.165.196.149:9003//hls/41/index.m3u8
-辽宁卫视 HD,http://39.165.196.149:9003//hls/42/index.m3u8
-吉林卫视 HD,http://39.165.196.149:9003//hls/43/index.m3u8
-重庆卫视 HD,http://39.165.196.149:9003//hls/44/index.m3u8
-云南卫视 HD,http://39.165.196.149:9003//hls/45/index.m3u8
-江西卫视 HD,http://39.165.196.149:9003//hls/46/index.m3u8
-贵州卫视 HD,http://39.165.196.149:9003//hls/47/index.m3u8
-陕西卫视 HD,http://39.165.196.149:9003//hls/48/index.m3u8
-宁夏卫视 HD,http://39.165.196.149:9003//hls/49/index.m3u8
-东南卫视 HD,http://39.165.196.149:9003//hls/50/index.m3u8
-内蒙古卫视 HD,http://39.165.196.149:9003//hls/51/index.m3u8
-甘肃卫视 HD,http://39.165.196.149:9003//hls/52/index.m3u8
-青海卫视 HD,http://39.165.196.149:9003//hls/53/index.m3u8
-广西卫视 HD,http://39.165.196.149:9003//hls/54/index.m3u8
-海南卫视 HD,http://39.165.196.149:9003//hls/55/index.m3u8
-都市剧场,http://39.165.196.149:9003//hls/56/index.m3u8
-快乐垂钓,http://39.165.196.149:9003//hls/57/index.m3u8
-茶频道 HD,http://39.165.196.149:9003//hls/58/index.m3u8
-
 
 
 
@@ -108,15 +57,7 @@ CCTV-5+ HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m
 
 
 河南地方,#genre#
-河南卫视,http://39.165.196.149:9003/hls/18/index.m3u8
-河南都市频道,http://39.165.196.149:9003//hls/19/index.m3u8
-河南民生频道,http://39.165.196.149:9003//hls/20/index.m3u8
-河南法制频道,http://39.165.196.149:9003//hls/21/index.m3u8
-河南电视剧频道,http://39.165.196.149:9003//hls/22/index.m3u8
-河南新闻频道,http://39.165.196.149:9003//hls/23/index.m3u8
-河南公共频道,http://39.165.196.149:9003//hls/24/index.m3u8
-河南调解剧场频道,http://39.165.196.149:9003//hls/26/index.m3u8
-河南梨园频道http://39.165.196.149:9003//hls/25/index.m3u8
+河南卫
 河南|浚县一套,http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
 河南|汤阴综合,http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
 内黄综合频道,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
