@@ -54,7 +54,7 @@ CCTV-5+ HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m
 西藏卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 
-央卫备用(1),#genre# 
+央卫备用(一),#genre# 
 CCTV-01 HD,http://39.165.196.149:9003//hls/1/index.m3u8
 CCTV-02 HD,http://39.165.196.149:9003//hls/2/index.m3u8
 CCTV-03 HD,http://39.165.196.149:9003//hls/3/index.m3u8
@@ -119,18 +119,18 @@ CCTV-17 HD,http://39.165.196.149:9003//hls/17/index.m3u8
 
 
 河南地方,#genre#
-河南卫视,http://123.6.53.25/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=3a580c0e64f27b458034ed4a34852be2&wsTime=1745166938&wsSession=88bbbca6d406e23a7aa6f3e0-174515261560754&wsIPSercert=eccb07d76c5d653a009d31208ed6ca0f&wsiphost=local&wsBindIP=1
-都市频道,http://183.204.228.35/tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=06c2b34c894a124d71d84694da61e2e5&wsTime=1745167238&wsSession=cf79e31dc51833ff4dfe8006-174515307488343&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
-民生频道,http://183.204.228.35/tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=04c7c16ee924e6527ec14bf7e5cfb8d8&wsTime=1745167238&wsSession=cf79e31dc51833ff4dfe8006-174515308141769&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
-新闻频道,http://183.204.228.37/tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=c7d4fa794b99555f78094f2868c0131d&wsTime=1745167238&wsSession=e668377f22be2fc4842e6b2c-174515309745171&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
-公共频道,http://183.204.228.35/tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=20748069802b245b9b778440e9ab7a8b&wsTime=1745167238&wsSession=cf79e31dc51833ff4dfe8006-174515310351701&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
-梨园频道,http://183.204.228.32/tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=69ff53013019d754e5be985abced1be2&wsTime=1745167238&wsSession=0bc191f1ddffb7a577cb6913-174515311799112&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
-电视剧频道,http://183.204.228.41/tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=b8e582515b3204d1e3e18a26389fa1be&wsTime=1745167238&wsSession=c9479120fb07605dc3ebef01-174515309209182&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
-文物宝库,http://183.204.228.43/tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=29a8ecbf08e04419aabb6df0b2110dc5&wsTime=1745167238&wsSession=e3c1036e4beac94f4b93de2a-174515312583436&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
-武术世界,http://183.204.228.41/tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=f9ff83346135450292e22c874565dce6&wsTime=1745167238&wsSession=c9479120fb07605dc3ebef01-174515313006569&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
-象世界,http://183.204.228.35/tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=e86ef7f9a0cb3c38ebd5e7c062980c17&wsTime=1745167538&wsSession=cf79e31dc51833ff4dfe8006-174515314551685&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
-晴彩中原,http://183.204.228.37/tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=79f56e2db5b3d84c514e27e5757ba11a&wsTime=1745167238&wsSession=e668377f22be2fc4842e6b2c-174515313215804&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
-移动戏曲,https://3grhdgmt1gy4nhct18yzdec3pqt5gg3dqf33zehufcfsugmuep318e.100ycdn.com/tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=efb9dc06849243ea17be155c3a8f4c0b&wsTime=1745167238&wsSession=e3c1036e4beac94f4b93de2a-174515313456088&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
+河南卫视 移,http://123.6.53.25/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=3a580c0e64f27b458034ed4a34852be2&wsTime=1745166938&wsSession=88bbbca6d406e23a7aa6f3e0-174515261560754&wsIPSercert=eccb07d76c5d653a009d31208ed6ca0f&wsiphost=local&wsBindIP=1
+都市频道 移,http://183.204.228.35/tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=06c2b34c894a124d71d84694da61e2e5&wsTime=1745167238&wsSession=cf79e31dc51833ff4dfe8006-174515307488343&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
+民生频道 移,http://183.204.228.35/tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=04c7c16ee924e6527ec14bf7e5cfb8d8&wsTime=1745167238&wsSession=cf79e31dc51833ff4dfe8006-174515308141769&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
+新闻频道 移,http://183.204.228.37/tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=c7d4fa794b99555f78094f2868c0131d&wsTime=1745167238&wsSession=e668377f22be2fc4842e6b2c-174515309745171&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
+公共频道 移,http://183.204.228.35/tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=20748069802b245b9b778440e9ab7a8b&wsTime=1745167238&wsSession=cf79e31dc51833ff4dfe8006-174515310351701&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
+梨园频道 移,http://183.204.228.32/tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=69ff53013019d754e5be985abced1be2&wsTime=1745167238&wsSession=0bc191f1ddffb7a577cb6913-174515311799112&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
+电视剧频道 移,http://183.204.228.41/tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=b8e582515b3204d1e3e18a26389fa1be&wsTime=1745167238&wsSession=c9479120fb07605dc3ebef01-174515309209182&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
+文物宝库 移,http://183.204.228.43/tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=29a8ecbf08e04419aabb6df0b2110dc5&wsTime=1745167238&wsSession=e3c1036e4beac94f4b93de2a-174515312583436&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
+武术世界 移,http://183.204.228.41/tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=f9ff83346135450292e22c874565dce6&wsTime=1745167238&wsSession=c9479120fb07605dc3ebef01-174515313006569&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
+象世界 移,http://183.204.228.35/tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=e86ef7f9a0cb3c38ebd5e7c062980c17&wsTime=1745167538&wsSession=cf79e31dc51833ff4dfe8006-174515314551685&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
+晴彩中原 移,http://183.204.228.37/tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=79f56e2db5b3d84c514e27e5757ba11a&wsTime=1745167238&wsSession=e668377f22be2fc4842e6b2c-174515313215804&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
+移动戏曲 移,https://3grhdgmt1gy4nhct18yzdec3pqt5gg3dqf33zehufcfsugmuep318e.100ycdn.com/tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=efb9dc06849243ea17be155c3a8f4c0b&wsTime=1745167238&wsSession=e3c1036e4beac94f4b93de2a-174515313456088&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
 河南|浚县一套,http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
 河南|汤阴综合,http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
 内黄综合频道,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
@@ -346,6 +346,7 @@ CCTV-17 HD,http://39.165.196.149:9003//hls/17/index.m3u8
 海口三套,http://124.225.35.97:16080/live/tv2403.m3u8
 
 少儿动画,#genre#
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 倒霉熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 熊熊乐园|01,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b333914bfe2b49d793d41f3233505f5f/1200.m3u8
 熊熊乐园|02,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7d35b256e4794918837e184d35f34492/1200.m3u8
