@@ -1,11 +1,12 @@
 哈喽朋友！本直播源仅供个人测试,切勿外传 
 
 
-经典神乐,#genre#
+欢迎体验华夏,#genre#
+本软免费分享,http://3501776.xyz:35455/douyu/3870925
+仅供个人测试,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
 获取长期盒子,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
 关注微信公众号,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
 皇兄语音盒子,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
-免费分享仅供测试,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
 
 央央卫卫(移),#genre#
 CCTV-1 HD,http://39.134.65.207/PLTV/88888888/224/3221225816/1.m3u8
@@ -538,9 +539,7 @@ CCTV-17 HD,http://39.165.196.149:9003//hls/17/index.m3u8
 内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 开心锤锤,http://3501776.xyz:35455/douyu/9018297
 开心锤锤,http://huanqiuzhibo.cn/manifest/douyu.php?id=9018297 
-菠萝屋SpongeBob,http://3501776.xyz:35455/douyu/12400977
-PP看动漫,http://124.248.69.76:26781/douyu/9837291
-OneGuy丶,http://124.248.69.76:26781/douyu/9734098
+
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 葫芦兄弟,http://jsmov2.a.yximgs.com/bs3/video-hls/5223049779458999093_hlsb.m3u8 
@@ -714,12 +713,14 @@ OneGuy丶,http://124.248.69.76:26781/douyu/9734098
 
 
 万千世界,#genre# 
+巴黎奥运开幕式,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
+世界未解之谜M,http://124.248.69.76:26781/douyu/9369468
+宇宙探索飞船,http://124.248.69.76:26781/douyu/9456028
 瑜伽频道,http://124.248.69.76:26781/douyu/10205199
 篮球频道,http://3501776.xyz:35455/douyu/8434598
-经典音乐,http://3501776.xyz:35455/douyu/3870925
-经典音乐,http://124.248.69.76:26781/douyu/3870925
-女团舞蹈,http://3501776.xyz:35455/douyu/11327316
-巴黎奥运开幕式,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
+
+
+
 MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8  
 红牛TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
