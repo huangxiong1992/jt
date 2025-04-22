@@ -714,13 +714,7 @@ CCTV-17 HD,http://39.165.196.149:9003//hls/17/index.m3u8
 
 万千世界,#genre# 
 巴黎奥运开幕式,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
-世界未解之谜M,http://124.248.69.76:26781/douyu/9369468
-宇宙探索飞船,http://124.248.69.76:26781/douyu/9456028
-瑜伽频道,http://124.248.69.76:26781/douyu/10205199
 篮球频道,http://3501776.xyz:35455/douyu/8434598
-
-
-
 MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8  
 红牛TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
@@ -2276,13 +2270,13 @@ Hello！树先生,https://vip.ffzy-play6.com/20221019/130_28e143c8/3000k/hls/mix
 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8一起看港剧(斗鱼),http://124.248.69.76:26781/douyu/5061550
 燕双鹰1,http://jiaojirentv.top/2020/yy.php?id=1354143942
 燕双鹰2,http://jiaojirentv.top/2020/yy.php?id=1352227153
-燕双鹰
 
 
 
 
-快乐时光,#genre#
-小宝乐翻天,http://3501776.xyz:35455/yy/1354930971
+
+经典小品,#genre#
+
 快乐集结,http://3501776.xyz:35455/yy/1354930919
 欢乐集结,http://3501776.xyz:35455/yy/1354931582
 爆笑来袭,http://3501776.xyz:35455/yy/1382735558
