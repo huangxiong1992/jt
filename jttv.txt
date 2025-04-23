@@ -6,9 +6,9 @@
 仅供个人测试,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
 获取长期盒子,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
 关注微信公众号,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
-皇兄语音盒子,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
+皇兄语音云盒,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
 
-央卫备用(全),#genre#
+央央卫卫(全),#genre#
 CCTV-1 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745365504&url=3d94d4751a169c75609f88f09fa9e36f924e
 CCTV-2 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745365504&url=3d94d4751922aa75609f88f09fa9e36f924e
 CCTV-3 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745367151&url=3d94d475183e8675609f88f09fa9e36f924e
