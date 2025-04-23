@@ -8,6 +8,62 @@
 关注微信公众号,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
 皇兄语音盒子,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
 
+央卫备用(全),#genre#
+CCTV-1 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745365504&url=3d94d4751a169c75609f88f09fa9e36f924e
+CCTV-2 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745365504&url=3d94d4751922aa75609f88f09fa9e36f924e
+CCTV-3 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745367151&url=3d94d475183e8675609f88f09fa9e36f924e
+CCTV-4 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745367151&url=3d94d4751f0c8275609f88f09fa9e36f924e
+CCTV-5 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745367151&url=3d94d4751e3fa675609f88f09fa9e36f924e
+CCTV-6 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745367151&url=3d94d4751d068c75609f88f09fa9e36f924e
+CCTV-7 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745367151&url=3d94d4751c0f9e75609f88f09fa9e36f924e
+CCTV-8 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745367151&url=3d94d4751302af75609f88f09fa9e36f924e
+CCTV-9 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=3d94d4751226b075609f88f09fa9e36f924e
+CCTV-10 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=3d94d4751a778d38269882f182ffa031d40380
+CCTV-11 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=3d94d4751a76a73c269882f182ffa031d40380
+CCTV-12 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=3d94d4751a75b21e269882f182ffa031d40380
+CCTV-13 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=3d94d4751a749120269882f182ffa031d40380
+CCTV-14 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=3d94d4751a73b938269882f182ffa031d40380
+CCTV-15 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=3d94d4751a72a72a269882f182ffa031d40380
+CCTV-16 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=3d94d4751a718b2d269882f182ffa031d40380
+CCTV-17 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=3d94d4751a709f36269882f182ffa031d40380
+北京卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=1cbdf7504721c733679589edc9eabd29df
+天津卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=0abdf750430ec733679589edc9eabd29df
+深圳卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=0da0f34c526881346d9494bb8ab4fb64
+河南卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=04a6f7506a30c733679589edc9eabd29df
+河北卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=16b5f7507f299075609f88f09fa9e36f924e
+山东卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=0db3f7507a12c733679589edc9eabd29df
+山西卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=0daff750591dc733679589edc9eabd29df
+湖南卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=16b9f7505f36c733679589edc9eabd29df
+湖北卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=16b5f750732ec733679589edc9eabd29df
+广东卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=19b3f7506100c733679589edc9eabd29df
+江苏卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=14a4f7507922c733679589edc9eabd29df
+江西卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=14aff7506837c733679589edc9eabd29df
+浙江卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=04bdf7505a2ac733679589edc9eabd29df
+安徽卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=1fbff7504500c733679589edc9eabd29df
+辽宁卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=12b9f7507f2dc733679589edc9eabd29df
+陕西卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=0daff7507f31a375609f88f09fa9e36f924e
+江西卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=14aff7506837c733679589edc9eabd29df
+广西卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=19aff750601dc733679589edc9eabd29df
+东方卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=1ab1f7504821c733679589edc9eabd29df
+东南卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=1ab9f7507120c733679589edc9eabd29df
+东南卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=18bdf7507331c733679589edc9eabd29df
+云南卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=07b9f7505f1fc733679589edc9eabd29df
+四川卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=0db4f7504c35c733679589edc9eabd29df
+贵州卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=19adf7505a01c733679589edc9eabd29df
+内蒙古卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=10bae7547e25c733679589edc9eabd29df
+黑龙江卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=16bbea544722c733679589edc9eabd29df
+吉林卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=14bbf7504229c733679589edc9eabd29df
+辽宁卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745374116&url=12b9f7507f2dc733679589edc9eabd29df
+宁夏卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=10aff750432fc733679589edc9eabd29df
+甘肃卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=19a4f7505814c733679589edc9eabd29df
+青海卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=0fbff7504f15c733679589edc9eabd29df
+新疆卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=06bdf7504937c733679589edc9eabd29df
+西藏卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=06b4f7506d08c733679589edc9eabd29df
+青海卫视 HDhttp://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745374116&url=0fbff7504f15c733679589edc9eabd29df
+海南卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=16b9f7507b038c31269882f182ffa031d40380
+兵团卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=1ca3f7507b37c733679589edc9eabd29df
+
+
 央央卫卫(移),#genre#
 CCTV-1 HD,http://39.134.65.207/PLTV/88888888/224/3221225816/1.m3u8
 CCTV-2 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -486,6 +542,7 @@ CCTV-17 HD,http://39.165.196.149:9003//hls/17/index.m3u8
 文成新闻综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 庆元新闻综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
+晋江电视台,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745370946&url=06baf7504a08c733679589edc9eabd29df
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
@@ -537,6 +594,7 @@ CCTV-17 HD,http://39.165.196.149:9003//hls/17/index.m3u8
 少儿动画,#genre#
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
+黑莓动画,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=16b3e87a616881346d9494bb8ab4fb64
 开心锤锤,http://3501776.xyz:35455/douyu/9018297
 开心锤锤,http://huanqiuzhibo.cn/manifest/douyu.php?id=9018297 
 
@@ -754,7 +812,8 @@ QQ飞车·手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.fl
 
 
 
-影视轮播,#genre#
+经典影视,#genre#
+重温经典,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745370946&url=04a0ea477b20c733679589edc9eabd29df
 周星驰1,https://fmbox.cc/huya.php?id=11342412
 周星驰2,https://fmbox.cc/huya.php?id=11336587
 李连杰,https://fmbox.cc/huya.php?id=11342390
