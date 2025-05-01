@@ -9,7 +9,6 @@
 皇兄语音云盒,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
 
 央央卫卫(全),#genre#
-CCTV-1 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=3d94d4751a169c75609f88f09fa9e36f924e
 CCTV-1 HD,http://118.24.77.37/indexh.php?okaysites=1&timestamp=1745838013&url=cctv1Qt/index.m3u8
 CCTV-1 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=16b9f7505f36c733679589edc9eabd29df
 CCTV-2 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=3d94d4751922aa75609f88f09fa9e36f924e
