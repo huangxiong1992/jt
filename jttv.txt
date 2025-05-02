@@ -8,65 +8,8 @@
 关注微信公众号,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
 皇兄语音云盒,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
 
-央央卫卫(全),#genre#
-CCTV-1 HD,http://118.24.77.37/indexh.php?okaysites=1&timestamp=1745838013&url=cctv1Qt/index.m3u8
-CCTV-1 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=16b9f7505f36c733679589edc9eabd29df
-CCTV-2 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=3d94d4751922aa75609f88f09fa9e36f924e
-CCTV-3 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=3d94d475183e8675609f88f09fa9e36f924e
-CCTV-4 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=3d94d4751f0c8275609f88f09fa9e36f924e
-CCTV-5 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=3d94d4751e3fa675609f88f09fa9e36f924e
-CCTV-6 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=3d94d4751d068c75609f88f09fa9e36f924e
-CCTV-7 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=3d94d4751c0f9e75609f88f09fa9e36f924e
-CCTV-8 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=3d94d4751302af75609f88f09fa9e36f924e
-CCTV-9 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=3d94d4751226b075609f88f09fa9e36f924e
-CCTV-10 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=3d94d4751a778d38269882f182ffa031d40380
-CCTV-11 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=3d94d4751a76a73c269882f182ffa031d40380
-CCTV-12 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=3d94d4751a75b21e269882f182ffa031d40380
-CCTV-13 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=3d94d4751a749120269882f182ffa031d40380
-CCTV-14 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=3d94d4751a73b938269882f182ffa031d40380
-CCTV-15 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=3d94d4751a72a72a269882f182ffa031d40380
-CCTV-16 HD，http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=3d94d4751a718b2d269882f182ffa031d40380
-CCTV-17 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=3d94d4751a709f36269882f182ffa031d40380
-北京卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=1cbdf7504721c733679589edc9eabd29df
-天津卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=0abdf750430ec733679589edc9eabd29df
-深圳卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=0da0f34c526881346d9494bb8ab4fb64
-河南卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=04a6f7506a30c733679589edc9eabd29df
-河北卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=16b5f7507f299075609f88f09fa9e36f924e
-山东卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=0db3f7507a12c733679589edc9eabd29df
-山西卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=0daff750591dc733679589edc9eabd29df
-湖南卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745838013&url=16b9f7505f36c733679589edc9eabd29df
-湖北卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=16b5f750732ec733679589edc9eabd29df
-广东卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=19b3f7506100c733679589edc9eabd29df
-江苏卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=14a4f7507922c733679589edc9eabd29df
-江西卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=14aff7506837c733679589edc9eabd29df
-浙江卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=04bdf7505a2ac733679589edc9eabd29df
-安徽卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=1fbff7504500c733679589edc9eabd29df
-辽宁卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=12b9f7507f2dc733679589edc9eabd29df
-陕西卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=0daff7507f31a375609f88f09fa9e36f924e
-江西卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745838013&url=14aff7506837c733679589edc9eabd29df
-广西卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=19aff750601dc733679589edc9eabd29df
-东方卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=1ab1f7504821c733679589edc9eabd29df
-东南卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=1ab9f7507120c733679589edc9eabd29df
-云南卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=07b9f7505f1fc733679589edc9eabd29df
-四川卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=0db4f7504c35c733679589edc9eabd29df
-贵州卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=19adf7505a01c733679589edc9eabd29df
-内蒙古卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=10bae7547e25c733679589edc9eabd29df
-黑龙江卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745838013&url=16bbea544722c733679589edc9eabd29df
-吉林卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=14bbf7504229c733679589edc9eabd29df
-辽宁卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745838013&url=12b9f7507f2dc733679589edc9eabd29df
-宁夏卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=10aff750432fc733679589edc9eabd29df
-甘肃卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=19a4f7505814c733679589edc9eabd29df
-青海卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=0fbff7504f15c733679589edc9eabd29df
-新疆卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=06bdf7504937c733679589edc9eabd29df
-西藏卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=06b4f7506d08c733679589edc9eabd29df
-青海卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745838013&url=0fbff7504f15c733679589edc9eabd29df
-海南卫视 HD,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=16b9f7507b038c31269882f182ffa031d40380
-兵团卫视 HD,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=1ca3f7507b37c733679589edc9eabd29df
-延边卫视,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=07b5f7505f08c733679589edc9eabd29df
-康巴卫视,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=15b5f7504620c733679589edc9eabd29df
-中国教育1,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=04b0ea5a6337c733679589edc9eabd29df
-中国教育2,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=04b0ea5a1935bf75609f88f09fa9e36f924e
-中国教育3,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=04b0ea5a18068475609f88f09fa9e36f924e
+
+
 
 
 
@@ -139,65 +82,6 @@ CCTV-5+ HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m
 晴彩中原 移,http://183.204.228.37/tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=79f56e2db5b3d84c514e27e5757ba11a&wsTime=1745167238&wsSession=e668377f22be2fc4842e6b2c-174515313215804&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
 移动戏曲 移,https://3grhdgmt1gy4nhct18yzdec3pqt5gg3dqf33zehufcfsugmuep318e.100ycdn.com/tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=efb9dc06849243ea17be155c3a8f4c0b&wsTime=1745167238&wsSession=e3c1036e4beac94f4b93de2a-174515313456088&wsIPSercert=501a30f4890d2c3281e110f5b5d1de27&wsiphost=local&wsBindIP=1
 
-
-
-
-央央卫卫(联),#genre#
-
-CCTV-1 HD,http://107.174.52.32/itv.php?id=CCTV1
-CCTV-2 HD,http://107.174.52.32/itv.php?id=CCTV2
-CCTV-3 HD,http://107.174.52.32/itv.php?id=CCTV3
-CCTV-4 HD,http://107.174.52.32/itv.php?id=CCTV4
-CCTV-5 HD,http://107.174.52.32/itv.php?id=CCTV5
-CCTV-6 HD,http://107.174.52.32/itv.php?id=CCTV6
-CCTV-7 HD,http://107.174.52.32/itv.php?id=CCTV7
-CCTV-8 HD,http://107.174.52.32/itv.php?id=CCTV8
-CCTV-9 HD,http://107.174.52.32/itv.php?id=CCTV9
-CCTV-10 HD,http://107.174.52.32/itv.php?id=CCTV10
-CCTV-11 HD,http://107.174.52.32/itv.php?id=CCTV11
-CCTV-12 HD,http://107.174.52.32/itv.php?id=CCTV12
-CCTV-13 HD,http://107.174.52.32/itv.php?id=CCTV13
-CCTV-14 HD,http://107.174.52.32/itv.php?id=CCTV14
-CCTV-15 HD,http://107.174.52.32/itv.php?id=CCTV15
-CCTV-16 HD,http://107.174.52.32/itv.php?id=CCTV16
-CCTV-17 HD,http://107.174.52.32/itv.php?id=CCTV17
-CCTV-5＋ HD,http://107.174.52.32/itv.php?id=CCTV5+
-CETV1 HD,http://107.174.52.32/itv.php?id=CETV1
-黑龙江卫视,http://107.174.52.32/itv.php?id=%e9%bb%91%e9%be%99%e6%b1%9f%e5%8d%ab%e8%a7%86
-吉林卫视,http://107.174.52.32/itv.php?id=%e5%90%89%e6%9e%97%e5%8d%ab%e8%a7%86
-辽宁卫视,http://107.174.52.32/itv.php?id=%e8%be%bd%e5%ae%81%e5%8d%ab%e8%a7%86
-北京卫视,http://ali.hlspull.yximgs.com/live/2181719b1cf56aa22714a4dd446fe981.flv
-北京卫视,http://107.174.52.32/itv.php?id=%e5%8c%97%e4%ba%ac%e5%8d%ab%e8%a7%86
-北京卫视,http://107.174.52.32/itv.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
-天津卫视,http://107.174.52.32/itv.php?id=%e5%a4%a9%e6%b4%a5%e5%8d%ab%e8%a7%86
-河北卫视,http://107.174.52.32/itv.php?id=%e6%b2%b3%e5%8c%97%e5%8d%ab%e8%a7%86
-河南卫视,http://107.174.52.32/itv.php?id=%e6%b2%b3%e5%8d%97%e5%8d%ab%e8%a7%86
-山东卫视,http://107.174.52.32/itv.php?id=%e5%b1%b1%e4%b8%9c%e5%8d%ab%e8%a7%86
-安徽卫视,http://107.174.52.32/itv.php?id=%e5%ae%89%e5%be%bd%e5%8d%ab%e8%a7%86
-江苏卫视,http://107.174.52.32/itv.php?id=%e6%b1%9f%e8%8b%8f%e5%8d%ab%e8%a7%86
-江西卫视,http://107.174.52.32/itv.php?id=%e6%b1%9f%e8%a5%bf%e5%8d%ab%e8%a7%86
-浙江卫视,http://107.174.52.32/itv.php?id=%e6%b5%99%e6%b1%9f%e5%8d%ab%e8%a7%86
-东方卫视,http://107.174.52.32/itv.php?id=%e4%b8%9c%e6%96%b9%e5%8d%ab%e8%a7%86
-东南卫视,http://107.174.52.32/itv.php?id=%e4%b8%9c%e5%8d%97%e5%8d%ab%e8%a7%86
-湖南卫视,http://107.174.52.32/itv.php?id=%e6%b9%96%e5%8d%97%e5%8d%ab%e8%a7%86
-湖北卫视,http://107.174.52.32/itv.php?id=%e6%b9%96%e5%8c%97%e5%8d%ab%e8%a7%86
-重庆卫视,http://107.174.52.32/itv.php?id=%e9%87%8d%e5%ba%86%e5%8d%ab%e8%a7%86
-四川卫视,http://107.174.52.32/itv.php?id=%e5%9b%9b%e5%b7%9d%e5%8d%ab%e8%a7%86
-贵州卫视,http://107.174.52.32/itv.php?id=%e8%b4%b5%e5%b7%9e%e5%8d%ab%e8%a7%86
-陕西卫视,http://107.174.52.32/itv.php?id=%e9%99%95%e8%a5%bf%e5%8d%ab%e8%a7%86
-宁夏卫视,http://107.174.52.32/itv.php?id=%e5%ae%81%e5%a4%8f%e5%8d%ab%e8%a7%86
-甘肃卫视,http://107.174.52.32/itv.php?id=%e7%94%98%e8%82%83%e5%8d%ab%e8%a7%86
-青海卫视,http://107.174.52.32/itv.php?id=%e9%9d%92%e6%b5%b7%e5%8d%ab%e8%a7%86
-新疆卫视,http://107.174.52.32/itv.php?id=%e6%96%b0%e7%96%86%e5%8d%ab%e8%a7%86
-山西卫视,http://107.174.52.32/itv.php?id=%e5%b1%b1%e8%a5%bf%e5%8d%ab%e8%a7%86
-广西卫视,http://107.174.52.32/itv.php?id=%e5%b9%bf%e8%a5%bf%e5%8d%ab%e8%a7%86
-广东卫视,http://107.174.52.32/itv.php?id=%e5%b9%bf%e4%b8%9c%e5%8d%ab%e8%a7%86
-深圳卫视,http://107.174.52.32/itv.php?id=%e6%b7%b1%e5%9c%b3%e5%8d%ab%e8%a7%86
-内蒙古卫视,http://107.174.52.32/itv.php?id=%e5%86%85%e8%92%99%e5%8f%a4%e5%8d%ab%e8%a7%86
-海南卫视,http://107.174.52.32/itv.php?id=%e6%b5%b7%e5%8d%97%e5%8d%ab%e8%a7%86
-西藏卫视,http://107.174.52.32/itv.php?id=%e8%a5%bf%e8%97%8f%e5%8d%ab%e8%a7%86
-延边卫视,http://107.174.52.32/itv.php?id=%e5%bb%b6%e8%be%b9%e5%8d%ab%e8%a7%86
-兵团卫视,http://107.174.52.32/itv.php?id=%e5%85%b5%e5%9b%a2%e5%8d%ab%e8%a7%86
 
 
 
