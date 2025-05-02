@@ -25,12 +25,9 @@ CCTV-13,http://goo.bkpcp.top/mg/cctv13
 CCTV-14,http://goo.bkpcp.top/mg/cctv14
 CCTV-17,http://goo.bkpcp.top/mg/cctv17
 浙江卫视,http://goo.bkpcp.top/mg/zjws
-云南卫视,http://goo.bkpcp.top/mg/ynws
 甘肃卫视,http://goo.bkpcp.top/mg/gsws
-江西卫视,http://goo.bkpcp.top/mg/jxws
 江苏卫视,http://goo.bkpcp.top/mg/jsws
 广西卫视,http://goo.bkpcp.top/mg/gxws
-新疆卫视,http://goo.bkpcp.top/mg/xjws
 西藏卫视,http://goo.bkpcp.top/mg/xzws
 海南卫视,http://goo.bkpcp.top/mg/hinws
 
