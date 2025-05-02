@@ -8,6 +8,31 @@
 关注微信公众号,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
 皇兄语音云盒,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
 
+央央卫卫(一),#genre#
+CCTV-1,http://goo.bkpcp.top/mg/cctv1
+CCTV-2,http://goo.bkpcp.top/mg/cctv2
+CCTV-3,http://goo.bkpcp.top/mg/cctv3
+CCTV-4,http://goo.bkpcp.top/mg/cctv4
+CCTV-5,http://goo.bkpcp.top/mg/cctv5
+CCTV-5+,http://goo.bkpcp.top/mg/cctv5p
+CCTV-7,http://goo.bkpcp.top/mg/cctv7
+CCTV-8,http://goo.bkpcp.top/mg/cctv8
+CCTV-9,http://goo.bkpcp.top/mg/cctv9
+CCTV-10,http://goo.bkpcp.top/mg/cctv10
+CCTV-11,http://goo.bkpcp.top/mg/cctv11
+CCTV-12,http://goo.bkpcp.top/mg/cctv12
+CCTV-13,http://goo.bkpcp.top/mg/cctv13
+CCTV-14,http://goo.bkpcp.top/mg/cctv14
+CCTV-17,http://goo.bkpcp.top/mg/cctv17
+浙江卫视,http://goo.bkpcp.top/mg/zjws
+云南卫视,http://goo.bkpcp.top/mg/ynws
+甘肃卫视,http://goo.bkpcp.top/mg/gsws
+江西卫视,http://goo.bkpcp.top/mg/jxws
+江苏卫视,http://goo.bkpcp.top/mg/jsws
+广西卫视,http://goo.bkpcp.top/mg/gxws
+新疆卫视,http://goo.bkpcp.top/mg/xjws
+西藏卫视,http://goo.bkpcp.top/mg/xzws
+海南卫视,http://goo.bkpcp.top/mg/hinws
 
 
 
@@ -560,9 +585,6 @@ QQ飞车·手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.fl
 
 
 经典影视,#genre#
-重温经典,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=04a0ea477b20c733679589edc9eabd29df
-古装剧场,http://123.138.88.162:3389/zblive.php?okaysites=1&timestamp=1745834460&url=19adea40582ec733679589edc9eabd29df
-欢乐剧场,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=16bbea404c20c733679589edc9eabd29df
 周星驰1,https://fmbox.cc/huya.php?id=11342412
 周星驰2,https://fmbox.cc/huya.php?id=11336587
 李连杰,https://fmbox.cc/huya.php?id=11342390
