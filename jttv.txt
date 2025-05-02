@@ -15,6 +15,7 @@ CCTV-3,http://goo.bkpcp.top/mg/cctv3
 CCTV-4,http://goo.bkpcp.top/mg/cctv4
 CCTV-5,http://goo.bkpcp.top/mg/cctv5
 CCTV-5+,http://goo.bkpcp.top/mg/cctv5p
+CCTV-6,http://goo.bkpcp.top/mg/cctv6
 CCTV-7,http://goo.bkpcp.top/mg/cctv7
 CCTV-8,http://goo.bkpcp.top/mg/cctv8
 CCTV-9,http://goo.bkpcp.top/mg/cctv9
@@ -23,13 +24,24 @@ CCTV-11,http://goo.bkpcp.top/mg/cctv11
 CCTV-12,http://goo.bkpcp.top/mg/cctv12
 CCTV-13,http://goo.bkpcp.top/mg/cctv13
 CCTV-14,http://goo.bkpcp.top/mg/cctv14
+CCTV-15,http://goo.bkpcp.top/mg/cctv15
 CCTV-17,http://goo.bkpcp.top/mg/cctv17
+河南卫视,http://goo.bkpcp.top/mg/hnws
+吉林卫视,http://goo.bkpcp.top/mg/jlws
+陕西卫视,http://goo.bkpcp.top/mg/sxws
+宁夏卫视,http://goo.bkpcp.top/mg/nxws
 浙江卫视,http://goo.bkpcp.top/mg/zjws
 甘肃卫视,http://goo.bkpcp.top/mg/gsws
 江苏卫视,http://goo.bkpcp.top/mg/jsws
 广西卫视,http://goo.bkpcp.top/mg/gxws
 西藏卫视,http://goo.bkpcp.top/mg/xzws
 海南卫视,http://goo.bkpcp.top/mg/hinws
+云南卫视,http://goo.bkpcp.top/mg/ynws
+甘肃卫视,http://goo.bkpcp.top/mg/gsws
+青海卫视,http://goo.bkpcp.top/mg/qhws
+湖北卫视,http://goo.bkpcp.top/mg/hubws
+大湾区卫视,http://goo.bkpcp.top/mg/dwqws
+贵州卫视,http://goo.bkpcp.top/mg/gzws
 
 
 
@@ -370,7 +382,6 @@ CCTV-5+ HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m
 
 开心锤锤,http://3501776.xyz:35455/douyu/9018297
 开心锤锤,http://huanqiuzhibo.cn/manifest/douyu.php?id=9018297 
-黑莓动画,http://219.145.201.198:3389/zblive.php?okaysites=1&timestamp=1745834460&url=16b3e87a616881346d9494bb8ab4fb64
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 葫芦兄弟,http://jsmov2.a.yximgs.com/bs3/video-hls/5223049779458999093_hlsb.m3u8 
