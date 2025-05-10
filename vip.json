@@ -18,5 +18,33 @@
       "changeable": 0
     }
   ],
-  "lives":[
-{"name":"飞快线","type":0,"url":"https://gitee.com/qqyywb/250321/raw/master/123.json","playerType":1}]}
+  "lives": [
+    {
+      "name": "华夏",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/testTV/refs/heads/main/MV.txt ",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "IPV6①",
+      "type": 0,
+      "url": "",
+      "playerType": 1
+    },
+    {
+      "name": "IPV6②",
+      "type": 0,
+      "url": "",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "平台直播",
+      "type": 0,
+      "url": "",
+      "ua": "okhttp/3.15",
+      "playerType": 2
+    }
+  ]
+}
