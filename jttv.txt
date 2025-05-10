@@ -646,12 +646,7 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 四川🥝达州新闻,http://tv.drs.dzxw.net:80/channellive/xwzhpd-dz1.flv
 
 
-湖南,#genre#
-湖南都市,http://116.128.242.83:9901/tsfile/live/0139_1.m3u8
-湖南娱乐,http://116.128.242.83:9901/tsfile/live/0125_1.m3u8
-湖南经视,http://116.128.242.83:9901/tsfile/live/0131_1.m3u8
-湖南电影,http://116.128.242.83:9901/tsfile/live/1009_1.m3u8
-湖南电视剧,http://116.128.242.83:9901/tsfile/live/0120_1.m3u8
+
 
 广西,#genre#
 南宁影视,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
@@ -664,19 +659,6 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 
 
 
-
-黑龙江(移),#genre#
-黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
-黑龙江农业科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
-黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
-黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
-黑龙新闻法治,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
-鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
-佳木斯新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-齐齐哈尔经济法制,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
-齐齐哈尔新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
-双鸭山公共,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
-双鸭山综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 
 
 
@@ -698,8 +680,30 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 
 
 
+湖南,#genre#
+湖南都市,http://116.128.242.83:9901/tsfile/live/0139_1.m3u8
+湖南娱乐,http://116.128.242.83:9901/tsfile/live/0125_1.m3u8
+湖南经视,http://116.128.242.83:9901/tsfile/live/0131_1.m3u8
+湖南电影,http://116.128.242.83:9901/tsfile/live/1009_1.m3u8
+湖南电视剧,http://116.128.242.83:9901/tsfile/live/0120_1.m3u8
 
 
+
+
+
+
+黑龙江(移),#genre#
+黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+黑龙江农业科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
+黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
+黑龙新闻法治,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
+鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+佳木斯新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+齐齐哈尔经济法制,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
+齐齐哈尔新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+双鸭山公共,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
+双鸭山综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 
 
 
@@ -709,11 +713,10 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 
 
 少儿动画,#genre#
-中国国际少儿,https://livesec.mudu.tv/watch/bk8coj.m3u8
-北京卡酷少儿,http://qtest-play.btime.cn/live/btv_sn_20170706_s10.m3u8
+
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
-CCTV-14,http://goo.bkpcp.top/mg/cctv14
+
 开心锤锤,http://3501776.xyz:35455/douyu/9018297
 开心锤锤,http://huanqiuzhibo.cn/manifest/douyu.php?id=9018297 
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
