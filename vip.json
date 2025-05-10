@@ -18,11 +18,10 @@
   ],
   "lives": [
     {
-      "name": "IPV4若卡顿切IPV6",
+      "name": "IPV6",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/testTV/refs/heads/main/MV.txt ",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/testTV/refs/heads/main/MV.txt",
       "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "IPV6①",
