@@ -518,8 +518,18 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed?
 
 
-江苏,#genre#
+上海,#genre#
+哈哈炫动,http://60.29.124.66:6080/hls/62/index.m3u8
 
+
+
+
+
+
+
+江苏,#genre#
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
+南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 江苏🍊如东新闻,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 江苏🍊泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
 江苏🍊睢宁三农频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd
@@ -636,9 +646,26 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 四川🥝达州新闻,http://tv.drs.dzxw.net:80/channellive/xwzhpd-dz1.flv
 
 
+湖南,#genre#
+湖南都市,http://116.128.242.83:9901/tsfile/live/0139_1.m3u8
+湖南娱乐,http://116.128.242.83:9901/tsfile/live/0125_1.m3u8
+湖南经视,http://116.128.242.83:9901/tsfile/live/0131_1.m3u8
+湖南电影,http://116.128.242.83:9901/tsfile/live/1009_1.m3u8
+湖南电视剧,http://116.128.242.83:9901/tsfile/live/0120_1.m3u8
+
+广西,#genre#
+南宁影视,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+南宁综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 
 
-黑龙江,#genre#
+
+
+
+
+
+
+黑龙江(移),#genre#
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 黑龙江农业科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
