@@ -70,49 +70,6 @@ CCTV-5+ HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m
 
 
 
-央央卫卫(全),#genre#
-CCTV1,https://116.131.188.198:5550/hls/1/index.m3u8
-CCTV2,https://116.131.188.198:5550/hls/2/index.m3u8
-CCTV3,https://116.131.188.198:5550/hls/3/index.m3u8
-CCTV4,https://116.131.188.198:5550/hls/4/index.m3u8
-CCTV5,https://116.131.188.198:5550/hls/5/index.m3u8
-CCTV6,https://116.131.188.198:5550/hls/6/index.m3u8
-CCTV7,https://116.131.188.198:5550/hls/7/index.m3u8
-CCTV8,https://116.131.188.198:5550/hls/8/index.m3u8
-CCTV9,https://116.131.188.198:5550/hls/9/index.m3u8
-CCTV10,https://116.131.188.198:5550/hls/10/index.m3u8
-CCTV11标清,https://116.131.188.198:5550/hls/11/index.m3u8
-CCTV12,https://116.131.188.198:5550/hls/12/index.m3u8
-CCTV13,https://116.131.188.198:5550/hls/13/index.m3u8
-CCTV14,https://116.131.188.198:5550/hls/14/index.m3u8
-CCTV15标清,https://116.131.188.198:5550/hls/15/index.m3u8
-CGTN,https://116.131.188.198:5550/hls/16/index.m3u8
-CCTV5+,https://116.131.188.198:5550/hls/17/index.m3u8
-河北卫视,https://116.131.188.198:5550/hls/18/index.m3u8
-邢台新闻综合,https://116.131.188.198:5550/hls/19/index.m3u8
-湖南卫视,https://116.131.188.198:5550/hls/20/index.m3u8
-浙江卫视,https://116.131.188.198:5550/hls/21/index.m3u8
-江苏卫视,https://116.131.188.198:5550/hls/22/index.m3u8
-北京卫视,https://116.131.188.198:5550/hls/23/index.m3u8
-东方卫视,https://116.131.188.198:5550/hls/24/index.m3u8
-天津卫视,https://116.131.188.198:5550/hls/25/index.m3u8
-深圳卫视,https://116.131.188.198:5550/hls/26/index.m3u8
-山东卫视,https://116.131.188.198:5550/hls/27/index.m3u8
-广东卫视,https://116.131.188.198:5550/hls/28/index.m3u8
-黑龙江卫视,https://116.131.188.198:5550/hls/29/index.m3u8
-辽宁卫视,https://116.131.188.198:5550/hls/30/index.m3u8
-安徽卫视,https://116.131.188.198:5550/hls/31/index.m3u8
-湖北卫视,https://116.131.188.198:5550/hls/32/index.m3u8
-四川卫视,https://116.131.188.198:5550/hls/33/index.m3u8
-重庆卫视,https://116.131.188.198:5550/hls/34/index.m3u8
-河南卫视,https://116.131.188.198:5550/hls/35/index.m3u8
-金鹰纪实,https://116.131.188.198:5550/hls/36/index.m3u8
-贵州卫视,https://116.131.188.198:5550/hls/39/index.m3u8
-江西卫视,https://116.131.188.198:5550/hls/40/index.m3u8
-东南卫视,https://116.131.188.198:5550/hls/41/index.m3u8
-吉林卫视,https://116.131.188.198:5550/hls/42/index.m3u8
-河北都市,https://116.131.188.198:5550/hls/43/index.m3u8
-CETV1,https://116.131.188.198:5550/hls/38/index.m3u8
 
 
 
@@ -123,8 +80,7 @@ CETV1,https://116.131.188.198:5550/hls/38/index.m3u8
 
 
 
-
-央央卫卫(备),#genre#
+央央卫卫(咪),#genre#
 CCTV-1,http://goo.bkpcp.top/mg/cctv1
 CCTV-2,http://goo.bkpcp.top/mg/cctv2
 CCTV-3,http://goo.bkpcp.top/mg/cctv3
@@ -332,7 +288,45 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 海口三套,http://124.225.35.97:16080/live/tv2403.m3u8
 
 
-河南地方,#genre#
+河南,#genre#
+河南卫视,http://live.nctv.top/DYjsklis/hntv.php?id=hnws
+河南新闻,http://live.nctv.top/DYjsklis/hntv.php?id=hnxw
+河南都市,http://live.nctv.top/DYjsklis/hntv.php?id=hnds
+河南民生,http://live.nctv.top/DYjsklis/hntv.php?id=hnms
+河南法治,http://live.nctv.top/DYjsklis/hntv.php?id=hnfz
+河南电视剧,http://live.nctv.top/DYjsklis/hntv.php?id=hndsj
+河南公共,http://live.nctv.top/DYjsklis/hntv.php?id=hngg
+河南乡村,http://live.nctv.top/DYjsklis/hntv.php?id=hnxc
+河南国际,http://live.nctv.top/DYjsklis/hntv.php?id=hngj
+河南梨园,http://live.nctv.top/DYjsklis/hntv.php?id=hnly
+文物宝库,http://live.nctv.top/DYjsklis/hntv.php?id=wwbk
+武术世界,http://live.nctv.top/DYjsklis/hntv.php?id=wspd
+睛彩中原,http://live.nctv.top/DYjsklis/hntv.php?id=jczy
+象视界,http://live.nctv.top/DYjsklis/hntv.php?id=xsj
+国学频道,http://live.nctv.top/DYjsklis/hntv.php?id=gxpd
+郑州新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=zz1
+开封新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=kf1
+洛阳新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=ly1
+平顶山新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=pds1
+安阳新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=ay1
+鹤壁新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=hb1
+新乡新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=xx1
+焦作新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=jz1
+濮阳新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=py1
+许昌新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=xc1
+漯河新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=lh1
+三门峡新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=smx1
+南阳新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=ny1
+商丘新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=sq1
+信阳新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=xy1
+周口新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=zk1
+驻马店新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=zmd1
+济源新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=jy1
+
+
+
+
+
 
 
 [河南]焦作综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
@@ -417,6 +411,10 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
 方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
 温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
+
+
+
+
 
 
 
@@ -668,6 +666,32 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 青海🥝化隆综合,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
 
 
+广东,#genre#
+广东影视,http://222.128.55.152:9080/live/gdys.m3u8
+广东民生,http://222.128.55.152:9080/live/gdms.m3u8
+广东体育,http://222.128.55.152:9080/live/gdty.m3u8
+广东珠江,http://222.128.55.152:9080/live/gdzj.m3u8
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+大湾区,http://222.128.55.152:9080/live/dwq.m3u8
+东莞生活,http://php.jdshipin.com:8880/0769.php?id=shzx
+
+
+
+
+广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=d3dad1fd1a965ff59d3db3990b923267&txTime=18ee6e4efc1
+广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
+广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
+广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
+广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=c180b67d43e34b97c970524c05ef3b4e&txTime=18ee6e4efc1
+广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f8218ee&txTime=191b60ce0f6
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
+广州番禺新闻,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv?fbl=$超清
+
+
+
+
 
 
 
@@ -679,8 +703,20 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 贵州 七星关电视台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 
 
+江西,#genre#
+江西教育,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxjy
+
+
+
 
 湖南,#genre#
+湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
+湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
+湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
+湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
+湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
+湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
+湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
 湖南都市,http://116.128.242.83:9901/tsfile/live/0139_1.m3u8
 湖南娱乐,http://116.128.242.83:9901/tsfile/live/0125_1.m3u8
 湖南经视,http://116.128.242.83:9901/tsfile/live/0131_1.m3u8
@@ -690,9 +726,28 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 
 
 
+西藏,#genre#
+西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
+西藏藏语,http://php.jdshipin.com:8880/xztv.php?id=zy
+西藏影视,http://php.jdshipin.com:8880/xztv.php?id=ys
+
+
+
+
+
+
 
 
 黑龙江(移),#genre#
+黑龙江,#genre#
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
+哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
+哈尔滨新闻,http://stream.hrbtv.net/xwzh/sd/live.m3u8
+齐齐哈尔新闻,https://rmplive.hljtv.com/live/qiqihaer.m3u8
+
+
+
+
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 黑龙江农业科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
