@@ -119,20 +119,6 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 
 
 
-文化教育,#genre#
-CEC文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-CEC旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-CEC教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-CEC健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
-
-华文三套,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-华文三套,https://0472.org/hls/cgtnx.m3u8
-华文四套,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-华文四套,https://0472.org/hls/cgtn.m3u8
-华文五套,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-华文五套,https://0472.org/hls/cgtne.m3u8
-华文七套,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-华文七套,https://0472.org/hls/cgtna.m3u8
 
 
 
@@ -1817,6 +1803,20 @@ Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.
 广场舞43,https://vd3.bdstatic.com/mda-nd9gfk9i5gjjc949/cae_h264_delogo/1649590943331366674/mda-nd9gfk9i5gjjc949.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650257611-0-0-7052678f09559f6ca353cbd52bef7c6b&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1411194650&vid=11826523506628151737&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=791&split=73128
 
 
+文化教育,#genre#
+CEC文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CEC旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CEC教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CEC健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+
+华文三套,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+华文三套,https://0472.org/hls/cgtnx.m3u8
+华文四套,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+华文四套,https://0472.org/hls/cgtn.m3u8
+华文五套,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+华文五套,https://0472.org/hls/cgtne.m3u8
+华文七套,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+华文七套,https://0472.org/hls/cgtna.m3u8
 
 
 
