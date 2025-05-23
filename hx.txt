@@ -15,17 +15,6 @@
 
 {"key":"星芽短剧","name":"蓝光┃短剧A","type":3,"api":"csp_AppXYGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"甜圈短剧","name":"蓝光┃短剧B","type":3,"api":"csp_TianQuanGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
-{
-      "key": "✨毒舌短剧✨",
-      "name": "蓝光┃短剧C",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/4k.jar",  
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/json/refs/heads/main/dsdj.json"
-    },
 {"key":"yhdm","name":"蓝光┃动漫A","type":3,"api":"csp_YHDMGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":15},
 {"key":"动漫巴士","name":"蓝光┃动漫B","type":3,"api":"csp_Dm84Guard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {"key":"快手直播","name":"快快┃直播","type":3,"api":"csp_KsLiveGuard","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},
