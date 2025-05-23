@@ -10,6 +10,15 @@
 "timeout":10},
 {"key":"文才","name":"蓝光┃速播","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
 "timeout":10},
+{
+      "key": "农民影视",
+      "name": "蓝光┃速播",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/nmin.jar",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn"
+    },
 
 {"key":"韩圈","name":"蓝光┃韩剧","type":3,"api":"csp_HanXiaoQuanGuard","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
 "timeout":10},
