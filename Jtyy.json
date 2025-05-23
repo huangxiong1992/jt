@@ -18,8 +18,6 @@
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn"
     },
-
-
 {"key":"韩圈","name":"蓝光┃韩剧","type":3,"api":"csp_HanXiaoQuanGuard","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
 "timeout":10},
 {"key":"星芽短剧","name":"蓝光┃短剧A","type":3,"api":"csp_AppXYGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
