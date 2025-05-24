@@ -28,17 +28,6 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/mg.js"
     },
     {
-      "key": "央视新闻",
-      "name": "央妈｜新闻",
-      "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysxw.js"
-    },
-    {
       "key": "央视大全",
       "name": "央妈｜大全",
       "type": 3,
