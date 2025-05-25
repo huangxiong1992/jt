@@ -74,20 +74,8 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysse.js"
     },
     {
-      "key": "哔哩哔哩",
-      "name": "BL｜专区一",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 2,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/bifl.txt"
-    },
-    {
       "key": "bili",
-      "name": "BL｜专区二",
+      "name": "BL｜专区一",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 1,
@@ -101,7 +89,7 @@
  },
  {
       "key": "biliych",
-      "name": "BL｜专区三",
+      "name": "BL｜专区二",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 1,
