@@ -54,21 +54,6 @@
       "timeout":20
     },
     {
-      "key": "西瓜视频",
-      "name": "西西｜大全",
-      "type": 3,
-      "api": "csp_AmuXiguaV2",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/shig.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-      "type": "rect",
-      "ratio": 1.597
-      }
-    },
-    {
       "key": "星芽短剧",
       "name": "蓝光┃短剧一",
       "type": 3,
