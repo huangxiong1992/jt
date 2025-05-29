@@ -126,17 +126,6 @@
       "timeout":10
     },
     {
-      "key": "1905",
-      "name": "蓝光｜1905",
-      "type": 3,
-      "api": "csp_Web1905",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
-      "searchable": 1,
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "快手直播",
       "name": "快快┃直播",
       "type": 3,
