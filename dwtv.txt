@@ -1,7 +1,7 @@
 哈喽朋友！本直播源仅供个人测试,切勿外传 
 
 
-欢迎体验帝王TV,#genre#
+欢迎体验帝王,#genre#
 本软免费分享,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
 仅供个人测试,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
 获取长期盒子,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
@@ -9,7 +9,7 @@
 皇兄语音云盒,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
 
 
-央央卫卫(全),#genre#
+央卫视全,#genre#
 CCTV1综合,http://118.77.60.31:8899/tsfile/live/0001_1.m3u8
 CCTV2财经,http://118.77.60.31:8899/tsfile/live/0002_1.m3u8
 CCTV3综艺,http://118.77.60.31:8899/tsfile/live/0003_1.m3u8
@@ -87,7 +87,7 @@ CCTV15音乐,http://42.48.17.189:9002/tsfile/live/0015_1.m3u8
 湖南卫视,http://42.48.17.189:9002/tsfile/live/1000_1.m3u8
 
 
-央央卫卫(移),#genre#
+央卫视移,#genre#
 
 CCTV-1 HD,http://39.134.65.207/PLTV/88888888/224/3221225816/1.m3u8
 CCTV-2 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -152,7 +152,7 @@ CCTV-5+ HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m
 
 
 
-央央卫卫(咪),#genre#
+央卫视咪,#genre#
 偶尔失效 请观看其他节目,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
 CCTV-1,http://goo.bkpcp.top/mg/cctv1
 CCTV-2,http://goo.bkpcp.top/mg/cctv2
