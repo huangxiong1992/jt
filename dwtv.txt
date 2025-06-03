@@ -151,42 +151,6 @@ CCTV-5+ HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m
 
 
 
-央卫视咪,#genre#
-偶尔失效 请观看其他节目,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
-CCTV-1,http://goo.bkpcp.top/mg/cctv1
-CCTV-2,http://goo.bkpcp.top/mg/cctv2
-CCTV-3,http://goo.bkpcp.top/mg/cctv3
-CCTV-4,http://goo.bkpcp.top/mg/cctv4
-CCTV-5,http://goo.bkpcp.top/mg/cctv5
-CCTV-5+,http://goo.bkpcp.top/mg/cctv5p
-CCTV-6,http://goo.bkpcp.top/mg/cctv6
-CCTV-7,http://goo.bkpcp.top/mg/cctv7
-CCTV-8,http://goo.bkpcp.top/mg/cctv8
-CCTV-9,http://goo.bkpcp.top/mg/cctv9
-CCTV-10,http://goo.bkpcp.top/mg/cctv10
-CCTV-11,http://goo.bkpcp.top/mg/cctv11
-CCTV-12,http://goo.bkpcp.top/mg/cctv12
-CCTV-13,http://goo.bkpcp.top/mg/cctv13
-CCTV-14,http://goo.bkpcp.top/mg/cctv14
-CCTV-15,http://goo.bkpcp.top/mg/cctv15
-CCTV-17,http://goo.bkpcp.top/mg/cctv17
-河南卫视,http://goo.bkpcp.top/mg/hnws
-吉林卫视,http://goo.bkpcp.top/mg/jlws
-陕西卫视,http://goo.bkpcp.top/mg/sxws
-宁夏卫视,http://goo.bkpcp.top/mg/nxws
-浙江卫视,http://goo.bkpcp.top/mg/zjws
-甘肃卫视,http://goo.bkpcp.top/mg/gsws
-江苏卫视,http://goo.bkpcp.top/mg/jsws
-广西卫视,http://goo.bkpcp.top/mg/gxws
-西藏卫视,http://goo.bkpcp.top/mg/xzws
-海南卫视,http://goo.bkpcp.top/mg/hinws
-云南卫视,http://goo.bkpcp.top/mg/ynws
-甘肃卫视,http://goo.bkpcp.top/mg/gsws
-青海卫视,http://goo.bkpcp.top/mg/qhws
-湖北卫视,http://goo.bkpcp.top/mg/hubws
-大湾区卫视,http://goo.bkpcp.top/mg/dwqws
-贵州卫视,http://goo.bkpcp.top/mg/gzws
-
 
 
 
