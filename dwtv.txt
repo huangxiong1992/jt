@@ -6,84 +6,53 @@
 获取长期盒子,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
 关注微信公众号,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
 皇兄语音云盒,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
+4K测试一,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+4K测试二,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+4K测试三,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 
-央卫视全,#genre#
-CCTV1,http://59.172.118.71:55555/rtp/239.254.96.96:8550
-CCTV2,http://59.172.118.71:55555/rtp/239.69.1.102:10250
-CCTV3,http://59.172.118.71:55555/rtp/239.69.1.122:10370
-CCTV4,http://59.172.118.71:55555/rtp/239.69.1.138:10466
-CCTV5,http://59.172.118.71:55555/rtp/239.69.1.123:10376
-CCTV5,http://59.172.118.71:55555/rtp/239.254.96.234:9484
-CCTV6,http://59.172.118.71:55555/rtp/239.69.1.124:10382
-CCTV7,http://59.172.118.71:55555/rtp/239.69.1.103:10256
-CCTV8,http://59.172.118.71:55555/rtp/239.69.1.125:10388
-CCTV9,http://59.172.118.71:55555/rtp/239.69.1.104:10262
-CCTV10,http://59.172.118.71:55555/rtp/239.69.1.105:10268
-CCTV11,http://59.172.118.71:55555/rtp/239.69.1.154:10560
-CCTV12,http://59.172.118.71:55555/rtp/239.69.1.106:10274
-CCTV13,http://59.172.118.71:55555/rtp/239.254.96.161:9040
-CCTV14,http://59.172.118.71:55555/rtp/239.69.1.107:10280
-CCTV15,http://59.172.118.71:55555/rtp/239.69.1.155:10566
-CCTV16,http://59.172.118.71:55555/rtp/239.69.1.247:11124
-CCTV164K,http://59.172.118.71:55555/rtp/239.69.1.13:9718
-CCTV17,http://59.172.118.71:55555/rtp/239.69.1.152:10548
-CCTV5,http://59.172.118.71:55555/rtp/239.69.1.12:9712
-CETV1,http://59.172.118.71:55555/rtp/239.69.1.110:10298
-CCTV央视台球,http://59.172.118.71:55555/rtp/239.69.1.98:10224
-CCTV164K,http://59.172.118.71:55555/rtp/239.69.1.13:9718
-CCTV第一剧场,http://59.172.118.71:55555/rtp/239.69.1.74:10084
-CCTV世界地理,http://59.172.118.71:55555/rtp/239.69.1.91:10186
-CCTV高尔夫网球,http://59.172.118.71:55555/rtp/239.69.1.83:10138
-CCTV风云足球,http://59.172.118.71:55555/rtp/239.69.1.81:10126
-CCTV兵器科技,http://59.172.118.71:55555/rtp/239.69.1.79:10114
 
-CCTV16奥林匹克4K,http://59.172.118.71:55555/rtp/239.69.1.249:11136
-CGTN法语,http://59.172.118.71:55555/rtp/239.69.1.235:11052
-CGTN西班牙语,http://59.172.118.71:55555/rtp/239.69.1.234:11046
-CGTN记录片,http://59.172.118.71:55555/rtp/239.69.1.233:11040
-中文国际美洲,http://59.172.118.71:55555/rtp/239.69.1.232:11034
-中文国际欧洲,http://59.172.118.71:55555/rtp/239.69.1.231:11028
-爱上4K,http://59.172.118.71:55555/rtp/239.69.1.141:10482
-BestTV测试34K,http://59.172.118.71:55555/rtp/239.69.1.25:9790
-BestTV测试24K,http://59.172.118.71:55555/rtp/239.69.1.27:9802
-BestTV测试14K,http://59.172.118.71:55555/rtp/239.69.1.26:9796
 
-浙江卫视,http://59.172.118.71:55555/rtp/239.254.96.143:8932
-东方卫视,http://59.172.118.71:55555/rtp/239.254.96.142:8926
-北京卫视,http://59.172.118.71:55555/rtp/239.254.96.141:8920
-广东卫视,http://59.172.118.71:55555/rtp/239.254.96.140:8914
-湖南卫视,http://59.172.118.71:55555/rtp/239.254.96.139:8908
-黑龙江卫视,http://59.172.118.71:55555/rtp/239.254.96.138:8902
-深圳卫视,http://59.172.118.71:55555/rtp/239.254.96.137:8896
-河北卫视,http://59.172.118.71:55555/rtp/239.254.96.113:9616
-湖北卫视,http://59.172.118.71:55555/rtp/239.254.96.115:8664
-江苏卫视,http://59.172.118.71:55555/rtp/239.69.1.174:10680
-东方卫视,http://59.172.118.71:55555/rtp/239.69.1.173:10674
-河北卫视,http://59.172.118.71:55555/rtp/239.69.1.157:10578
 
-金鹰纪实,http://59.172.118.71:55555/rtp/239.69.1.109:10292
-金鹰卡通,http://59.172.118.71:55555/rtp/239.69.1.248:11130
-茶频道,http://59.172.118.71:55555/rtp/239.69.1.144:10500
-快乐垂钓,http://59.172.118.71:55555/rtp/239.69.1.142:10488
-武术世界,http://59.172.118.71:55555/rtp/239.69.1.47:9922
-梨园频道,http://59.172.118.71:55555/rtp/239.69.1.33:9838
-卡酷少儿,http://59.172.118.71:55555/rtp/239.69.1.193:10800
+央视卫视,#genre#
+CCTV-01 HD,http://123.149.237.171:9003//hls/1/index.m3u8
+CCTV-02 HD,http://123.149.237.171:9003//hls/2/index.m3u8
+CCTV-03 HD,http://123.149.237.171:9003//hls/3/index.m3u8
+CCTV-04 HD,http://123.149.237.171:9003//hls/4/index.m3u8
+CCTV-05 HD,http://123.149.237.171:9003//hls/5/index.m3u8
+CCTV-06 HD,http://123.149.237.171:9003//hls/6/index.m3u8
+CCTV-07 HD,http://123.149.237.171:9003//hls/7/index.m3u8
+CCTV-08 HD,http://123.149.237.171:9003//hls/8/index.m3u8
+CCTV-09 HD,http://123.149.237.171:9003//hls/9/index.m3u8
+CCTV-10 HD,http://123.149.237.171:9003//hls/10/index.m3u8
+CCTV-11 HD,http://123.149.237.171:9003//hls/11/index.m3u8
+CCTV-12 HD,http://123.149.237.171:9003//hls/12/index.m3u8
+CCTV-13 HD,http://123.149.237.171:9003//hls/13/index.m3u8
+CCTV-14 HD,http://123.149.237.171:9003//hls/14/index.m3u8
+北京卫视 HD,http://123.149.237.171:9003//hls/20/index.m3u8
+东方卫视 HD,http://123.149.237.171:9003//hls/21/index.m3u8
+浙江卫视 HD,http://123.149.237.171:9003//hls/19/index.m3u8
+江苏卫视 HD,http://123.149.237.171:9003//hls/18/index.m3u8
+湖南卫视 HD,http://123.149.237.171:9003//hls/17/index.m3u8
+深圳卫视 HD,http://123.149.237.171:9003//hls/24/index.m3u8
+安徽卫视 HD,http://123.149.237.171:9003//hls/23/index.m3u8
+山东卫视 HD,http://123.149.237.171:9003//hls/22/index.m3u8
+河南卫视 HD,http://123.149.237.171:9003//hls/15/index.m3u8
 
-湖北教育,http://59.172.118.71:55555/rtp/239.69.1.206:10878
-湖北生活,http://59.172.118.71:55555/rtp/239.69.1.205:10872
-湖北影视,http://59.172.118.71:55555/rtp/239.69.1.204:10866
-湖北垄上,http://59.172.118.71:55555/rtp/239.69.1.43:9898
-湖北综合,http://59.172.118.71:55555/rtp/239.69.1.42:9892
-湖北经视,http://59.172.118.71:55555/rtp/239.69.1.41:9886
-湖北公共新闻,http://59.172.118.71:55555/rtp/239.69.1.40:9880
-房县综合,http://59.172.118.71:55555/rtp/239.69.1.192:10794
-阳新综合,http://59.172.118.71:55555/rtp/239.69.1.34:9844
-蔡甸综合,http://59.172.118.71:55555/rtp/239.69.1.245:11112
-武汉教育,http://59.172.118.71:55555/rtp/239.69.1.60:9994
-武汉六台外语,http://59.172.118.71:55555/rtp/239.69.1.36:9856
-武汉五台文体,http://59.172.118.71:55555/rtp/239.69.1.147:10518
-武汉四台经济,http://59.172.118.71:55555/rtp/239.69.1.35:9850
+CCTV-13 HD,http://tencentplaygsm.gztv.com/live/jingsai.m3u8
+CCTV-13 HD,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV-14 HD,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+浙江卫视 HD,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+兵团卫视 HD,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+三沙卫视 HD,https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=c509d0ea1747156492
+
+
+
+
+
+
+
+
 
 
 
@@ -140,8 +109,14 @@ CCTV-5+ HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m
 青海卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 新疆卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 西藏卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+海南卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+兵团卫视 HD,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+
+
+
+
+
+
 
 
 
@@ -165,7 +140,7 @@ CCTV-5+ HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m
 
 
 全国各地,#genre#
-
+纪实科教8k,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=d3dad1fd1a965ff59d3db3990b923267&txTime=18ee6e4efc1
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
@@ -312,7 +287,11 @@ CCTV-5+ HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m
 
 
 河南地方,#genre#
-河南|洛阳文旅,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
+
+洛阳综合,https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
+洛阳科教,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
+洛阳文旅,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
+
 河南|焦作综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
 河南|焦作公共频道,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
 
@@ -555,6 +534,26 @@ CCTV-5+ HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+
+江苏无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
+江苏无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
+江苏无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
+江苏无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
+江苏无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
+江苏金湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
+江苏靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
+江苏句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8
+江苏句容新闻综合,http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
+江苏沛县新闻综合,http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
+江苏沭阳综合频道,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+江苏泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
+江苏泗阳综合频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
+江苏睢宁三农频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8
+江苏睢宁综合频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
+金湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
+金坛新闻频道,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8#http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
+
+
 江苏|镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 江苏|镇江二套社会民生,http://cm-wshls.homecdn.com/live/2aa16.m3u8
 江苏|镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
@@ -683,6 +682,18 @@ zsicd#http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/play
 四川泸州新闻,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
 
 
+
+重庆地方,#genre#
+
+重庆垫江综合,https://play-sh.quklive.com/live/1672366847646284.m3u8
+重庆铜梁综合,https://tlpc01.cqliving.com/ch1.m3u8
+重庆万载综合,http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8#http://ls.qingting.fm/live/273.m3u8
+重庆武隆综合,https://yypull.cbg.cn/applive/wltvzh/playlist.m3u8
+重庆永川综合,https://yypull.cbg.cn/applive/yctv01/playlist.m3u8
+
+
+
+
 贵州地方,#genre#
 贵州七星关频道,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 
@@ -733,13 +744,14 @@ zsicd#http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/play
 广西|贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 贵州|七星关电视台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 
-
-
+湖南地方,#genre#
+湖南爱晚,http://p2.vzan.com/527645544/149039617847513156/live.m3u8
 
 
 
 湖北地方,#genre#
 湖北荆门新闻,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
+湖北荆门文旅,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 湖北十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 
 安徽地方,#genre#
@@ -753,7 +765,14 @@ zsicd#http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/play
 
 新疆地方,#genre#
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8
-
+新疆伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8
+新疆伊犁汉语综合,http://110.153.180.106:55555/out_1/index.m3u8
+新疆伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8
+新疆伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8
+新疆巴音郭楞州,http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
+新疆兵团十三师新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
+新疆兵团八师石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+新疆可克达拉综合,http://test5.btzx.com.cn:80/live/kkdl.stream/playlist.m3u8
 
 
 西藏地方,#genre#
@@ -773,6 +792,15 @@ zsicd#http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/play
 
 哈尔滨新闻,http://stream.hrbtv.net/xwzh/sd/live.m3u8
 齐齐哈尔新闻,https://rmplive.hljtv.com/live/qiqihaer.m3u8
+
+黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8?zheild
+黑龙江哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
+黑龙江哈尔滨新闻,http://stream.hrbtv.net/xwzh/sd/live.m3u8
+黑龙江哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
+黑龙江哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
+黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8?zheild
+黑龙江新闻法治,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8?zheild
+黑龙江影,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8?zheild
 
 黑龙江鸡东卫视,https://masterpull.hljtv.com/live/o4NExHSz.m3u8
 黑龙江密山卫视,https://masterpull.hljtv.com/live/iYi97JTN.m3u8
@@ -831,6 +859,11 @@ zsicd#http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/play
 黑龙江克山综合,https://masterpull.hljtv.com/live/58lOw0L5.m3u8
 
 
+吉林地方,#genre#
+吉林桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8
+吉林江源综合,http://stream10.jlntv.cn/jiangyuantv/sd/live.m3u8
+吉林延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
+吉林永吉综合频道,http://stream10.jlntv.cn/yongji/sd/live.m3u8
 
 
 
@@ -839,170 +872,12 @@ zsicd#http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/play
 
 
 少儿动画,#genre#
-
+央视少儿,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 开心锤锤,http://3501776.xyz:35455/douyu/9018297
 开心锤锤,http://huanqiuzhibo.cn/manifest/douyu.php?id=9018297 
-熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-葫芦兄弟,http://jsmov2.a.yximgs.com/bs3/video-hls/5223049779458999093_hlsb.m3u8 
-
-倒霉熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-熊熊乐园|01,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b333914bfe2b49d793d41f3233505f5f/1200.m3u8
-熊熊乐园|02,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7d35b256e4794918837e184d35f34492/1200.m3u8
-熊熊乐园|03,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8da51eedd80c4c0b98765b20d1729d42/1200.m3u8
-熊熊乐园|04,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e86d503179254fc0ba5ebb6f44103d9d/1200.m3u8
-熊熊乐园|05,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3f437da4d62e4708bc8892cd6f3c9bd8/1200.m3u8
-熊熊乐园|06,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7e38bf0a4c274a3c98abe1d79ca7c8ef/1200.m3u8
-熊熊乐园|07,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a14f86e6e1434908a12fd00a2c8b0b73/1200.m3u8
-熊熊乐园|08,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6a7b458f35cd49a390faa0378d4ecde5/1200.m3u8
-熊熊乐园|09,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6a35f12e8fb6420181c83cd1a847206b/1200.m3u8
-熊熊乐园|10,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/34cf417bf8d64ce8a993e8c5db16b914/1200.m3u8
-熊熊乐园|11,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f966ee5dac0d4393bcdd2483b24d06a3/1200.m3u8
-熊熊乐园|12,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/70344cd85dc34abf8400eb9738bec779/1200.m3u8
-熊熊乐园|13,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3976afaa79a14ede8dcf818ead874ac1/1200.m3u8
-熊熊乐园|14,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/50a132bdc16e47cfb6e292ace9dde5ee/1200.m3u8
-熊熊乐园|15,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8336c7ea1fd04a98aeb5bab0350f9855/1200.m3u8
-熊熊乐园|16,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5ed717fd676042cfb4c145423e1bb31b/1200.m3u8
-熊熊乐园|17,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/54371858578a45d9b9de4b64f81863eb/1200.m3u8
-熊熊乐园|18,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1e77c23aef1a4defa52bc76a56ac35bc/1200.m3u8
-熊熊乐园|19,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6c9cd714ab4b4a4b9695c17766470ee8/1200.m3u8
-熊熊乐园|20,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/97d9d7f096bc4b90bcdaf2b7ce9ea556/1200.m3u8
-熊熊乐园|21,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c5c9a732d2dd4179828895fb75a3ca08/1200.m3u8
-熊熊乐园|22,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9a7401b1279a4fa09135deaab29bf51d/1200.m3u8
-熊熊乐园|23,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3cfd36364d804fee8599aa72b970e9cd/1200.m3u8
-熊熊乐园|24,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ed010caa1668481ab5a7250291bb6f33/1200.m3u8
-熊熊乐园|25,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/adb82894c295447e86d12aeccdd17d50/1200.m3u8
-熊熊乐园|26,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4404b8b709f84c7fa045a0901f23a133/1200.m3u8
-熊熊乐园|27,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7e7b56d0d35a44dc807b9888cc37bce0/1200.m3u8
-熊熊乐园|28,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b9d91ae03eb4348a9270aa0e5018135/1200.m3u8
-熊熊乐园|29,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/59c667667d2349c587db921d3f639223/1200.m3u8
-熊熊乐园|30,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/473591a6614e4a769ad912fbf58e79da/1200.m3u8
-熊熊乐园|31,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8a99941f33164ea3aa11d5243a4a93ad/1200.m3u8
-熊熊乐园|32,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/84ab44d3c9af4460a1a9981a22489417/1200.m3u8
-熊熊乐园|33,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1d01816b5ae945bea728f10ee99d7c41/1200.m3u8
-熊熊乐园|34,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef0bb93b6d9a44f6b68f7abc15770a9e/1200.m3u8
-熊熊乐园|35,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5b0e9527423542efbe1ab81c3701c20e/1200.m3u8
-熊熊乐园|36,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/be17a82213094c1284570913c1cce887/1200.m3u8
-熊熊乐园|37,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d9925bccfeb84ab6ab090d56547a7a2d/1200.m3u8
-熊熊乐园|38,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f5148f0035d44d77b74aa58aa6d57c18/1200.m3u8
-熊熊乐园|39,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6cde3ec7780446e9a834a35772378ff8/1200.m3u8
-熊熊乐园|40,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1c03ccf0e34b4476a80c2396ffe99a29/1200.m3u8
-熊熊乐园|41,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f986f8de576f487fb1febdcc7dfa87d8/1200.m3u8
-熊熊乐园|42,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c99361cb40a9457c9ca95beab9c780af/1200.m3u8
-熊熊乐园|43,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e9dbad5b80884597a721947629a9b169/1200.m3u8
-熊熊乐园|44,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e0a3c64fa73947289e5664984f4cf5e2/1200.m3u8
-熊熊乐园|45,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cea468a9e46f47f5bd232aef671a7d8e/1200.m3u8
-熊熊乐园|46,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f185a4cb6fec4e5fac0b7c3bda661cfa/1200.m3u8
-熊熊乐园|47,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1b3716f4a8ac42fda150b24e9266e7f2/1200.m3u8
-熊熊乐园|48,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1e3bb6fcc0b642d896b0bb51514a3545/1200.m3u8
-熊熊乐园|49,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4f7fa80c6686462cb3afcf9ce48b7678/1200.m3u8
-熊熊乐园|50,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f93cb9edd30544b78797b6dce897dbdc/1200.m3u8
-熊熊乐园|51,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7fc7a246576744e1b032622846c1fd43/1200.m3u8
-熊熊乐园|52,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/23d304c091184090b3b6ceef8822a273/1200.m3u8
-猪猪侠剧|01,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/284947a4fa1f45dbafc2a4d54387cc7e/1200.m3u8
-猪猪侠剧|02,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a4b74cdcdee64c70a9c9f7f4c3619aeb/1200.m3u8
-猪猪侠剧|03,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/73a90ed2920b47589463bac9802bdf43/1200.m3u8
-猪猪侠剧|04,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9433024f26874cb4b2a1ffdbd0ca1f1c/1200.m3u8
-猪猪侠剧|05,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4be859da49d34b978d2973b640bc7d0d/1200.m3u8
-猪猪侠剧|06,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e11a17cd7364479abef8f2dfceb63411/1200.m3u8
-猪猪侠剧|07,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/00dff109c20f431b8b7a739699af8a77/1200.m3u8
-猪猪侠剧|08,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/73847c91bed14dc6883c438861b84b5f/1200.m3u8
-猪猪侠剧|09,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f04c2cadd1ae43a08de4f0e398ee
-猪猪侠剧|10,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6e06d51e3d454ac8a62cacbac82d5fe2/1200.m3u8
-猪猪侠剧|11,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1c6e3092ffd940ea910065e11334bc32/1200.m3u8
-猪猪侠剧|12,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/22a3d52a5e47482eb812e20620248741/1200.m3u8
-猪猪侠剧|13,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4ed0ef2435fc465e97127bdadbe8bcdb/1200.m3u8
-猪猪侠剧|14,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2c1982fa7d54416a90655b17afb27bc9/1200.m3u8
-猪猪侠剧|15,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ee4efe1473a049809a9b42cd48680f4c/1200.m3u8
-猪猪侠剧|16,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d1e04dd809684d76ae069f0d65f12829/1200.m3u8
-猪猪侠剧|17,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2b529717f4f64f0793b3f4b2d5370be4/1200.m3u8
-猪猪侠剧|18,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ead9dae0652043d0b861d5ea69b4c045/1200.m3u8
-猪猪侠剧|19,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/94b0326592024a759522450fea376aab/1200.m3u8
-猪猪侠剧|20,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fd9526d2ad4d41b9aa89fa71953e8099/1200.m3u8
-猪猪侠剧|21,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d90630598ad14d1a9bf8575f4129eded/1200.m3u8
-猪猪侠剧|22,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2c2afa69af9b4a6aa28f91721b3ecd5b/1200.m3u8
-猪猪侠剧|23,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4ed4bb5d33094afa88baf5ce9518b2d8/1200.m3u8
-猪猪侠剧|24,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fc2546c3481a4f5e866a43af5f8222ac/1200.m3u8
-猪猪侠剧|25,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aab9cb537d464c6987710db633e28c6a/1200.m3u8
-猪猪侠剧|26,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6bf4cda0ebce4dfd91cb7b0296de7e90/1200.m3u8
-猪猪侠剧|27,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/935f3831de2e488ca2b0bbb93263b418/1200.m3u8
-猪猪侠剧|28,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/30efdf633b1c422dab32fe274d67f320/1200.m3u8
-猪猪侠剧|29,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/257e72b4bf0f4560847e9b87d8645738/1200.m3u8
-猪猪侠剧|30,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4bffea35701146e6b3fb04f39a3747e3/1200.m3u8
-猪猪侠剧|31,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a72044f6fd404a9e83ce047522e01901/1200.m3u8
-猪猪侠剧|32,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7d5b4362a3ad428ea0d5b5771faf57c4/1200.m3u8
-猪猪侠剧|33,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8192f05fb2234318928521dd2ed83a38/1200.m3u8
-猪猪侠剧|34,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/32cf6f9a7e394a4a9af3b2c873326ac4/1200.m3u8
-猪猪侠剧|35,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/83f4db992dc1476997d576878254c26c/1200.m3u8
-猪猪侠剧|36,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e045414a95da4152b3ff060b55a2f992/1200.m3u8
-猪猪侠剧|37,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/eb43d993f450460dba555c9a46d27262/1200.m3u8
-猪猪侠剧|38,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/40fb5ea7cf8341fa86acf0df6c4ccb55/1200.m3u8
-猪猪侠剧|39,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/14ed213481bd4b3e8dc4715bf56876ba/1200.m3u8
-猪猪侠剧|40,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4519030fa05348e1ac56dffa4f337ae7/1200.m3u8
-猪猪侠剧|41,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4bcdfbf3d6784cc190771b8184a60e4e/1200.m3u8
-猪猪侠剧|42,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1ff32d21d2a544eab343902e9ba5d07d/1200.m3u8
-猪猪侠剧|43,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/caf54124ab0d47bdba256a7f46fd5c6c/1200.m3u8
-猪猪侠剧|44,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ac8838256cbd4636bce7190fe977f046/1200.m3u8
-猪猪侠剧|45,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3c04604ebc1d47eb847a6e935c977b0e/1200.m3u8
-猪猪侠剧|46,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7da850ad39f845cd8a9accd6a60206c8/1200.m3u8
-猪猪侠剧|47,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f7200e292cb84aeebfe012c0b2018082/1200.m3u8
-猪猪侠剧|48,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e820b499aa964d95a4cb151cbd63ee70/1200.m3u8
-猪猪侠剧|49,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8cb197de89e24bfaa751127e02e80cb5/1200.m3u8
-猪猪侠剧|50,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ba9822ccd234ad9b9075852e26ec66d/1200.m3u8
-猪猪侠剧|51,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/941bdb7064904d1db11d7f0d30959663/1200.m3u8
-猪猪侠剧|52,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b8c94517b17f4e769318e3aefbd2de78/1200.m3u8
-猪猪侠剧|53,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/44180ac9d51f4113b4c0859029cfca9e/1200.m3u8
-猪猪侠剧|54,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/01fa590200a942c182244eb0cbda1a08/1200.m3u8
-猪猪侠剧|55,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/30b5fadd7cf5428c87a3c00bfe766c3c/1200.m3u8
-猪猪侠剧|56,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d33d57c10acd486a9a38572c82d61b83/1200.m3u8
-/default/509d8132c8d14b03a9aa6de7b39b6860/1200.m3u8
-动画乐翻天|254,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ab55ca0a3444f32a4d98a2aa6ea0423/1200.m3u8
-动画乐翻天|255,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0acf9842317c4f638f999d1e4bbf3cf1/1200.m3u8
-动画乐翻天|256,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7a694da8ab7e425bac21bbf2e5dd42ce/1200.m3u8
-动画乐翻天|257,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3aa5589f462c4e6eb55e9b0b368be6f2/1200.m3u8
-动画乐翻天|258,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0a92c4996f6940b782dac7cbbcb33d36/1200.m3u8
-动画乐翻天|259,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a6fae1a0e0864ac8bc606b2c05814b79/1200.m3u8
-动画乐翻天|260,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4447a70b142c43bd8559d28674aa5a6a/1200.m3u8
-动画乐翻天|261,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2df005835c9740e4830b723cad3dde79/1200.m3u8
-动画乐翻天|262,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e3e24853e7434b389bae7b12eaabceab/1200.m3u8
-动画乐翻天|263,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a0510c0c4e254d269c933f84d3c8c548/1200.m3u8
-动画乐翻天|264,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/33e9e9c87b87475a891f3bae9280ec15/1200.m3u8
-动画乐翻天|265,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a78ae97e8c9d4805aed0327180641818/1200.m3u8
-动画乐翻天|266,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/519455fb59d5472782af0d968028a481/1200.m3u8
-动画乐翻天|267,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/986d1aedf2d14761a5ad588c3dcdf099/1200.m3u8
-动画乐翻天|268,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e3145610b8d24bc0a9b7362cc05ed199/1200.m3u8
-动画乐翻天|269,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4d5daba25f2b4e4ca7d4aff866b4e913/1200.m3u8
-动画乐翻天|270,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c5a9178fc3dc45a0b21fe068c11e4e44/1200.m3u8
-动画乐翻天|271,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0a9e441a704e400790c1a3f9abe34cfc/1200.m3u8
-动画乐翻天|272,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/88ec2b256b4148e497f8f971cb5ec380/1200.m3u8
-动画乐翻天|273,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/24d21d92d1fb4966b07e8da572da8b63/1200.m3u8
-动画乐翻天|274,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/41edfdcb6b584ca4a532a0c37577740d/1200.m3u8
-动画乐翻天|275,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6fc961176ebe4a698484639a553aad88/1200.m3u8
-动画乐翻天|276,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/92604ba1911e4433987596f3f55b8644/1200.m3u8
-动画乐翻天|277,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/40090c57d7ca452aaf1017ff70dac2be/1200.m3u8
-动画乐翻天|278,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2009e97d08eb42ea90a714857e5a48a4/1200.m3u8
-动画乐翻天|279,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5109d005998b46c78016f92f2bde9172/1200.m3u8
-动画乐翻天|280,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0713f51d96784a5b9fea6779af0741e3/1200.m3u8
-动画乐翻天|281,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d583fa912765405e99e87d37efa7ae4e/1200.m3u8
-动画乐翻天|282,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/88a72b128e5c4b2bba2a6defbdc9efd1/1200.m3u8
-动画乐翻天|283,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a8e7fb17e374468aaddebb92fbef7673/1200.m3u8
-动画乐翻天|284,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bef85f1ef8e94aa8a9daa01cab940450/1200.m3u8
-动画乐翻天|285,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4232f67de07c4a5d81286a31ea47455c/1200.m3u8
-动画乐翻天|286,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aadbf26193344582bf76b2b5f8b22a22/1200.m3u8
-动画乐翻天|287,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b993adc90a2f44938e798a5ea2e031bc/1200.m3u8
-动画乐翻天|288,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/46fd359667344b2093c6b4801626ee98/1200.m3u8
-动画乐翻天|289,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/597c06ec153d4387a7601a10e42b7826/1200.m3u8
-动画乐翻天|290,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b50fbd52005747ecad0929751a889b12/1200.m3u8
-动画乐翻天|291,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e608b9ad077847ba89dad7e77065cb36/1200.m3u8
-动画乐翻天|292,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fd0f0557d6684a76bce2981cb856d5fe/1200.m3u8
-动画乐翻天|293,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d41be15b5f414ac79cd8e7637dee69ef/1200.m3u8
-动画乐翻天|294,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/02a7169eb3004e19b9e82c23d14cd5b2/1200.m3u8
-动画乐翻天|295,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f812104b48504fae91fe9377945fd01e/1200.m3u8
-动画乐翻天|296,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9fbd06a9f19542dda886b65a65731fc4/1200.m3u8
-
 
 
 
@@ -1019,153 +894,23 @@ zsicd#http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/play
 
 体育游戏,#genre# 
 巴黎奥运开幕式,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
-MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8  
-红牛TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
-国外体育6,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.flv?wsAuth=ce3c0d32c960ce39c10717b795f7ddf9&token=cpn-androidmpro-0-522423-99737a9b5bf363c27f62ed65c0f1025bd1ccd3a301de7e93&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1 
-王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-
-
-JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-
-JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
- 
-王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2 
-穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1 
-CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571126613feca6067da321aaf2df2&token=cpn-androidmpro-0-868191-846aacab1859214c037e4d0c263121580403540feea39901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1 
-和平精英·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1 
-梦幻西游·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1 
-跑跑卡丁车,http://tc-tct.douyucdn2.cn/dyliveflv1/7722576rWHyhVf6Z_2000.flv?wsAuth=05a690d94290609839e7c868f44fbc3d&token=cpn-androidmpro-0-7722576-6b878e1c279c4ee5468d3b8183a8170664764100093885bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1 
-跑跑卡丁车·手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2 
-QQ飞车·手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.flv?wsAuth=0654cc930e81f0d2b58264196ded38af&token=cpn-androidmpro-0-5040227-432528579fe947129e217c8f3c39d0a94c81c1426c347bfb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2 
-
+直播体育 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235583/index.m3u8?IAS
+体育一,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8  
+体育二,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
+体育三,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+体育四,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 NBA TV(电信),http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
 
 
 经典轮播,#genre#
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+
 重温经典,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
-周星驰1,http://103.193.151.146/huya.php?id=11342412
-周星驰2,http://103.193.151.146/huya.php?id=11336587
-李连杰,http://103.193.151.146/huya.php?id=11342390
-甄子丹,http://103.193.151.146/huya.php?id=11352935
-林正英,http://103.193.151.146/huya.php?id=11342421
-周润发,http://103.193.151.146/huya.php?id=11342387
-成龙,http://103.193.151.146/huya.php?id=11342386
-王晶,http://103.193.151.146/huya.php?id=11602058
-沈腾,http://103.193.151.146/huya.php?id=11601968
-黄渤,http://103.193.151.146/huya.php?id=11352876
-强森,http://103.193.151.146/huya.php?id=21059581
-洪金宝,http://103.193.151.146/huya.php?id=11279251
-梁家辉,http://103.193.151.146/huya.php?id=11342429
-刘德华,http://103.193.151.146/huya.php?id=11342424
-斯坦森,http://103.193.151.146/huya.php?id=21059588
-许冠英,http://103.193.151.146/huya.php?id=11601972
-五福星,http://103.193.151.146/huya.php?id=11282233
-邱淑贞,http://103.193.151.146/huya.php?id=11352949
-古天乐,http://103.193.151.146/huya.php?id=11602041
-徐克,http://103.193.151.146/huya.php?id=11352909
-冯小刚,http://103.193.151.146/huya.php?id=11352906
-漫威,http://103.193.151.146/huya.php?id=11602034
-宇宙,http://103.193.151.146/huya.php?id=11342428
-怪兽,http://103.193.151.146/huya.php?id=21059577
-武侠,http://103.193.151.146/huya.php?id=11342427
-警匪,http://103.193.151.146/huya.php?id=11352886
-罪犯,http://103.193.151.146/huya.php?id=11352962
-枪战,http://103.193.151.146/huya.php?id=21059579
-海盗,http://103.193.151.146/huya.php?id=21059595
-赛车,http://103.193.151.146/huya.php?id=11279247
-推荐,http://103.193.151.146/huya.php?id=11602041
-救援,http://103.193.151.146/huya.php?id=21059594
-热血,http://103.193.151.146/huya.php?id=11352934
-盗墓,http://103.193.151.146/huya.php?id=21059552
-贺岁,http://103.193.151.146/huya.php?id=11601971
-玄幻,http://103.193.151.146/huya.php?id=11342414
-谍战,http://103.193.151.146/huya.php?id=21059585
-战争,http://103.193.151.146/huya.php?id=21059592
-喜剧,http://103.193.151.146/huya.php?id=11352877
-港片,http://103.193.151.146/huya.php?id=11602043
-国产,http://103.193.151.146/huya.php?id=11352973
-电影_小鬼头,http://103.193.151.146/huya.php?id=11352963
-电影_八点档,http://103.193.151.146/huya.php?id=880261
-电影_蜘蛛侠,http://103.193.151.146/huya.php?id=21059599
-电影_贺岁片,http://103.193.151.146/huya.php?id=11601986
-电影_功夫片,http://103.193.151.146/huya.php?id=11352941
-电影_黑帮片,http://103.193.151.146/huya.php?id=11336719
-电影_丧尸片,http://103.193.151.146/huya.php?id=21059578
-电影_灾难片,http://103.193.151.146/huya.php?id=11602075
-电影_谍战片,http://103.193.151.146/huya.php?id=21059587
-电影_战争片,http://103.193.151.146/huya.php?id=21059574
-电影_犯罪片,http://103.193.151.146/huya.php?id=11352974
-电影_古装片,http://103.193.151.146/huya.php?id=11336590
-电影_高分动作,http://103.193.151.146/huya.php?id=11352884
-电影_动作电影,http://103.193.151.146/huya.php?id=11602077
-电影_搞笑喜剧,http://103.193.151.146/huya.php?id=11342423
-电影_喜剧专场,http://103.193.151.146/huya.php?id=11602044
-电影_欢笑影院,http://103.193.151.146/huya.php?id=11352894
-电影_不挤影院,http://103.193.151.146/huya.php?id=11352897
-电影_国产悬疑,http://103.193.151.146/huya.php?id=11342395
-电影_快意江湖,http://103.193.151.146/huya.php?id=11342435
-电影_黑帮斗争,http://103.193.151.146/huya.php?id=11342419
-电影_嫣然影厅,http://103.193.151.146/huya.php?id=11601977
-电影_许氏三杰,http://103.193.151.146/huya.php?id=11602033
-电影_经典港片,http://103.193.151.146/huya.php?id=11352965
-电影_镖行天下,http://103.193.151.146/huya.php?id=11352969
-电影_高能反转,http://103.193.151.146/huya.php?id=11352887
-电影_喜乐影院,http://103.193.151.146/huya.php?id=21059580
-电影_自由影厅,http://103.193.151.146/huya.php?id=11601981
-电影_搞笑恐怖,http://103.193.151.146/huya.php?id=11601960
-电影_死神来了,http://103.193.151.146/huya.php?id=11352903
-电影_变形金刚,http://103.193.151.146/huya.php?id=21059596
-电影_怪兽系列,http://103.193.151.146/huya.php?id=21059554
+重温经典高清,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?IAS
 
 
 
 
-周星驰1,https://fmbox.cc/huya.php?id=11342412
-周星驰2,https://fmbox.cc/huya.php?id=11336587
-李连杰,https://fmbox.cc/huya.php?id=11342390
-洪金宝,https://fmbox.cc/huya.php?id=11279251
-梁家辉,https://fmbox.cc/huya.php?id=11342429
-许冠英,https://fmbox.cc/huya.php?id=11601972
-刘德华,https://fmbox.cc/huya.php?id=11342424
-斯坦森,https://fmbox.cc/huya.php?id=21059588
-林正英,https://fmbox.cc/huya.php?id=11342421
-周润发,https://fmbox.cc/huya.php?id=11342387
-成龙,https://fmbox.cc/huya.php?id=11342386
-明星大片,https://fmbox.cc/huya.php?id=11602058
-沈腾,https://fmbox.cc/huya.php?id=11601968
-黄渤,https://fmbox.cc/huya.php?id=11352876
-强森,https://fmbox.cc/huya.php?id=21059581
-漫威,https://fmbox.cc/huya.php?id=11602034
-宇宙,https://fmbox.cc/huya.php?id=11342428
-怪兽,https://fmbox.cc/huya.php?id=21059577
-陆小凤,https://fmbox.cc/huya.php?id=11342427
-警匪,https://fmbox.cc/huya.php?id=11352886
-罪犯,https://fmbox.cc/huya.php?id=11352962
-枪战,https://fmbox.cc/huya.php?id=21059579
-赛车,https://fmbox.cc/huya.php?id=11279247
-推荐,https://fmbox.cc/huya.php?id=11602041
-热血,https://fmbox.cc/huya.php?id=11352934
-盗墓,https://fmbox.cc/huya.php?id=21059552
-贺岁,https://fmbox.cc/huya.php?id=11601971
-玄幻,https://fmbox.cc/huya.php?id=11342414
-谍战,https://fmbox.cc/huya.php?id=21059585
-喜剧,https://fmbox.cc/huya.php?id=11352877
-港片,https://fmbox.cc/huya.php?id=11602043
-国产,https://fmbox.cc/huya.php?id=11352973
-搞笑喜剧,https://fmbox.cc/huya.php?id=11342423
-国产悬疑,https://fmbox.cc/huya.php?id=11342395
-快意江湖,https://fmbox.cc/huya.php?id=11342435
-黑帮斗争,https://fmbox.cc/huya.php?id=11342419
-斯坦森,http://cdn.jdshipin.com:8880/huya.php?id=21059588
-
-JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
-JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
-JJ斗地主,http://i.880824.xyz:35455/douyu/488743
 
  
 
@@ -1742,8 +1487,6 @@ Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.
 晋剧折子戏武松打店,https://vdse.bdstatic.com//0855a1e48e701a11f89817dbd13b5762.mp4
 晋剧徐策跑城-武忠,https://vdse.bdstatic.com//4997ec4a0d880c832c518a0b48b53866.mp4
 曲剧卷席筒-小仓娃跪大堂诉冤枉,http://gcw.bdcdn.shoujiduoduo.com/v/190223/09e4765a1fdf115854f683e7fa863377.mp4
-川剧变脸,https://vd3.bdstatic.com/mda-mgk7bc9g2q5nxauy/480p/h264/1626844289201228955/mda-mgk7bc9g2q5nxauy.mp4
-川剧变脸喷火,https://vd3.bdstatic.com/mda-nme9ie9wej0n1uk9/sc/cae_h264/1671101517550075754/mda-nme9ie9wej0n1uk9.mp4
 川剧精选十个,https://vdse.bdstatic.com//fbc0919a49e45af49af8112bc6620103.mp4
 郝刚,http://gcw.bdcdn.shoujiduoduo.com/v/190818/e3a8feab9a9cb53c1c9494a561d9f594.mp4
 黄梅戏春香闹学,http://gcw.bdcdn.shoujiduoduo.com/v/201027/552dcdf37bdf2b4ff56d9e79bb58f527.mp4
