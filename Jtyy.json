@@ -65,17 +65,6 @@
       "changeable": 0
     },
     {
-      "key": "梨园",
-      "name": "梨园｜戏曲",
-      "type": 3,
-      "api": "http://150.158.112.123/js/dr/drpy2.min.js",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/xch/refs/heads/main/xc.jar",  
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/ly.txt"
-    },
-    {
       "key": "相声小品",
       "name": "相声｜小品",
       "type": 3,
