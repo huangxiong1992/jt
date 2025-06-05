@@ -9,7 +9,7 @@
 4K测试一,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 4K测试二,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 4K测试三,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
+4K测试四,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?IAS
 
 
 
@@ -38,6 +38,10 @@ CCTV-16 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/888888
 CCTV-17 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236373/index.m3u8?IAS
 CCTV-欧洲 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236378/index.m3u8?IAS
 CCTV-美洲 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236335/index.m3u8?IAS
+CGTN1 HD,https://0472.org/hls/cgtn.m3u8
+CGTN2 HD,https://0472.org/hls/cgtnf.m3u8
+CGTN3 HD,https://0472.org/hls/cgtne.m3u8
+CGTN4 HD,https://0472.org/hls/cgtnx.m3u8
 
 东方卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236369/index.m3u8?IAS
 江西卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236357/index.m3u8?IAS
@@ -49,64 +53,59 @@ CCTV-美洲 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88
 
 
 
-CCTV-1 HD,http://live.nctv.top/DJlio/tv.php?id=1
-CCTV-2 HD,http://live.nctv.top/DJlio/tv.php?id=2
-CCTV-3 HD,http://live.nctv.top/DJlio/tv.php?id=3
-CCTV-4 HD,http://live.nctv.top/DJlio/tv.php?id=4
-CCTV-5 HD,http://live.nctv.top/DJlio/tv.php?id=5
-CCTV-6 HD,http://live.nctv.top/DJlio/tv.php?id=6
-CCTV-7 HD,http://live.nctv.top/DJlio/tv.php?id=7
-CCTV-8 HD,http://live.nctv.top/DJlio/tv.php?id=8
-CCTV-9HD,http://live.nctv.top/DJlio/tv.php?id=9
-CCTV-10 HD,http://live.nctv.top/DJlio/tv.php?id=10
-CCTV-11 HD,http://live.nctv.top/DJlio/tv.php?id=11
-CCTV-12 HD,http://tencentplaygsm.gztv.com/live/jingsai.m3u8
-CCTV-13 HD,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV-14 HD,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CCTV-15 HD,http://live.nctv.top/DJlio/tv.php?id=15
-CCTV-16 HD,http://live.nctv.top/DJlio/tv.php?id=16
-CCTV-17 HD,http://live.nctv.top/DJlio/tv.php?id=17
+CCTV-1 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8?IAS
+CCTV-2 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236163/index.m3u8?IAS
+CCTV-3 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236244/index.m3u8?IAS
+CCTV-4 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236258/index.m3u8?IAS
+CCTV-5 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236175/index.m3u8?IAS
+CCTV-5+ HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236306/index.m3u8?IAS
+CCTV-6 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236256/index.m3u8?IAS
+CCTV-7 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236219/index.m3u8?IAS
+CCTV-8 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236211/index.m3u8?IAS
+CCTV-9 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236246/index.m3u8?IAS
+CCTV-10 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236238/index.m3u8?IAS
+CCTV-11 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236216/index.m3u8?IAS
+CCTV-12 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236203/index.m3u8?IAS
+CCTV-13 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236169/index.m3u8?IAS
+CCTV-14 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236257/index.m3u8?IAS
+CCTV-15 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236165/index.m3u8?IAS
+CCTV-16 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8?IAS
+CCTV-17 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index.m3u8?IAS
 
 
-CGTN1,https://0472.org/hls/cgtn.m3u8
-CGTN2,https://0472.org/hls/cgtnf.m3u8
-CGTN3,https://0472.org/hls/cgtne.m3u8
-CGTN4,https://0472.org/hls/cgtnx.m3u8
 
-河南卫视 HD,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视 HD,http://live.nctv.top/DJlio/tv.php?id=2501
+
 
 浙江卫视 HD,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-湖南卫视 HD,http://live.nctv.top/DJlio/tv.php?id=1001
-北京卫视 HD,http://live.nctv.top/DJlio/tv.php?id=1101
+北京卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236241/index.m3u8?IAS
+东方卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236227/index.m3u8?IAS
+浙江卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236171/index.m3u8?IAS
+江苏卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236221/index.m3u8?IAS
+湖南卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236225/index.m3u8?IAS
+广东卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236262/index.m3u8?IAS
+深圳卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236251/index.m3u8?IAS
+天津卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236217/index.m3u8?IAS
+安徽卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228332/1/index.m3u8?IAS
+山东卫视 HD码,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236159/index.m3u8?IAS
+辽宁卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236161/index.m3u8?IAS
+河北卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236242/index.m3u8?IAS
+河南卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231264/1/index.m3u8?IAS
+江西卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236212/index.m3u8?IAS
+湖北卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236271/index.m3u8?IAS
+四川卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236255/index.m3u8?IAS
+重庆卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236292/index.m3u8?IAS
+贵州卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236236/index.m3u8?IAS
+广西卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236263/index.m3u8?IAS
+云南卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236234/index.m3u8?IAS
+东南卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231261/1/index.m3u8?IAS
+海南卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232687/1/index.m3u8?IAS
+青海卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236252/index.m3u8?IAS
+甘肃卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236201/index.m3u8?IAS
+吉林卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236268/index.m3u8?IAS
+黑龙江视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236226/index.m3u8?IAS
 
-东方卫视 HD,http://live.nctv.top/DJlio/tv.php?id=1301
-深圳卫视 HD,http://live.nctv.top/DJlio/tv.php?id=1401
-广东卫视 HD,http://live.nctv.top/DJlio/tv.php?id=1501
-江苏卫视 HD,http://live.nctv.top/DJlio/tv.php?id=1601
-江西卫视 HD,http://live.nctv.top/DJlio/tv.php?id=1701
-安徽卫视 HD,http://live.nctv.top/DJlio/tv.php?id=1801
-四川卫视 HD,http://live.nctv.top/DJlio/tv.php?id=1901
-贵州卫视 HD,http://live.nctv.top/DJlio/tv.php?id=2001
-东南卫视 HD,http://live.nctv.top/DJlio/tv.php?id=2101
-重庆卫视 HD,http://live.nctv.top/DJlio/tv.php?id=2201
-天津卫视 HD,http://live.nctv.top/DJlio/tv.php?id=2301
-山东卫视 HD,http://live.nctv.top/DJlio/tv.php?id=2401
-
-陕西卫视,http://live.nctv.top/DJlio/tv.php?id=2601
-辽宁卫视,http://live.nctv.top/DJlio/tv.php?id=2701
-广西卫视,http://live.nctv.top/DJlio/tv.php?id=2801
-黑龙江卫视,http://live.nctv.top/DJlio/tv.php?id=2901
-河北卫视,http://live.nctv.top/DJlio/tv.php?id=3001
-湖北卫视,http://live.nctv.top/DJlio/tv.php?id=3101
-甘肃卫视,http://live.nctv.top/DJlio/tv.php?id=3201
-吉林卫视,http://live.nctv.top/DJlio/tv.php?id=3301
-云南卫视,http://live.nctv.top/DJlio/tv.php?id=3401
-青海卫视,http://live.nctv.top/DJlio/tv.php?id=3501
-北京卫视,http://live.nctv.top/DJlio/bjtv.php?id=bjws
-
-兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-三沙卫视,https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=c509d0ea1747156492
+兵团卫视 HD,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+三沙卫视 HD,https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=c509d0ea1747156492
 
 
 
@@ -178,8 +177,8 @@ CCTV-5+ HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m
 青海卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 新疆卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 西藏卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+海南卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+兵团卫视 HD,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 
 
@@ -760,8 +759,8 @@ zsicd#http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/play
 
 
 
-重庆,#genre#
-重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
+重庆地方,#genre#
+
 重庆垫江综合,https://play-sh.quklive.com/live/1672366847646284.m3u8
 重庆铜梁综合,https://tlpc01.cqliving.com/ch1.m3u8
 重庆万载综合,http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8#http://ls.qingting.fm/live/273.m3u8
