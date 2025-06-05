@@ -14,24 +14,58 @@
 
 
 
+
+
+
 央卫频联,#genre#
-CCTV1,http://live.nctv.top/DJlio/tv.php?id=1
-CCTV2,http://live.nctv.top/DJlio/tv.php?id=2
-CCTV3,http://live.nctv.top/DJlio/tv.php?id=3
-CCTV4,http://live.nctv.top/DJlio/tv.php?id=4
-CCTV5,http://live.nctv.top/DJlio/tv.php?id=5
-CCTV6,http://live.nctv.top/DJlio/tv.php?id=6
-CCTV7,http://live.nctv.top/DJlio/tv.php?id=7
-CCTV8,http://live.nctv.top/DJlio/tv.php?id=8
-CCTV9,http://live.nctv.top/DJlio/tv.php?id=9
-CCTV10,http://live.nctv.top/DJlio/tv.php?id=10
-CCTV11,http://live.nctv.top/DJlio/tv.php?id=11
-CCTV13,http://tencentplaygsm.gztv.com/live/jingsai.m3u8
-CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV14,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CCTV15,http://live.nctv.top/DJlio/tv.php?id=15
-CCTV16,http://live.nctv.top/DJlio/tv.php?id=16
-CCTV17,http://live.nctv.top/DJlio/tv.php?id=17
+CCTV-1 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236371/index.m3u8?IAS
+CCTV-2 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236443/index.m3u8?IAS
+CCTV-3 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236408/index.m3u8?IAS
+CCTV-4 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236408/index.m3u8?IAS
+CCTV-5 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236406/index.m3u8?IAS
+CCTV-5+ HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236379/index.m3u8?IAS
+CCTV-6 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236388/index.m3u8?IAS
+CCTV-7 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236321/index.m3u8?IAS
+CCTV-8 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236360/index.m3u8?IAS
+CCTV-9 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236518/index.m3u8?IAS
+CCTV-10 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236315/index.m3u8?IAS
+CCTV-11 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236355/index.m3u8?IAS
+CCTV-12 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236350/index.m3u8?IAS
+CCTV-13 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236381/index.m3u8?IAS
+CCTV-14 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228335/1/index.m3u8?IAS
+CCTV-15 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236380/index.m3u8?IAS
+CCTV-16 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232705/1/index.m3u8?IAS
+CCTV-17 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236373/index.m3u8?IAS
+CCTV-欧洲 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236378/index.m3u8?IAS
+CCTV-美洲 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236335/index.m3u8?IAS
+
+东方卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236369/index.m3u8?IAS
+江西卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236357/index.m3u8?IAS
+湖南卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236377/index.m3u8?IAS
+陕西卫视 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236370/index.m3u8?IAS
+
+
+
+
+
+
+CCTV-1 HD,http://live.nctv.top/DJlio/tv.php?id=1
+CCTV-2 HD,http://live.nctv.top/DJlio/tv.php?id=2
+CCTV-3 HD,http://live.nctv.top/DJlio/tv.php?id=3
+CCTV-4 HD,http://live.nctv.top/DJlio/tv.php?id=4
+CCTV-5 HD,http://live.nctv.top/DJlio/tv.php?id=5
+CCTV-6 HD,http://live.nctv.top/DJlio/tv.php?id=6
+CCTV-7 HD,http://live.nctv.top/DJlio/tv.php?id=7
+CCTV-8 HD,http://live.nctv.top/DJlio/tv.php?id=8
+CCTV-9HD,http://live.nctv.top/DJlio/tv.php?id=9
+CCTV-10 HD,http://live.nctv.top/DJlio/tv.php?id=10
+CCTV-11 HD,http://live.nctv.top/DJlio/tv.php?id=11
+CCTV-12 HD,http://tencentplaygsm.gztv.com/live/jingsai.m3u8
+CCTV-13 HD,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV-14 HD,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+CCTV-15 HD,http://live.nctv.top/DJlio/tv.php?id=15
+CCTV-16 HD,http://live.nctv.top/DJlio/tv.php?id=16
+CCTV-17 HD,http://live.nctv.top/DJlio/tv.php?id=17
 
 
 CGTN1,https://0472.org/hls/cgtn.m3u8
@@ -39,25 +73,25 @@ CGTN2,https://0472.org/hls/cgtnf.m3u8
 CGTN3,https://0472.org/hls/cgtne.m3u8
 CGTN4,https://0472.org/hls/cgtnx.m3u8
 
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://live.nctv.top/DJlio/tv.php?id=2501
+河南卫视 HD,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视 HD,http://live.nctv.top/DJlio/tv.php?id=2501
 
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-湖南卫视,http://live.nctv.top/DJlio/tv.php?id=1001
-北京卫视,http://live.nctv.top/DJlio/tv.php?id=1101
+浙江卫视 HD,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+湖南卫视 HD,http://live.nctv.top/DJlio/tv.php?id=1001
+北京卫视 HD,http://live.nctv.top/DJlio/tv.php?id=1101
 
-东方卫视,http://live.nctv.top/DJlio/tv.php?id=1301
-深圳卫视,http://live.nctv.top/DJlio/tv.php?id=1401
-广东卫视,http://live.nctv.top/DJlio/tv.php?id=1501
-江苏卫视,http://live.nctv.top/DJlio/tv.php?id=1601
-江西卫视,http://live.nctv.top/DJlio/tv.php?id=1701
-安徽卫视,http://live.nctv.top/DJlio/tv.php?id=1801
-四川卫视,http://live.nctv.top/DJlio/tv.php?id=1901
-贵州卫视,http://live.nctv.top/DJlio/tv.php?id=2001
-东南卫视,http://live.nctv.top/DJlio/tv.php?id=2101
-重庆卫视,http://live.nctv.top/DJlio/tv.php?id=2201
-天津卫视,http://live.nctv.top/DJlio/tv.php?id=2301
-山东卫视,http://live.nctv.top/DJlio/tv.php?id=2401
+东方卫视 HD,http://live.nctv.top/DJlio/tv.php?id=1301
+深圳卫视 HD,http://live.nctv.top/DJlio/tv.php?id=1401
+广东卫视 HD,http://live.nctv.top/DJlio/tv.php?id=1501
+江苏卫视 HD,http://live.nctv.top/DJlio/tv.php?id=1601
+江西卫视 HD,http://live.nctv.top/DJlio/tv.php?id=1701
+安徽卫视 HD,http://live.nctv.top/DJlio/tv.php?id=1801
+四川卫视 HD,http://live.nctv.top/DJlio/tv.php?id=1901
+贵州卫视 HD,http://live.nctv.top/DJlio/tv.php?id=2001
+东南卫视 HD,http://live.nctv.top/DJlio/tv.php?id=2101
+重庆卫视 HD,http://live.nctv.top/DJlio/tv.php?id=2201
+天津卫视 HD,http://live.nctv.top/DJlio/tv.php?id=2301
+山东卫视 HD,http://live.nctv.top/DJlio/tv.php?id=2401
 
 陕西卫视,http://live.nctv.top/DJlio/tv.php?id=2601
 辽宁卫视,http://live.nctv.top/DJlio/tv.php?id=2701
@@ -902,7 +936,7 @@ zsicd#http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/play
 黑龙江克山综合,https://masterpull.hljtv.com/live/58lOw0L5.m3u8
 
 
-吉林,#genre#
+吉林地方,#genre#
 吉林桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8
 吉林江源综合,http://stream10.jlntv.cn/jiangyuantv/sd/live.m3u8
 吉林延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
@@ -937,153 +971,23 @@ zsicd#http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/play
 
 体育游戏,#genre# 
 巴黎奥运开幕式,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
-MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8  
-红牛TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
-国外体育6,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.flv?wsAuth=ce3c0d32c960ce39c10717b795f7ddf9&token=cpn-androidmpro-0-522423-99737a9b5bf363c27f62ed65c0f1025bd1ccd3a301de7e93&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1 
-王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-
-
-JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-
-JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
- 
-王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2 
-穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1 
-CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571126613feca6067da321aaf2df2&token=cpn-androidmpro-0-868191-846aacab1859214c037e4d0c263121580403540feea39901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1 
-和平精英·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1 
-梦幻西游·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1 
-跑跑卡丁车,http://tc-tct.douyucdn2.cn/dyliveflv1/7722576rWHyhVf6Z_2000.flv?wsAuth=05a690d94290609839e7c868f44fbc3d&token=cpn-androidmpro-0-7722576-6b878e1c279c4ee5468d3b8183a8170664764100093885bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1 
-跑跑卡丁车·手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2 
-QQ飞车·手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.flv?wsAuth=0654cc930e81f0d2b58264196ded38af&token=cpn-androidmpro-0-5040227-432528579fe947129e217c8f3c39d0a94c81c1426c347bfb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2 
-
+直播体育 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235583/index.m3u8?IAS
+体育一,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8  
+体育二,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
+体育三,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+体育四,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 NBA TV(电信),http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
 
 
 经典轮播,#genre#
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+
 重温经典,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
-周星驰1,http://103.193.151.146/huya.php?id=11342412
-周星驰2,http://103.193.151.146/huya.php?id=11336587
-李连杰,http://103.193.151.146/huya.php?id=11342390
-甄子丹,http://103.193.151.146/huya.php?id=11352935
-林正英,http://103.193.151.146/huya.php?id=11342421
-周润发,http://103.193.151.146/huya.php?id=11342387
-成龙,http://103.193.151.146/huya.php?id=11342386
-王晶,http://103.193.151.146/huya.php?id=11602058
-沈腾,http://103.193.151.146/huya.php?id=11601968
-黄渤,http://103.193.151.146/huya.php?id=11352876
-强森,http://103.193.151.146/huya.php?id=21059581
-洪金宝,http://103.193.151.146/huya.php?id=11279251
-梁家辉,http://103.193.151.146/huya.php?id=11342429
-刘德华,http://103.193.151.146/huya.php?id=11342424
-斯坦森,http://103.193.151.146/huya.php?id=21059588
-许冠英,http://103.193.151.146/huya.php?id=11601972
-五福星,http://103.193.151.146/huya.php?id=11282233
-邱淑贞,http://103.193.151.146/huya.php?id=11352949
-古天乐,http://103.193.151.146/huya.php?id=11602041
-徐克,http://103.193.151.146/huya.php?id=11352909
-冯小刚,http://103.193.151.146/huya.php?id=11352906
-漫威,http://103.193.151.146/huya.php?id=11602034
-宇宙,http://103.193.151.146/huya.php?id=11342428
-怪兽,http://103.193.151.146/huya.php?id=21059577
-武侠,http://103.193.151.146/huya.php?id=11342427
-警匪,http://103.193.151.146/huya.php?id=11352886
-罪犯,http://103.193.151.146/huya.php?id=11352962
-枪战,http://103.193.151.146/huya.php?id=21059579
-海盗,http://103.193.151.146/huya.php?id=21059595
-赛车,http://103.193.151.146/huya.php?id=11279247
-推荐,http://103.193.151.146/huya.php?id=11602041
-救援,http://103.193.151.146/huya.php?id=21059594
-热血,http://103.193.151.146/huya.php?id=11352934
-盗墓,http://103.193.151.146/huya.php?id=21059552
-贺岁,http://103.193.151.146/huya.php?id=11601971
-玄幻,http://103.193.151.146/huya.php?id=11342414
-谍战,http://103.193.151.146/huya.php?id=21059585
-战争,http://103.193.151.146/huya.php?id=21059592
-喜剧,http://103.193.151.146/huya.php?id=11352877
-港片,http://103.193.151.146/huya.php?id=11602043
-国产,http://103.193.151.146/huya.php?id=11352973
-电影_小鬼头,http://103.193.151.146/huya.php?id=11352963
-电影_八点档,http://103.193.151.146/huya.php?id=880261
-电影_蜘蛛侠,http://103.193.151.146/huya.php?id=21059599
-电影_贺岁片,http://103.193.151.146/huya.php?id=11601986
-电影_功夫片,http://103.193.151.146/huya.php?id=11352941
-电影_黑帮片,http://103.193.151.146/huya.php?id=11336719
-电影_丧尸片,http://103.193.151.146/huya.php?id=21059578
-电影_灾难片,http://103.193.151.146/huya.php?id=11602075
-电影_谍战片,http://103.193.151.146/huya.php?id=21059587
-电影_战争片,http://103.193.151.146/huya.php?id=21059574
-电影_犯罪片,http://103.193.151.146/huya.php?id=11352974
-电影_古装片,http://103.193.151.146/huya.php?id=11336590
-电影_高分动作,http://103.193.151.146/huya.php?id=11352884
-电影_动作电影,http://103.193.151.146/huya.php?id=11602077
-电影_搞笑喜剧,http://103.193.151.146/huya.php?id=11342423
-电影_喜剧专场,http://103.193.151.146/huya.php?id=11602044
-电影_欢笑影院,http://103.193.151.146/huya.php?id=11352894
-电影_不挤影院,http://103.193.151.146/huya.php?id=11352897
-电影_国产悬疑,http://103.193.151.146/huya.php?id=11342395
-电影_快意江湖,http://103.193.151.146/huya.php?id=11342435
-电影_黑帮斗争,http://103.193.151.146/huya.php?id=11342419
-电影_嫣然影厅,http://103.193.151.146/huya.php?id=11601977
-电影_许氏三杰,http://103.193.151.146/huya.php?id=11602033
-电影_经典港片,http://103.193.151.146/huya.php?id=11352965
-电影_镖行天下,http://103.193.151.146/huya.php?id=11352969
-电影_高能反转,http://103.193.151.146/huya.php?id=11352887
-电影_喜乐影院,http://103.193.151.146/huya.php?id=21059580
-电影_自由影厅,http://103.193.151.146/huya.php?id=11601981
-电影_搞笑恐怖,http://103.193.151.146/huya.php?id=11601960
-电影_死神来了,http://103.193.151.146/huya.php?id=11352903
-电影_变形金刚,http://103.193.151.146/huya.php?id=21059596
-电影_怪兽系列,http://103.193.151.146/huya.php?id=21059554
+重温经典高清,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?IAS
 
 
 
 
-周星驰1,https://fmbox.cc/huya.php?id=11342412
-周星驰2,https://fmbox.cc/huya.php?id=11336587
-李连杰,https://fmbox.cc/huya.php?id=11342390
-洪金宝,https://fmbox.cc/huya.php?id=11279251
-梁家辉,https://fmbox.cc/huya.php?id=11342429
-许冠英,https://fmbox.cc/huya.php?id=11601972
-刘德华,https://fmbox.cc/huya.php?id=11342424
-斯坦森,https://fmbox.cc/huya.php?id=21059588
-林正英,https://fmbox.cc/huya.php?id=11342421
-周润发,https://fmbox.cc/huya.php?id=11342387
-成龙,https://fmbox.cc/huya.php?id=11342386
-明星大片,https://fmbox.cc/huya.php?id=11602058
-沈腾,https://fmbox.cc/huya.php?id=11601968
-黄渤,https://fmbox.cc/huya.php?id=11352876
-强森,https://fmbox.cc/huya.php?id=21059581
-漫威,https://fmbox.cc/huya.php?id=11602034
-宇宙,https://fmbox.cc/huya.php?id=11342428
-怪兽,https://fmbox.cc/huya.php?id=21059577
-陆小凤,https://fmbox.cc/huya.php?id=11342427
-警匪,https://fmbox.cc/huya.php?id=11352886
-罪犯,https://fmbox.cc/huya.php?id=11352962
-枪战,https://fmbox.cc/huya.php?id=21059579
-赛车,https://fmbox.cc/huya.php?id=11279247
-推荐,https://fmbox.cc/huya.php?id=11602041
-热血,https://fmbox.cc/huya.php?id=11352934
-盗墓,https://fmbox.cc/huya.php?id=21059552
-贺岁,https://fmbox.cc/huya.php?id=11601971
-玄幻,https://fmbox.cc/huya.php?id=11342414
-谍战,https://fmbox.cc/huya.php?id=21059585
-喜剧,https://fmbox.cc/huya.php?id=11352877
-港片,https://fmbox.cc/huya.php?id=11602043
-国产,https://fmbox.cc/huya.php?id=11352973
-搞笑喜剧,https://fmbox.cc/huya.php?id=11342423
-国产悬疑,https://fmbox.cc/huya.php?id=11342395
-快意江湖,https://fmbox.cc/huya.php?id=11342435
-黑帮斗争,https://fmbox.cc/huya.php?id=11342419
-斯坦森,http://cdn.jdshipin.com:8880/huya.php?id=21059588
-
-JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
-JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
-JJ斗地主,http://i.880824.xyz:35455/douyu/488743
 
  
 
@@ -1660,8 +1564,6 @@ Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.
 晋剧折子戏武松打店,https://vdse.bdstatic.com//0855a1e48e701a11f89817dbd13b5762.mp4
 晋剧徐策跑城-武忠,https://vdse.bdstatic.com//4997ec4a0d880c832c518a0b48b53866.mp4
 曲剧卷席筒-小仓娃跪大堂诉冤枉,http://gcw.bdcdn.shoujiduoduo.com/v/190223/09e4765a1fdf115854f683e7fa863377.mp4
-川剧变脸,https://vd3.bdstatic.com/mda-mgk7bc9g2q5nxauy/480p/h264/1626844289201228955/mda-mgk7bc9g2q5nxauy.mp4
-川剧变脸喷火,https://vd3.bdstatic.com/mda-nme9ie9wej0n1uk9/sc/cae_h264/1671101517550075754/mda-nme9ie9wej0n1uk9.mp4
 川剧精选十个,https://vdse.bdstatic.com//fbc0919a49e45af49af8112bc6620103.mp4
 郝刚,http://gcw.bdcdn.shoujiduoduo.com/v/190818/e3a8feab9a9cb53c1c9494a561d9f594.mp4
 黄梅戏春香闹学,http://gcw.bdcdn.shoujiduoduo.com/v/201027/552dcdf37bdf2b4ff56d9e79bb58f527.mp4
