@@ -16,14 +16,6 @@
       "filterable": 1
     },
     {
-      "key": "素白白",
-      "name": "蓝光┃白白",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
-      "ext": "https://www.subaibai.com"
-    },
-    {
       "key": "热播影视",
       "name": "蓝光┃热播",
       "type": 3,
@@ -31,22 +23,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
-      "ext": {
-        "url": "http://v.rbotv.cn"}
-    },
+      "ext": {"url": "http://v.rbotv.cn"}
+    },	
     {
-      "key": "浪酷影视",
-      "name": "🏄️┃浪酷┃秒播",
+      "key": "晴空",
+      "name": "蓝光┃多线",
       "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
-      "ext": {
-        "url": "http://v.lkuys.cn"}
-    },		
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qiaoz.jar",
+      "ext": "7lj763gg402i7942463j9j9jg8558j9jlgh1j913il86313j776l14ljjh3l5k383999648j9064g6h22738938il8jk30k2i6427h67jkhglji910996ig539"
+    },
     {
       "key": "金牌影视",
       "name": "蓝光｜金牌",
@@ -59,15 +46,6 @@
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jinp.jar",
       "ext": {
       "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}
-    },
-    {
-      "key": "晴空",
-      "name": "蓝光┃晴空",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qiaoz.jar",
-      "ext": "7lj763gg402i7942463j9j9jg8558j9jlgh1j913il86313j776l14ljjh3l5k383999648j9064g6h22738938il8jk30k2i6427h67jkhglji910996ig539"
     },
     {
       "key": "星芽短剧",
