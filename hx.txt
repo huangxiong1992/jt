@@ -17,13 +17,13 @@
     },
     {
       "key": "素白白",
-      "name": "蓝光白白",
+      "name": "蓝光┃白白",
       "type": 3,
       "api": "csp_SuBaiBai",
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
       "ext": "https://www.subaibai.com"
-},
-{
+    },
+    {
       "key": "热播影视",
       "name": "蓝光┃热播",
       "type": 3,
@@ -33,10 +33,9 @@
       "filterable": 0,
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
       "ext": {
-        "url": "http://v.rbotv.cn"
-      }
-},
-{
+        "url": "http://v.rbotv.cn"}
+    },
+    {
       "key": "浪酷影视",
       "name": "🏄️┃浪酷┃秒播",
       "type": 3,
@@ -46,9 +45,8 @@
       "filterable": 0,
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
       "ext": {
-        "url": "http://v.lkuys.cn"
-      }
-},		
+        "url": "http://v.lkuys.cn"}
+    },		
     {
       "key": "金牌影视",
       "name": "蓝光｜金牌",
@@ -80,6 +78,18 @@
       "searchable": 1,
        "quickSearch": 0,
        "filterable": 0
+    },
+    {
+      "key": "哔哩哔哩",
+      "name": "BL｜专区一",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 2,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/blfl.txt"
     },
     {
       "key": "csp_Kugou",
@@ -119,6 +129,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xsxp.txt"
+    },
+    {
+      "key": "戏曲",
+      "name": "戏曲｜大全",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xq.txt"
     },
     {
       "key": "国学",
