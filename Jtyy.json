@@ -1,4 +1,5 @@
 
+
 {
   "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/4k.jar",
   "logo": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/lg.gif",
@@ -15,8 +16,27 @@
       "filterable": 1
     },
     {
+      "key": "热播影视",
+      "name": "蓝光┃热播",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {"url": "http://v.rbotv.cn"}
+    },	
+    {
+      "key": "晴空",
+      "name": "蓝光┃多线",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qiaoz.jar",
+      "ext": "7lj763gg402i7942463j9j9jg8558j9jlgh1j913il86313j776l14ljjh3l5k383999648j9064g6h22738938il8jk30k2i6427h67jkhglji910996ig539"
+    },
+    {
       "key": "金牌影视",
-      "name": "蓝光｜速播",
+      "name": "蓝光｜金牌",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
@@ -28,13 +48,26 @@
       "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}
     },
     {
-      "key": "晴空",
-      "name": "蓝光┃超清",
+      "key": "星芽短剧",
+      "name": "蓝光┃短剧",
       "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qiaoz.jar",
-      "ext": "7lj763gg402i7942463j9j9jg8558j9jlgh1j913il86313j776l14ljjh3l5k383999648j9064g6h22738938il8jk30k2i6427h67jkhglji910996ig539"
+      "api": "csp_AppXY",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
+      "searchable": 1,
+       "quickSearch": 0,
+       "filterable": 0
+    },
+    {
+      "key": "哔哩哔哩",
+      "name": "BL｜专区一",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 2,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/blfl.txt"
     },
     {
       "key": "csp_Kugou",
@@ -74,6 +107,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xsxp.txt"
+    },
+    {
+      "key": "戏曲",
+      "name": "戏曲｜大全",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xq.txt"
     },
     {
       "key": "国学",
@@ -445,7 +489,7 @@
     {
       "name": "飞快线",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/testTV/refs/heads/main/testtv.txt",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/testTV/refs/heads/main/MV.txt",
       "playerType": 1
     },
     {
