@@ -16,8 +16,42 @@
       "filterable": 1
     },
     {
+      "key": "素白白",
+      "name": "蓝光白白",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
+      "ext": "https://www.subaibai.com"
+},
+{
+      "key": "热播影视",
+      "name": "蓝光┃热播",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+},
+{
+      "key": "浪酷影视",
+      "name": "🏄️┃浪酷┃秒播",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
+      "ext": {
+        "url": "http://v.lkuys.cn"
+      }
+},		
+    {
       "key": "金牌影视",
-      "name": "蓝光｜速播",
+      "name": "蓝光｜金牌",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
@@ -30,12 +64,22 @@
     },
     {
       "key": "晴空",
-      "name": "蓝光┃超清",
+      "name": "蓝光┃晴空",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qiaoz.jar",
       "ext": "7lj763gg402i7942463j9j9jg8558j9jlgh1j913il86313j776l14ljjh3l5k383999648j9064g6h22738938il8jk30k2i6427h67jkhglji910996ig539"
+    },
+    {
+      "key": "星芽短剧",
+      "name": "蓝光┃短剧",
+      "type": 3,
+      "api": "csp_AppXY",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
+      "searchable": 1,
+       "quickSearch": 0,
+       "filterable": 0
     },
     {
       "key": "csp_Kugou",
@@ -64,17 +108,6 @@
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/88.jar",
       "order_num": 0,
       "changeable": 0
-    },
-    {
-      "key": "梨园",
-      "name": "梨园｜戏曲",
-      "type": 3,
-      "api": "http://150.158.112.123/js/dr/drpy2.min.js",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/xch/refs/heads/main/xc.jar",  
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/ly.txt"
     },
     {
       "key": "相声小品",
@@ -457,7 +490,7 @@
     {
       "name": "飞快线",
       "type": 0,
-      "url": "https://gitee.com/qqyywb/250321/raw/master/123.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/testTV/refs/heads/main/MV.txt",
       "playerType": 1
     },
     {
