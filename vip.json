@@ -59,9 +59,9 @@
       "quickSearch": 1,
       "filterable": 1
     },
-,	  {
+    {
       "key": "热播影视",
-      "name": "蓝光┃热播",
+      "name": "🐠┃热播┃秒播",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -71,8 +71,8 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       }
-    },
-    {
+},
+{
       "key": "金牌影视",
       "name": "蓝光｜金牌",
       "type": 3,
