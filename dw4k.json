@@ -58,8 +58,8 @@
       "api": "csp_AppXY",
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
       "searchable": 1,
-       "quickSearch": 0,
-       "filterable": 0
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "瓜子影视",
@@ -73,7 +73,7 @@
     },
     {
       "key": "热播影视",
-      "name": "🐠┃热播┃秒播",
+      "name": "蓝光｜热播",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -81,10 +81,9 @@
       "filterable": 0,
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
       "ext": {
-        "url": "http://v.rbotv.cn"
-      }
-},
-{
+        "url": "http://v.rbotv.cn"}
+    },
+    {
       "key": "金牌影视",
       "name": "蓝光｜金牌",
       "type": 3,
@@ -104,8 +103,8 @@
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/hyzb.js",
       "style": {
-        "type": "rect",
-        "ratio": 1.597
+      "type": "rect",
+      "ratio": 1.597
       }
     },
     {
@@ -146,17 +145,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/ly.txt"
-    },
-    {
-      "key": "戏曲",
-      "name": "戏曲｜大全",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xq.txt"
     },
     {
       "key": "相声小品",
