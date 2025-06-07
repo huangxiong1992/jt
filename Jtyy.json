@@ -23,16 +23,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
       "ext": {"url": "http://v.rbotv.cn"}
-    },	
-    {
-      "key": "晴空",
-      "name": "蓝光┃多线",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qiaoz.jar",
-      "ext": "7lj763gg402i7942463j9j9jg8558j9jlgh1j913il86313j776l14ljjh3l5k383999648j9064g6h22738938il8jk30k2i6427h67jkhglji910996ig539"
     },
     {
       "key": "金牌影视",
@@ -59,7 +51,7 @@
     },
     {
       "key": "哔哩哔哩",
-      "name": "BL｜专区一",
+      "name": "哔哔｜专区",
       "type": 3,
       "api": "csp_Bili",
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
