@@ -60,16 +60,6 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/blfl.txt"
     },
     {
-      "key": "星芽短剧",
-      "name": "短剧┃专区",
-      "type": 3,
-      "api": "csp_AppXY",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "瓜子影视",
       "name": "蓝光｜秒播",
       "type": 3,
@@ -87,7 +77,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
       "ext": {
         "url": "http://v.rbotv.cn"}
     },
