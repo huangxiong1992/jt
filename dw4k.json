@@ -5,6 +5,14 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
+      "key": "豆瓣",
+      "name": "如遇卡顿点击换源",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/Dban.jar",
+      "searchable": 0
+    },
+    {
       "key": "hipy_js_腾云驾雾[官]",
       "name": "4k｜专区一",
       "type": 3,
