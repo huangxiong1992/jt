@@ -16,23 +16,8 @@
       "filterable": 1
     },
     {
-      "key": "晴天",
-      "name": "🌞┃晴天┃影视",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
-      "ext": {
-        "url": "https://qjappcms.sun4k.top",
-        "dataKey": "sBxqXVF5pAHbGzrH",
-        "dataIv": "sBxqXVF5pAHbGzrH",
-        "deviceId": "",
-        "version": "119"
- }
-},
-{
       "key": "热播影视",
-      "name": "🐠┃热播┃秒播",
+      "name": "蓝光┃热播",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
