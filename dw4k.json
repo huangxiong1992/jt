@@ -30,7 +30,7 @@
     },
     {
       "key": "央视大全",
-      "name": "央央｜大全",
+      "name": "央央｜专区",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "searchable": 1,
@@ -40,40 +40,26 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysdq.js"
     },
     {
-      "key": "bili",
-      "name": "哔哔｜大全",
+      "key": "哔哩哔哩",
+      "name": "哔哔｜专区",
       "type": 3,
-      "api": "csp_BiliGuard",
+      "api": "csp_Bili",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 2,
       "filterable": 1,
-      "style":{"type":"rect","ratio":1.433},
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "ext":{"json":"https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/bili.txt"},
-      "timeout":20
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/blfl.txt"
     },
     {
       "key": "星芽短剧",
-      "name": "蓝光┃短剧一",
+      "name": "短剧┃专区",
       "type": 3,
-      "api": "csp_AppXYGuard",
+      "api": "csp_AppXY",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "timeout":10
-    },
-    {
-      "key": "甜圈短剧",
-      "name": "蓝光┃短剧二",
-      "type": 3,
-      "api": "csp_TianQuanGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "timeout":10
+       "quickSearch": 0,
+       "filterable": 0
     },
     {
       "key": "瓜子影视",
@@ -86,8 +72,18 @@
       "filterable": 1
     },
     {
+      "key": "热播影视",
+      "name": "蓝光┃热播",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {"url": "http://v.rbotv.cn"}
+    },	
+    {
       "key": "金牌影视",
-      "name": "蓝光｜速播",
+      "name": "蓝光｜金牌",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
@@ -100,7 +96,7 @@
     },
     {
       "key": "晴空",
-      "name": "蓝光┃超清",
+      "name": "蓝光┃多线",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
@@ -108,29 +104,15 @@
       "ext": "7lj763gg402i7942463j9j9jg8558j9jlgh1j913il86313j776l14ljjh3l5k383999648j9064g6h22738938il8jk30k2i6427h67jkhglji910996ig539"
     },
     {
-      "key": "韩圈",
-      "name": "蓝光┃韩剧",
+      "key": "虎牙直播",
+      "name": "☀虎牙🔹直播",
       "type": 3,
-      "api": "csp_HanXiaoQuanGuard",
-      "playerType":2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "ext":{"danmu":true},
-      "timeout":10
-    },
-    {
-      "key": "快手直播",
-      "name": "快快┃直播",
-      "type": 3,
-      "api": "csp_KsLiveGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "style":{"type":"rect","ratio":1.433},
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ok321.jar;md5;a990ee791a4ef311613089aff8822e47",
-      "timeout":10
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/hyzb.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
     },
     {
       "key": "csp_Kugou",
@@ -172,6 +154,17 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/ly.txt"
     },
     {
+      "key": "戏曲",
+      "name": "戏曲｜大全",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xq.txt"
+    },
+    {
       "key": "相声小品",
       "name": "相声｜小品",
       "type": 3,
@@ -192,6 +185,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/gx.txt"
+    },
+    {
+      "key": "兔小贝",
+      "name": "幼儿｜启蒙",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/txb.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
     },
     {
       "key": "幼儿",
