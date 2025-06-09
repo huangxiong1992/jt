@@ -59,20 +59,6 @@
        "filterable": 0
     },
     {
-      "key": "荐片弹幕",
-      "name": "蓝光｜超清",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/janp.jar",
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
       "key": "金牌影视",
       "name": "蓝光｜金牌",
       "type": 3,
