@@ -8,20 +8,130 @@
 皇兄语音云盒,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
 4K测试一,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 4K测试二,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-4K测试三,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-央央卫卫,#genre#
+以下为 测试节目,http://42.48.17.189:9002/tsfile/live/0124_1.m3u8
+点击遥控 确认键 观看更多,http://42.48.17.189:9002/tsfile/live/1006_1.m3u8
 
 CCTV-13 HD,http://tencentplaygsm.gztv.com/live/jingsai.m3u8
-CCTV-13 HD,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-14 HD,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 浙江卫视 HD,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 兵团卫视 HD,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 三沙卫视 HD,https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=c509d0ea1747156492
 
+CCTV5体育,http://42.48.17.189:9002/tsfile/live/0005_1.m3u8
+CCTV6电影,http://42.48.17.189:9002/tsfile/live/0006_1.m3u8
+CCTV7军农,http://42.48.17.189:9002/tsfile/live/0007_1.m3u8
+CCTV8电视剧,http://42.48.17.189:9002/tsfile/live/0008_1.m3u8
+CCTV9纪录,http://42.48.17.189:9002/tsfile/live/0009_1.m3u8
+CCTV10科教,http://42.48.17.189:9002/tsfile/live/0010_1.m3u8
+CCTV11戏曲,http://42.48.17.189:9002/tsfile/live/0011_1.m3u8
+CCTV12社会与法,http://42.48.17.189:9002/tsfile/live/0012_1.m3u8
+CCTV14少儿,http://42.48.17.189:9002/tsfile/live/0014_1.m3u8
+CCTV15音乐,http://42.48.17.189:9002/tsfile/live/0015_1.m3u8
+四川卫视,http://42.48.17.189:9002/tsfile/live/0123_1.m3u8
+海南卫视,http://42.48.17.189:9002/tsfile/live/1009_1.m3u8
+东南卫视,http://42.48.17.189:9002/tsfile/live/0137_1.m3u8
+东方卫视,http://42.48.17.189:9002/tsfile/live/0107_2.m3u8
+江西卫视,http://42.48.17.189:9002/tsfile/live/0138_2.m3u8
+宁夏卫视,http://42.48.17.189:9002/tsfile/live/0112_1.m3u8
+吉林卫视,http://42.48.17.189:9002/tsfile/live/0116_1.m3u8
+西藏卫视,http://42.48.17.189:9002/tsfile/live/1005_1.m3u8
+浙江卫视,http://42.48.17.189:9002/tsfile/live/0124_2.m3u8
+江苏卫视,http://42.48.17.189:9002/tsfile/live/0127_2.m3u8
+河北卫视,http://42.48.17.189:9002/tsfile/live/0117_1.m3u8
+贵州卫视,http://42.48.17.189:9002/tsfile/live/0120_1.m3u8
+湖北卫视,http://42.48.17.189:9002/tsfile/live/0132_1.m3u8
+广东卫视,http://42.48.17.189:9002/tsfile/live/0125_1.m3u8
+辽宁卫视,http://42.48.17.189:9002/tsfile/live/0121_1.m3u8
+深圳卫视,http://42.48.17.189:9002/tsfile/live/0126_1.m3u8
+黑龙江卫视,http://42.48.17.189:9002/tsfile/live/0138_1.m3u8
+山东卫视,http://42.48.17.189:9002/tsfile/live/0107_1.m3u8
+天津卫视,http://42.48.17.189:9002/tsfile/live/0135_1.m3u8
+北京卫视,http://42.48.17.189:9002/tsfile/live/0122_1.m3u8
+安徽卫视,http://42.48.17.189:9002/tsfile/live/0130_1.m3u8
+湖南都市,http://42.48.17.189:9002/tsfile/live/0127_1.m3u8
 
 
 
+
+
+
+
+
+
+
+央卫视一,#genre#
+CCTV-01 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
+CCTV-02 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
+CCTV-03 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
+CCTV-04 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
+CCTV-05 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5
+CCTV-5+ HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5+
+CCTV-06 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6
+CCTV-07 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV7
+CCTV-08 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8
+CCTV-09 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV9
+CCTV-10 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV10
+CCTV-11 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV11
+CCTV-12 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
+CCTV-13 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV13
+CCTV-14 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14
+CCTV-15 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
+CCTV-16 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
+CCTV-17 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
+北京卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
+东方卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
+浙江卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
+江苏卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=江苏卫视
+湖南卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
+广东卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=广东卫视
+深圳卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=深圳卫视
+天津卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=天津卫视
+安徽卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=安徽卫视
+山东卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=山东卫视
+辽宁卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=辽宁卫视
+河北卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=河北卫视
+河南卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=河南卫视
+江西卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=江西卫视
+四川卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=四川卫视
+重庆卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
+贵州卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=贵州卫视
+湖北卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=湖北卫视
+广西卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=广西卫视
+东南卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=东南卫视
+海南卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=海南卫视
+青海卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=青海卫视
+吉林卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=吉林卫视
+黑龙江视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=黑龙江卫视
+凤凰中文 HD,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
+凤凰香港 HD,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
+
+
+
+央卫视二,#genre#
+CCTV-01 HD,http://123.149.237.171:9003//hls/1/index.m3u8
+CCTV-02 HD,http://123.149.237.171:9003//hls/2/index.m3u8
+CCTV-03 HD,http://123.149.237.171:9003//hls/3/index.m3u8
+CCTV-04 HD,http://123.149.237.171:9003//hls/4/index.m3u8
+CCTV-05 HD,http://123.149.237.171:9003//hls/5/index.m3u8
+CCTV-06 HD,http://123.149.237.171:9003//hls/6/index.m3u8
+CCTV-07 HD,http://123.149.237.171:9003//hls/7/index.m3u8
+CCTV-08 HD,http://123.149.237.171:9003//hls/8/index.m3u8
+CCTV-09 HD,http://123.149.237.171:9003//hls/9/index.m3u8
+CCTV-10 HD,http://123.149.237.171:9003//hls/10/index.m3u8
+CCTV-11 HD,http://123.149.237.171:9003//hls/11/index.m3u8
+CCTV-12 HD,http://123.149.237.171:9003//hls/12/index.m3u8
+CCTV-13 HD,http://123.149.237.171:9003//hls/13/index.m3u8
+CCTV-14 HD,http://123.149.237.171:9003//hls/14/index.m3u8
+北京卫视 HD,http://123.149.237.171:9003//hls/20/index.m3u8
+东方卫视 HD,http://123.149.237.171:9003//hls/21/index.m3u8
+浙江卫视 HD,http://123.149.237.171:9003//hls/19/index.m3u8
+江苏卫视 HD,http://123.149.237.171:9003//hls/18/index.m3u8
+湖南卫视 HD,http://123.149.237.171:9003//hls/17/index.m3u8
+深圳卫视 HD,http://123.149.237.171:9003//hls/24/index.m3u8
+安徽卫视 HD,http://123.149.237.171:9003//hls/23/index.m3u8
+山东卫视 HD,http://123.149.237.171:9003//hls/22/index.m3u8
+河南卫视 HD,http://123.149.237.171:9003//hls/15/index.m3u8
 
 
 
@@ -662,7 +772,12 @@ zsicd#http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/play
 重庆万载综合,http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8#http://ls.qingting.fm/live/273.m3u8
 重庆武隆综合,https://yypull.cbg.cn/applive/wltvzh/playlist.m3u8
 重庆永川综合,https://yypull.cbg.cn/applive/yctv01/playlist.m3u8
-
+巴南综合,http://live.cqbntv.com/bnmc/tv0709.m3u8
+云阳综合,https://live.yunyangwang.com/live/dszb.m3u8
+璧山综合,http://222.179.42.129:8181/hls1.m3u8
+潼南综合,http://183.230.184.51:65500/tntv1.m3u8
+垫江综合,http://125.62.24.185:80/1.m3u8
+荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 
 
 
@@ -1626,29 +1741,48 @@ CEC健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 
 回顾春晚,#genre#
-春晚1991,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8	
-春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8	
-春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8	
-春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8	
-春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8	
-春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8	
-春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8	
-春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8	
-春晚2000,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8	
-春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8	
-春晚2002,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8	
-春晚2004,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8	
-春晚2005,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8	
-春晚2006,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8	
-春晚2007,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8	
-春晚2008,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8	
-春晚2009,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8	
-春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8	
-春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8	
-春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8	
-春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4	
-春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4	
-春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8	
+1983年春晚,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
+1984年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
+1985年春晚,http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
+1986年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+1987年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+1988年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+1989年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
+1992年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+1993年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+1994年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+1995年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+1996年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
+1997年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+1998年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+1999年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+2000年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+2001年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+2002年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+2003年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
+2004年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+2005年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+2006年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+2007年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+2008年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+2009年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
+2010年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
+2011年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
+2012年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+2013年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
+2014年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+2015年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+2016年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
+2017年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
+2018年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
+2019年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
+2020年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+2021年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
+2022年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
+2023年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
+
 
 全新裸眼3D,#genre#
 3D01,https://vd3.bdstatic.com/mda-mfnc43q5ngnzua6p/sc/cae_h264/1624437508830556235/mda-mfnc43q5ngnzua6p.mp4
