@@ -958,7 +958,7 @@ zsicd#http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/play
 
 
 
-少儿动画,#genre#
+经典动画,#genre#
 央视少儿,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
@@ -979,7 +979,7 @@ zsicd#http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/play
 
 
 
-体育游戏,#genre# 
+经典体育,#genre# 
 巴黎奥运开幕式,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
 直播体育 HD,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235583/index.m3u8?IAS
 体育一,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8  
@@ -990,10 +990,129 @@ NBA TV(电信),http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
 
 
+
+
 经典轮播,#genre#
 
-重温经典,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
-重温经典高清,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?IAS
+周星驰1,http://103.193.151.146/huya.php?id=11342412
+周星驰2,http://103.193.151.146/huya.php?id=11336587
+李连杰,http://103.193.151.146/huya.php?id=11342390
+甄子丹,http://103.193.151.146/huya.php?id=11352935
+林正英,http://103.193.151.146/huya.php?id=11342421
+周润发,http://103.193.151.146/huya.php?id=11342387
+成龙,http://103.193.151.146/huya.php?id=11342386
+王晶,http://103.193.151.146/huya.php?id=11602058
+沈腾,http://103.193.151.146/huya.php?id=11601968
+黄渤,http://103.193.151.146/huya.php?id=11352876
+强森,http://103.193.151.146/huya.php?id=21059581
+洪金宝,http://103.193.151.146/huya.php?id=11279251
+梁家辉,http://103.193.151.146/huya.php?id=11342429
+刘德华,http://103.193.151.146/huya.php?id=11342424
+斯坦森,http://103.193.151.146/huya.php?id=21059588
+许冠英,http://103.193.151.146/huya.php?id=11601972
+五福星,http://103.193.151.146/huya.php?id=11282233
+邱淑贞,http://103.193.151.146/huya.php?id=11352949
+古天乐,http://103.193.151.146/huya.php?id=11602041
+徐克,http://103.193.151.146/huya.php?id=11352909
+冯小刚,http://103.193.151.146/huya.php?id=11352906
+漫威,http://103.193.151.146/huya.php?id=11602034
+宇宙,http://103.193.151.146/huya.php?id=11342428
+怪兽,http://103.193.151.146/huya.php?id=21059577
+武侠,http://103.193.151.146/huya.php?id=11342427
+警匪,http://103.193.151.146/huya.php?id=11352886
+罪犯,http://103.193.151.146/huya.php?id=11352962
+枪战,http://103.193.151.146/huya.php?id=21059579
+海盗,http://103.193.151.146/huya.php?id=21059595
+赛车,http://103.193.151.146/huya.php?id=11279247
+推荐,http://103.193.151.146/huya.php?id=11602041
+救援,http://103.193.151.146/huya.php?id=21059594
+热血,http://103.193.151.146/huya.php?id=11352934
+盗墓,http://103.193.151.146/huya.php?id=21059552
+贺岁,http://103.193.151.146/huya.php?id=11601971
+玄幻,http://103.193.151.146/huya.php?id=11342414
+谍战,http://103.193.151.146/huya.php?id=21059585
+战争,http://103.193.151.146/huya.php?id=21059592
+喜剧,http://103.193.151.146/huya.php?id=11352877
+港片,http://103.193.151.146/huya.php?id=11602043
+国产,http://103.193.151.146/huya.php?id=11352973
+经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+电影_小鬼头,http://103.193.151.146/huya.php?id=11352963
+电影_八点档,http://103.193.151.146/huya.php?id=880261
+电影_蜘蛛侠,http://103.193.151.146/huya.php?id=21059599
+电影_贺岁片,http://103.193.151.146/huya.php?id=11601986
+电影_功夫片,http://103.193.151.146/huya.php?id=11352941
+电影_黑帮片,http://103.193.151.146/huya.php?id=11336719
+电影_丧尸片,http://103.193.151.146/huya.php?id=21059578
+电影_灾难片,http://103.193.151.146/huya.php?id=11602075
+电影_谍战片,http://103.193.151.146/huya.php?id=21059587
+电影_战争片,http://103.193.151.146/huya.php?id=21059574
+电影_犯罪片,http://103.193.151.146/huya.php?id=11352974
+电影_古装片,http://103.193.151.146/huya.php?id=11336590
+电影_高分动作,http://103.193.151.146/huya.php?id=11352884
+电影_动作电影,http://103.193.151.146/huya.php?id=11602077
+电影_搞笑喜剧,http://103.193.151.146/huya.php?id=11342423
+电影_喜剧专场,http://103.193.151.146/huya.php?id=11602044
+电影_欢笑影院,http://103.193.151.146/huya.php?id=11352894
+电影_不挤影院,http://103.193.151.146/huya.php?id=11352897
+电影_国产悬疑,http://103.193.151.146/huya.php?id=11342395
+电影_快意江湖,http://103.193.151.146/huya.php?id=11342435
+电影_黑帮斗争,http://103.193.151.146/huya.php?id=11342419
+电影_嫣然影厅,http://103.193.151.146/huya.php?id=11601977
+电影_许氏三杰,http://103.193.151.146/huya.php?id=11602033
+电影_经典港片,http://103.193.151.146/huya.php?id=11352965
+电影_镖行天下,http://103.193.151.146/huya.php?id=11352969
+电影_高能反转,http://103.193.151.146/huya.php?id=11352887
+电影_喜乐影院,http://103.193.151.146/huya.php?id=21059580
+电影_自由影厅,http://103.193.151.146/huya.php?id=11601981
+电影_搞笑恐怖,http://103.193.151.146/huya.php?id=11601960
+电影_死神来了,http://103.193.151.146/huya.php?id=11352903
+电影_变形金刚,http://103.193.151.146/huya.php?id=21059596
+电影_怪兽系列,http://103.193.151.146/huya.php?id=21059554
+
+
+
+
+周星驰1,https://fmbox.cc/huya.php?id=11342412
+周星驰2,https://fmbox.cc/huya.php?id=11336587
+李连杰,https://fmbox.cc/huya.php?id=11342390
+洪金宝,https://fmbox.cc/huya.php?id=11279251
+梁家辉,https://fmbox.cc/huya.php?id=11342429
+许冠英,https://fmbox.cc/huya.php?id=11601972
+刘德华,https://fmbox.cc/huya.php?id=11342424
+斯坦森,https://fmbox.cc/huya.php?id=21059588
+林正英,https://fmbox.cc/huya.php?id=11342421
+周润发,https://fmbox.cc/huya.php?id=11342387
+成龙,https://fmbox.cc/huya.php?id=11342386
+明星大片,https://fmbox.cc/huya.php?id=11602058
+沈腾,https://fmbox.cc/huya.php?id=11601968
+黄渤,https://fmbox.cc/huya.php?id=11352876
+强森,https://fmbox.cc/huya.php?id=21059581
+漫威,https://fmbox.cc/huya.php?id=11602034
+宇宙,https://fmbox.cc/huya.php?id=11342428
+怪兽,https://fmbox.cc/huya.php?id=21059577
+陆小凤,https://fmbox.cc/huya.php?id=11342427
+警匪,https://fmbox.cc/huya.php?id=11352886
+罪犯,https://fmbox.cc/huya.php?id=11352962
+枪战,https://fmbox.cc/huya.php?id=21059579
+赛车,https://fmbox.cc/huya.php?id=11279247
+推荐,https://fmbox.cc/huya.php?id=11602041
+热血,https://fmbox.cc/huya.php?id=11352934
+盗墓,https://fmbox.cc/huya.php?id=21059552
+贺岁,https://fmbox.cc/huya.php?id=11601971
+玄幻,https://fmbox.cc/huya.php?id=11342414
+谍战,https://fmbox.cc/huya.php?id=21059585
+喜剧,https://fmbox.cc/huya.php?id=11352877
+港片,https://fmbox.cc/huya.php?id=11602043
+国产,https://fmbox.cc/huya.php?id=11352973
+搞笑喜剧,https://fmbox.cc/huya.php?id=11342423
+国产悬疑,https://fmbox.cc/huya.php?id=11342395
+快意江湖,https://fmbox.cc/huya.php?id=11342435
+黑帮斗争,https://fmbox.cc/huya.php?id=11342419
+斯坦森,http://cdn.jdshipin.com:8880/huya.php?id=21059588
+
+JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
+JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
+JJ斗地主,http://i.880824.xyz:35455/douyu/488743
 
 
 
@@ -1673,7 +1792,7 @@ Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.
 
 
 
-广场舞蹈,#genre#
+经典舞蹈,#genre#
 广场舞1,https://vd2.bdstatic.com/mda-nbc9krdu58y0w844/cae_h264_delogo/1644737717799414977/mda-nbc9krdu58y0w844.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650257585-0-0-93c6d8466ab9f586084e618631165335&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1384669368&vid=6183288197091076409&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=593&split=569972
 广场舞2,https://vd3.bdstatic.com/mda-ncnfujbdbdguk7n8/cae_h264_delogo/1648034591146021372/mda-ncnfujbdbdguk7n8.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650257586-0-0-f63fe07e4326d1f944211a55fe97994f&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1385845721&vid=6626231383801076537&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=396&split=395120
 广场舞3,https://vd2.bdstatic.com/mda-ncpdhfxk5hgsm2pi/cae_h264_delogo/1648116026103826817/mda-ncpdhfxk5hgsm2pi.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650257585-0-0-7cb26f590f6858a28b09aef879115ac5&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1384669368&vid=4476335728632506126&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=445&split=453756
@@ -1719,7 +1838,7 @@ Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.
 广场舞43,https://vd3.bdstatic.com/mda-nd9gfk9i5gjjc949/cae_h264_delogo/1649590943331366674/mda-nd9gfk9i5gjjc949.mp4?v_from_s=hkapp-haokan-hna&auth_key=1650257611-0-0-7052678f09559f6ca353cbd52bef7c6b&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=&logid=1411194650&vid=11826523506628151737&pt=0&appver=&model=&cr=0&abtest=peav_l52&sle=1&sl=791&split=73128
 
 
-文化教育,#genre#
+经典文化,#genre#
 CEC文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CEC旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 CEC教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
@@ -1748,11 +1867,8 @@ CEC健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 轻松调频,http://sk.cri.cn/915.m3u8
 劲曲调频,http://sk.cri.cn/887.m3u8
 华语环球,http://sk.cri.cn/hyhq.m3u8
-华语环球(CRIChineseService),https://sk.cri.cn/hyhq.m3u8
-环球资讯,http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 环球资讯,http://sk.cri.cn/905.m3u8
-环球资讯广播(CRINewsRadio),https://sk.cri.cn/905.m3u8
-世界华声(粤客闽潮方言广播海峡飞虹),https://sk.cri.cn/hxfh.m3u8
+华声(粤客闽潮方言),https://sk.cri.cn/hxfh.m3u8
 
 
 上海动感101,http://live.xmcdn.com:80/live/53/64.m3u8
