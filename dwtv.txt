@@ -60,7 +60,7 @@ CCTV15音乐,http://42.48.17.189:9002/tsfile/live/0015_1.m3u8
 
 
 
-央卫视一,#genre#
+央央卫卫,#genre#
 CCTV-01 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 CCTV-02 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
 CCTV-03 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
@@ -107,31 +107,6 @@ CCTV-17 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 凤凰香港 HD,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
 
 
-
-央卫视二,#genre#
-CCTV-01 HD,http://123.149.237.171:9003//hls/1/index.m3u8
-CCTV-02 HD,http://123.149.237.171:9003//hls/2/index.m3u8
-CCTV-03 HD,http://123.149.237.171:9003//hls/3/index.m3u8
-CCTV-04 HD,http://123.149.237.171:9003//hls/4/index.m3u8
-CCTV-05 HD,http://123.149.237.171:9003//hls/5/index.m3u8
-CCTV-06 HD,http://123.149.237.171:9003//hls/6/index.m3u8
-CCTV-07 HD,http://123.149.237.171:9003//hls/7/index.m3u8
-CCTV-08 HD,http://123.149.237.171:9003//hls/8/index.m3u8
-CCTV-09 HD,http://123.149.237.171:9003//hls/9/index.m3u8
-CCTV-10 HD,http://123.149.237.171:9003//hls/10/index.m3u8
-CCTV-11 HD,http://123.149.237.171:9003//hls/11/index.m3u8
-CCTV-12 HD,http://123.149.237.171:9003//hls/12/index.m3u8
-CCTV-13 HD,http://123.149.237.171:9003//hls/13/index.m3u8
-CCTV-14 HD,http://123.149.237.171:9003//hls/14/index.m3u8
-北京卫视 HD,http://123.149.237.171:9003//hls/20/index.m3u8
-东方卫视 HD,http://123.149.237.171:9003//hls/21/index.m3u8
-浙江卫视 HD,http://123.149.237.171:9003//hls/19/index.m3u8
-江苏卫视 HD,http://123.149.237.171:9003//hls/18/index.m3u8
-湖南卫视 HD,http://123.149.237.171:9003//hls/17/index.m3u8
-深圳卫视 HD,http://123.149.237.171:9003//hls/24/index.m3u8
-安徽卫视 HD,http://123.149.237.171:9003//hls/23/index.m3u8
-山东卫视 HD,http://123.149.237.171:9003//hls/22/index.m3u8
-河南卫视 HD,http://123.149.237.171:9003//hls/15/index.m3u8
 
 
 
