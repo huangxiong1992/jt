@@ -1,201 +1,208 @@
+
 {
-  "spider": "http://154.40.47.87:999/uploads/jctv/jctv.jar",
+  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/4k.jar",
+  "logo": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/lg.gif",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "hipy_js_腾云驾雾[官]",
-      "name": "4K🥇️",
+      "name": "4k｜专区一",
       "type": 3,
-      "api": "http://154.40.47.87:999/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "playerType": 3,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "http://154.40.47.87:999/uploads/tvbox/js/腾云驾雾[官].js"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/tx.js"
     },
     {
       "key": "hipy_js_百忙无果[官]",
-      "name": "4K🎫",
+      "name": "4k｜专区二",
       "type": 3,
-      "api": "http://154.40.47.87:999/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "playerType": 3,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "http://154.40.47.87:999/uploads/tvbox/js/百忙无果[官].js"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/mg.js"
     },
     {
-      "key": "csp_xlys",
-      "name": "直连",
+      "key": "瓜子影视",
+      "name": "蓝光｜秒播",
       "type": 3,
-      "api": "csp_Bdys01",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742010424920/巧记.jar",
-      "filterable": 0,
-      "ext": "maHR0cHM6Ly93d3cueGx5czAyLmNvbQ=="
-    },
-    {
-      "key": "热播弹幕",
-      "name": "热播",
-      "type": 3,
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true,
-        "site": "aHR0cDovL3YucmJvdHYuY24="
-      }
-    },
-    {
-      "key": "浪酷弹幕",
-      "name": "浪酷",
-      "type": 3,
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true,
-        "site": "aHR0cDovL3YubGt1eXMuY24="
-      }
-    },
-    {
-      "key": "快看影视",
-      "name": "快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
+      "api": "csp_Gz360",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/shig.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "荐片弹幕",
-      "name": "荐片",
+      "key": "热播影视",
+      "name": "蓝光┃热播",
       "type": 3,
-      "api": "csp_Jianpian",
-      "playerType": 1,
+      "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://154.40.47.87:999/uploads/tvbox/jar/wydm.jar",
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "文才弹幕",
-      "name": "文才",
-      "type": 3,
-      "api": "csp_Jpys",
-      "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "云盘",
-      "name": "云盘",
-      "type": 3,
-      "jar": "https://lz.qaiu.top/lz/isqWQ2hstv0d",
-      "api": "csp_YDjisu",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "✨毒舌短剧✨",
-      "name": "✨毒舌短剧✨",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/json/毒舌短剧.json"
-    },
-    {
-      "key": "曼波动漫",
-      "name": "🤣曼波｜动漫",
-      "type": 3,
-      "api": "csp_AppGetApp",
-      "searchable": 1,
-      "quickSearch": 0,
       "filterable": 0,
-      "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KRwqDDqcKhw6nDpsOpwpnCpcKeYcKnw6fDqcOpwqnClMKgwplew6nDm8OqwpvCplXCpMKZwqDCm8KtwpzDlOWHv+mEm+aPleWQk1zlh6XkvorlkbHCs+W/q+inuei1tOa7gOesicOWwpXCpsKbwrvCmMKje8KVw7LClcK0wpvCsGnClMKTY8KpwqzDncObw5/CmMKTwpFkwq7Cp8KcwqXCnHTClcKjecOvwpXCtMKbwrBpwpTCk2PCqcKsw53Dm8OfwpjCk8KRZMKuwqfCnMO2"
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
+      "ext": {"url": "http://v.rbotv.cn"}
     },
     {
-      "key": "健身",
-      "name": "休闲┃健身",
+      "key": "文才",
+      "name": "蓝光┃速播",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/OK.png",
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "央视大全",
+      "name": "央央｜专区",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysdq.js"
+    },
+    {
+      "key": "哔哩哔哩",
+      "name": "哔哔｜专区",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "searchable": 0,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 2,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/blfl.txt"
+    },
+    {
+      "key": "金牌影视",
+      "name": "蓝光｜金牌",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/31c6620e61954b1395d81ca96fcaaf95.jpg"
+      "playerType": 2,
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jinp.jar",
+      "ext": {
+      "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}
+    },
+    {
+      "key": "csp_Kugou",
+      "name": "酷酷｜听歌",
+      "type": 3,
+      "api": "csp_Kugou",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/kug.jar",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
     },
     {
       "key": "看球",
-      "name": "🏀88┃看球",
+      "name": "88┃看球",
       "type": 3,
       "api": "csp_KanqiuGuard",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741945467175/0316.jar",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/88.jar",
       "order_num": 0,
       "changeable": 0
     },
     {
-      "key": "drpy_js_310直播",
-      "name": "🏀┃体育┃直播",
+      "key": "梨园",
+      "name": "梨园｜戏曲",
       "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "changeable": 0,
-      "gridview": 3,
+      "api": "http://150.158.112.123/js/dr/drpy2.min.js",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/xch/refs/heads/main/xc.jar",  
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/ly.txt"
+    },
+    {
+      "key": "相声小品",
+      "name": "相声｜小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xsxp.txt"
+    },
+    {
+      "key": "国学",
+      "name": "国学｜经典",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/gx.txt"
+    },
+    {
+      "key": "兔小贝",
+      "name": "幼儿｜启蒙",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/txb.js",
       "style": {
-        "type": "list"
-      },
-      "ext": "https://img2.gelonghui.com/library/d6014-7a5d5b19-3fe5-456a-8335-925bc845606fnull"
+        "type": "rect",
+        "ratio": 1.597
+      }
     },
     {
-      "key": "演唱会",
-      "name": "🅰️演唱会┃哔哩",
+      "key": "幼儿",
+      "name": "幼儿｜教育",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+      "api": "csp_Bili",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
       "searchable": 0,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 1,
-      "order_num": 142,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/演唱会.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/yejy.txt"
     },
     {
-      "key": "戏曲",
-      "name": "🅰️戏曲┃合集",
+      "key": "小学",
+      "name": "小学｜教育",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+      "api": "csp_Bili",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
       "searchable": 0,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 1,
-      "order_num": 142,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/戏曲合集.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xx.txt"
     },
     {
-      "key": "MV",
-      "name": "🌈歌曲┃哔哩",
+      "key": "初中",
+      "name": "初中｜教育",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+      "api": "csp_Bili",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
       "searchable": 0,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 1,
-      "order_num": 142,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/歌曲MV.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/czh.txt"
     },
     {
       "key": "cc",
@@ -523,7 +530,7 @@
     {
       "name": "飞快线",
       "type": 0,
-      "url": "https://gitee.com/qqyywb/250321/raw/master/123.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/testTV/refs/heads/main/MV.txt",
       "playerType": 1
     },
     {
@@ -583,7 +590,7 @@
     {
       "name": "开心",
       "type": 0,
-      "url": "http://kxrj.site:55/lib/kx2024.txt",
+      "url": "https://gitee.com/qqyywb/250321/raw/master/123.json",
       "playerType": 1
     },
     {
@@ -595,7 +602,7 @@
     {
       "name": "平台直播",
       "type": 0,
-      "url": "http://tv.iill.top/m3u/Live",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/huangxiong1992/testTV/refs/heads/main/testtv.txt",
       "ua": "okhttp/3.15",
       "playerType": 2
     }
