@@ -1,10 +1,12 @@
+
 {
   "spider": "http://154.40.47.87:999/uploads/jctv/jctv.jar",
+  "logo": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/lg.gif",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "hipy_js_腾云驾雾[官]",
-      "name": "4K|专区一",
+      "name": "4K┃专区一",
       "type": 3,
       "api": "http://154.40.47.87:999/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
       "playerType": 3,
@@ -15,20 +17,29 @@
       "ext": "http://154.40.47.87:999/uploads/tvbox/js/腾云驾雾[官].js"
     },
     {
-      "key": "hipy_js_百忙无果[官]",
-      "name": "4K|专区二",
+      "key": "央视大全",
+      "name": "央妈┃大全",
       "type": 3,
-      "api": "http://154.40.47.87:999/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
-      "playerType": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "http://154.40.47.87:999/uploads/tvbox/js/百忙无果[官].js"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysdq.js"
+    },
+    {
+      "key": "瓜子影视",
+      "name": "蓝光┃秒播",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/shig.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "浪酷弹幕",
-      "name": "蓝光|速播",
+      "name": "蓝光┃速播",
       "type": 3,
       "api": "csp_TianTian",
       "searchable": 1,
@@ -40,17 +51,29 @@
       }
     },
     {
-      "key": "快看",
-      "name": "蓝光|高清",
+      "key": "素白白",
+      "name": "蓝光┃立播",
       "type": 3,
-      "api": "csp_Kuaikan",
+      "api": "csp_SuBaiBai",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
+      "ext": "https://www.subaibai.com"
+    },
+    {
+      "key": "金牌影视",
+      "name": "蓝光┃金牌",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "playerType": 2,
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jinp.jar",
+      "ext": {
+      "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}
     },
     {
       "key": "荐片弹幕",
-      "name": "蓝光|超清",
+      "name": "蓝光┃超清",
       "type": 3,
       "api": "csp_Jianpian",
       "playerType": 1,
@@ -63,24 +86,82 @@
       }
     },
     {
-      "key": "✨毒舌短剧✨",
-      "name": "蓝光|短剧",
+      "key": "1905",
+      "name": "蓝光┃1905",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_Web1905",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/json/毒舌短剧.json"
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "星芽短剧",
+      "name": "蓝光┃短剧",
+      "type": 3,
+      "api": "csp_AppXY",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
+      "searchable": 1,
+       "quickSearch": 0,
+       "filterable": 0
     },
     {
       "key": "曼波动漫",
-      "name": "蓝光|动漫",
+      "name": "蓝光┃动漫",
       "type": 3,
       "api": "csp_AppGetApp",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
       "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KRwqDDqcKhw6nDpsOpwpnCpcKeYcKnw6fDqcOpwqnClMKgwplew6nDm8OqwpvCplXCpMKZwqDCm8KtwpzDlOWHv+mEm+aPleWQk1zlh6XkvorlkbHCs+W/q+inuei1tOa7gOesicOWwpXCpsKbwrvCmMKje8KVw7LClcK0wpvCsGnClMKTY8KpwqzDncObw5/CmMKTwpFkwq7Cp8KcwqXCnHTClcKjecOvwpXCtMKbwrBpwpTCk2PCqcKsw53Dm8OfwpjCk8KRZMKuwqfCnMO2"
+    },
+    {
+      "key": "哔哩合集",
+      "name": "BB|大全",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/tvkj.jar",
+      "ext": {
+        "json": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/blhj.json",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      }
+    },
+    {
+      "key": "看球",
+      "name": "88┃看球",
+      "type": 3,
+      "api": "csp_KanqiuGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/88.jar",
+      "order_num": 0,
+      "changeable": 0
+    },
+    {
+      "key": "csp_Kugou",
+      "name": "酷狗┃听歌",
+      "type": 3,
+      "api": "csp_Kugou",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/kug.jar",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
     },
     {
       "key": "健身",
@@ -92,6 +173,94 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/31c6620e61954b1395d81ca96fcaaf95.jpg"
+    },
+    {
+      "key": "梨园",
+      "name": "梨园┃戏曲",
+      "type": 3,
+      "api": "http://150.158.112.123/js/dr/drpy2.min.js",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/xch/refs/heads/main/xc.jar",  
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/ly.txt"
+    },
+    {
+      "key": "相声小品",
+      "name": "相声┃小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xsxp.txt"
+    },
+    {
+      "key": "国学",
+      "name": "国学┃经典",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/gx.txt"
+    },
+    {
+      "key": "兔小贝",
+      "name": "启蒙┃教育",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/txb.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "幼儿",
+      "name": "幼儿┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/yejy.txt"
+    },
+    {
+      "key": "小学",
+      "name": "小学┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xx.txt"
+    },
+    {
+      "key": "初中",
+      "name": "初中┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/czh.txt"
+    },
+    {
+      "key": "高中",
+      "name": "高中┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/gzh.txt"
     },
     {
       "key": "cc",
