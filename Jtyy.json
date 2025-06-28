@@ -6,17 +6,17 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "金牌影视",
-      "name": "蓝光｜金牌",
+      "key": "浪酷弹幕",
+      "name": "蓝光┃速播",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.py",
+      "api": "csp_TianTian",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jinp.jar",
       "ext": {
-      "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}
+        "danmu": true,
+        "site": "aHR0cDovL3YubGt1eXMuY24="
+      }
     },
     {
       "key": "星芽短剧",
