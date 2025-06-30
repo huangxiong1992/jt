@@ -6,6 +6,16 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
+      "key": "瓜子影视",
+      "name": "蓝光┃秒播",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/shig.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "浪酷弹幕",
       "name": "蓝光┃速播",
       "type": 3,
@@ -20,7 +30,7 @@
     },
     {
       "key": "金牌影视",
-      "name": "蓝光┃立播",
+      "name": "蓝光┃金牌",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
