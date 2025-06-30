@@ -5,6 +5,16 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
+      "key": "瓜子影视",
+      "name": "蓝光┃秒播",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/shig.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "hipy_js_腾云驾雾[官]",
       "name": "4K┃专区一",
       "type": 3,
@@ -15,17 +25,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "http://154.40.47.87:999/uploads/tvbox/js/腾云驾雾[官].js"
-    },
-    {
-      "key": "央视大全",
-      "name": "央妈┃大全",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysdq.js"
     },
     {
       "key": "瓜子影视",
