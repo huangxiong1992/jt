@@ -41,6 +41,16 @@
       }
     },
     {
+      "key": "瓜子影视",
+      "name": "蓝光┃秒播",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/shig.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "金牌影视",
       "name": "蓝光┃立播",
       "type": 3,
@@ -52,6 +62,14 @@
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jinp.jar",
       "ext": {
       "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}
+    },
+    {
+      "key": "素白白",
+      "name": "蓝光┃超清",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
+      "ext": "https://www.subaibai.com"
     },
     {
       "key": "梨园",
