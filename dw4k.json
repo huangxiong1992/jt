@@ -5,15 +5,16 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "瓜子影视",
-      "name": "蓝光┃秒播",
-      "type": 3,
-      "api": "csp_Gz360",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/shig.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+			"key": "瓜子影视",
+			"name": "🌻┃瓜子┃影视",
+			"type": 3,
+			"api": "csp_Gz360",
+      "jar": "https://ncstatic.clewm.net/rsrc/2025/0618/12/2a4cd67b9252a2e40b4227378566772f.png;md5;B10DC5669CB602E2E75FA6D57BFE841F",
+			"playerType": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
     {
       "key": "hipy_js_腾云驾雾[官]",
       "name": "4K┃专区一",
