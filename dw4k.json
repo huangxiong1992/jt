@@ -84,6 +84,18 @@
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/blfl.txt"
     },
     {
+      "key": "看球",
+      "name": "88┃看球",
+      "type": 3,
+      "api": "csp_KanqiuGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/88.jar",
+      "order_num": 0,
+      "changeable": 0
+    },
+    {
       "key": "星芽短剧",
       "name": "短剧┃专区",
       "type": 3,
