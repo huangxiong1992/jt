@@ -6,14 +6,12 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "瓜子影视",
-      "name": "蓝光┃秒播",
+      "key": "素白白",
+      "name": "蓝光┃立播",
       "type": 3,
-      "api": "csp_Gz360",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/shig.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "api": "csp_SuBaiBai",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
+      "ext": "https://www.subaibai.com"
     },
     {
       "key": "浪酷弹幕",
@@ -27,14 +25,6 @@
         "danmu": true,
         "site": "aHR0cDovL3YubGt1eXMuY24="
       }
-    },
-    {
-      "key": "素白白",
-      "name": "蓝光┃立播",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
-      "ext": "https://www.subaibai.com"
     },
     {
       "key": "星芽短剧",
