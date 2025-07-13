@@ -1,17 +1,17 @@
 
 
 {
-  "spider": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/4k.jar",
+  "spider": "http://tv.laohu.cool/lh250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
   "logo": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/lg.gif",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "素白白",
-      "name": "蓝光┃立播",
+      "key": "拾光",
+      "name": "蓝光光┃秒播",
       "type": 3,
-      "api": "csp_SuBaiBai",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
-      "ext": "https://www.subaibai.com"
+      "api": "csp_Hmys",
+      "playerType": 1,
+      "ext": "https://dy.jmzp.net.cn"
     },
     {
       "key": "浪酷弹幕",
@@ -25,6 +25,14 @@
         "danmu": true,
         "site": "aHR0cDovL3YubGt1eXMuY24="
       }
+    },
+    {
+      "key": "素白白",
+      "name": "蓝光┃立播",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bin.txt",
+      "ext": "https://www.subaibai.com"
     },
     {
       "key": "星芽短剧",
