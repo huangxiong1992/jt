@@ -1,7 +1,7 @@
 
 
 {
-  "spider": "http://tv.laohu.cool/lh250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752238737608/f0711.jpg;md5;e7c6b481d880ce98ced16bd11d936e71",
   "logo": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/lg.gif",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
@@ -10,6 +10,8 @@
       "name": "蓝光┃秒播",
       "type": 3,
       "api": "csp_Hmys",
+      "jar": "http://tv.laohu.cool/lh250711.jar",
+      "searchable": 1,
       "playerType": 1,
       "ext": "https://dy.jmzp.net.cn"
     },
