@@ -18,26 +18,9 @@ CCTV-14 HD,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180
 
 
 
-央卫测试,#genre#
+卫视测试,#genre#
 
-CCTV1综合 HD,http://b.zgjok.com:35455/mgtv/608807420.m3u8
-CCTV2财经 HD,http://b.zgjok.com:35455/mgtv/631780532.m3u8
-CCTV3综艺 HD,http://b.zgjok.com:35455/mgtv/624878271.m3u8
-CCTV4国际 HD,http://b.zgjok.com:35455/mgtv/631780421.m3u8
-CCTV5体育 HD,http://b.zgjok.com:35455/mgtv/641886683.m3u8
-CCTV5赛事 HD,http://b.zgjok.com:35455/mgtv/641886773.m3u8
-CCTV6电影 HD,http://b.zgjok.com:35455/mgtv/624878396.m3u8
-CCTV7军事 HD,http://b.zgjok.com:35455/mgtv/673168121.m3u8
-CCTV8剧集 HD,http://b.zgjok.com:35455/mgtv/624878356.m3u8
-CCTV9纪录 HD,http://b.zgjok.com:35455/mgtv/673168140.m3u8
-CCTV10科教 HD,http://b.zgjok.com:35455/mgtv/624878405.m3u8
-CCTV11戏曲 HD,http://b.zgjok.com:35455/mgtv/667987558.m3u8
-CCTV12法制 HD,http://b.zgjok.com:35455/mgtv/673168185.m3u8
-CCTV13新闻 HD,http://b.zgjok.com:35455/mgtv/608807423.m3u8
-CCTV14少儿 HD,http://b.zgjok.com:35455/mgtv/624878440.m3u8
-CCTV15音乐 HD,http://b.zgjok.com:35455/mgtv/673168223.m3u8
-CCTV16奥林匹克 HD,http://b.zgjok.com:35455/nptv/cctv16.m3u8
-CCTV17农业农村 HD,http://b.zgjok.com:35455/mgtv/673168256.m3u8
+
 北京卫视 HD,http://b.zgjok.com:35455/nptv/beijing.m3u8
 天津卫视HD,http://b.zgjok.com:35455/nptv/tianjing.m3u8
 东方卫视 HD,http://b.zgjok.com:35455/nptv/dongfang.m3u8
