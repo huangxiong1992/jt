@@ -107,6 +107,175 @@
         "deviceId": "",
         "version": ""
       }
+    },
+    {
+            "key": "1905",
+            "name": "蓝光｜1905",
+            "type": 3,
+            "api": "csp_Web1905",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
+            "searchable": 1,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+    },
+    {
+      "key": "央视大全",
+      "name": "央央｜专区",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysdq.js"
+    },
+    {
+      "key": "哔哩哔哩",
+      "name": "哔哔｜专区",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 2,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/blfl.txt"
+    },
+    {
+      "key": "看球",
+      "name": "88┃看球",
+      "type": 3,
+      "api": "csp_KanqiuGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/88.jar",
+      "order_num": 0,
+      "changeable": 0
+    },
+    {
+      "key": "csp_Kugou",
+      "name": "酷酷｜听歌",
+      "type": 3,
+      "api": "csp_Kugou",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/kug.jar",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+    },
+    {
+      "key": "梨园",
+      "name": "梨园┃戏曲",
+      "type": 3,
+      "api": "http://150.158.112.123/js/dr/drpy2.min.js",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/xch/refs/heads/main/xc.jar",  
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/ly.txt"
+    },
+    {
+      "key": "相声小品",
+      "name": "相声┃小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xsxp.txt"
+    },
+    {
+      "key": "健身",
+      "name": "休闲┃健身",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/31c6620e61954b1395d81ca96fcaaf95.jpg"
+    },
+    {
+      "key": "国学",
+      "name": "国学｜经典",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/1203091da6cb4dc58fb39e7af03ffbf3.jpg"
+    },
+    {
+      "key": "兔小贝",
+      "name": "启蒙┃教育",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/txb.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "幼儿",
+      "name": "幼儿┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/yejy.txt"
+    },
+    {
+      "key": "小学",
+      "name": "小学｜教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/3bbf4afa303f403eb89b6489b1958f93.jpg"
+    },
+    {
+      "key": "初中",
+      "name": "初中｜教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/75760f1471bc4180a49ce13b7105d834.jpg"
+    },
+    {
+      "key": "高中",
+      "name": "高中｜教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/53c803b0532c462fb2d2c3c641ba357b.jpg"
+    },
+    {
+      "key": "cc",
+      "name": "请勿相信视频中任何广告！资源来源于网络整和",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0
     }
   ],
   "parses": [
