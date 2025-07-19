@@ -28,39 +28,12 @@
       "ext": "https://www.subaibai.com"
     },
     {
-      "key": "仓鼠",
-      "name": "蓝光┃选4K区",
-      "type": 3,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "https://qjappcms.cs4k.top",
-        "dataKey": "Z98KXaLtO2wC1Pte",
-        "dataIv": "Z98KXaLtO2wC1Pte",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
-    {
       "key": "云速",
       "name": "蓝光┃4K线A",
       "type": 3,
       "api": "csp_AppGet",
       "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzfiJ2fHkCRZg4+8NFWs+b1X",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752223235214/0711.gif;md5;05d526179fb3b9f8bb597e632b3a2273"
-    },
-    {
-      "key": "咖啡",
-      "name": "蓝光┃4K线B",
-      "type": 3,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "",
-        "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
-        "dataKey": "qwertyuiopqwertt",
-        "dataIv": "qwertyuiopqwertt",
-        "deviceId": "",
-        "version": "109"
-      }
     },
     {
       "key": "农民",
