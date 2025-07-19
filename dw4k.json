@@ -144,6 +144,17 @@
       }
     },
     {
+      "key": "戏曲",
+      "name": "戏曲｜大全",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xq.txt"
+    },
+    {
       "key": "梨园",
       "name": "梨园┃戏曲",
       "type": 3,
