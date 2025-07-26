@@ -41,36 +41,6 @@
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
     },
     {
-      "key": "咖啡",
-      "name": "臻彩｜4K",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "https://omofun.lol/1.txt",
-        "dataKey": "skdhalkshqklwkj1",
-        "dataIv": "skdhalkshqklwkj1",
-        "deviceId": "",
-        "version": "109",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "榴莲",
-      "name": "4K｜主线",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "https://qjappcms.ll4k.xyz",
-        "dataKey": "1yGA85sJ5STtE7uj",
-        "dataIv": "1yGA85sJ5STtE7uj",
-        "deviceId": "",
-        "version": "50000"
-      }
-    },
-    {
       "key": "火猫",
       "name": "蓝光┃4K一",
       "type": 3,
