@@ -188,7 +188,7 @@
     },
     {
       "key": "csp_Bili_Meinvw",
-      "name": "太极☯影视┃美女舞蹈",
+      "name": "美女┃舞蹈",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -199,7 +199,7 @@
     },
     {
       "key": "csp_Bili_Nvtuan",
-      "name": "太极☯影视┃女团热舞",
+      "name": "女团┃热舞",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -210,7 +210,7 @@
     },
     {
       "key": "csp_BBB",
-      "name": "太极☯影视┃舞蹈合集",
+      "name": "舞蹈┃大全",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
