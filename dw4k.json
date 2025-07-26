@@ -15,7 +15,7 @@
   "sites": [
     {
       "key": "瓜子",
-      "name": "蓝光┃优选",
+      "name": "帝王┃秒播",
       "type": 3,
       "api": "csp_Gz360"
     },
@@ -66,7 +66,7 @@
     },
     {
       "key": "闪电影视",
-      "name": "蓝光┃备用一",
+      "name": "蓝光┃备用",
       "type": 1,
       "api": "http://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -104,6 +104,18 @@
       ]
     },
     {
+            "key": "河马短剧",
+            "name": "蓝光｜短剧",
+            "type": 3,
+            "api": "https://tv.youdu.fan:666/duhe/py/河马短剧.py",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+    },
+    {
             "key": "1905",
             "name": "经典｜老电影",
             "type": 3,
@@ -113,6 +125,20 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
+    },
+    {
+            "key": "快手直播",
+            "name": "游戏｜直播",
+            "type": 3,
+            "api": "csp_KsLive",
+             "jar": "https://4708.kstore.space/tvbox/spider.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "style": {
+            "type": "rect",
+            "ratio": 1.597
+            }
     },
     {
       "key": "央视大全",
@@ -138,18 +164,6 @@
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/blfl.txt"
     },
     {
-      "key": "看球",
-      "name": "88┃看球",
-      "type": 3,
-      "api": "csp_KanqiuGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/88.jar",
-      "order_num": 0,
-      "changeable": 0
-    },
-    {
       "key": "csp_Kugou",
       "name": "酷酷｜听歌",
       "type": 3,
@@ -170,7 +184,7 @@
       "ext": "",
       "filterable": 1,
       "key": "drpyS_KTV歌厅[听]",
-      "name": "K歌┃MV",
+      "name": "百万┃曲库",
       "quickSearch": 0,
       "searchable": 2,
       "type": 4
@@ -180,7 +194,7 @@
       "ext": "http://150.158.112.123/公众号玉玉应用笔记/js/zhongzi.js",
       "filterable": 1,
       "key": "hipy_js_种子音乐[听]",
-      "name": "音乐┃风格",
+      "name": "歌曲┃大全",
       "order_num": 0,
       "quickSearch": 1,
       "searchable": 1,
