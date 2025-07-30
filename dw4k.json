@@ -40,16 +40,8 @@
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
     },
     {
-      "key": "驿站",
-      "name": "蓝光┃4K二",
-      "type": 3,
-      "api": "csp_Muou",
-      "ext": "7lj763gg402i7942403h83i2h945858hljhji148i18k2837535112l2qiaojik9075l17028i49g192419i8g3245h3j1l9gi02h6k7732650h3h09jkg759j65hj39l50347k3gj97l4g12l7h6418h6k9j04l26i1glgj3631973hh280lkihjh",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
-    },
-    {
       "key": "云速",
-      "name": "蓝光┃4K三",
+      "name": "蓝光┃4K二",
       "type": 3,
       "api": "csp_AppGet",
       "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzfiJ2fHkCRZg4+8NFWs+b1X",
@@ -215,6 +207,13 @@
         "type": "list"
       },
       "timeout": 10
+    },
+    {
+      "key": "drpy_js_蜻蜓FM",
+      "name": "听听｜广播",
+      "type": 3,
+      "api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
+      "ext": "http://150.158.112.123/公众号玉玉应用笔记/js/qingting.js"
     },
     {
       "key": "csp_Kugou",
