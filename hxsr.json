@@ -3,32 +3,21 @@
 
 
 {
-  "wallpaper": "https://www.dmoe.cc/random.php",
+  
   "spider": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jiaoyu.jar",
-  "logo": "https://mpimg.cn/view.php/d9acac87d4d26ce6f54dd3f1bcbb9fe2.png",
-  "warningText": "机缘巧盒专用",
-  "lives": [],
+  "logo": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/lg.gif",
+  "warningText": "接口免费仅供测试",
+  "lives": [https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/testTV/refs/heads/main/sr.txt],
   "sites": [
     {
-      "key": "央视大全",
-      "name": "动画｜大全",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hysdonghua.json"
-    },
-    {
       "key": "教育合集",
-      "name": "学堂┃大全",
+      "name": "少儿┃大全",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hxtjy.json"
+      "ext": ","
     },
     {
       "key": "Bili2",
@@ -356,6 +345,17 @@
       "filterable": 1,
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hxiaoxuejiaoyu.json",
       "jar": ""
+    },
+    {
+      "key": "央视大全",
+      "name": "动画｜点播",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hysdonghua.json"
     }
   ],
   "ijk": [
