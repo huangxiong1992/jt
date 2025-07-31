@@ -20,6 +20,26 @@
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hxtjy.json"
     },
     {
+      "key": "央视大全",
+      "name": "央央｜专区",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hysdonghua.json"
+    },
+    {
+      "key": "Bili2",
+      "name": "宝宝趣学",
+      "type": 3,
+      "api": "csp_Bili2",
+      "jar": "https://ghfast.top/https://github.com/huangxiong1992/jar/blob/main/bb.jar",
+      "searchable": 0,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bbdate.json"
+    }
+    {
       "key": "学堂",
       "name": "知识┃学堂",
       "type": 3,
@@ -180,7 +200,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hertongpingyin.json",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hertongpinyin.json",
       "jar": ""
     },
     {
@@ -279,7 +299,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/yangshijingdian.json",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Huangshijingdian.json",
       "jar": ""
     },
     {
@@ -301,7 +321,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/xiaoxueyuwen.json",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hxiaoxueyuwen.json",
       "jar": ""
     },
     {
@@ -312,7 +332,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/xiaoxueshuxue.json",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hxiaoxueshuxue.json",
       "jar": ""
     },
     {
@@ -323,7 +343,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/xiaoxueyingyu.json",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hxiaoxueyingyu.json",
       "jar": ""
     },
     {
@@ -334,7 +354,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/xiaoxuejiaoyu.json",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hxiaoxuejiaoyu.json",
       "jar": ""
     }
   ],
