@@ -10,6 +10,17 @@
   "lives": [],
   "sites": [
     {
+      "key": "央视大全",
+      "name": "动画｜大全",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hysdonghua.json"
+    },
+    {
       "key": "教育合集",
       "name": "学堂┃大全",
       "type": 3,
@@ -20,22 +31,12 @@
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hxtjy.json"
     },
     {
-      "key": "央视大全",
-      "name": "央央｜专区",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hysdonghua.json"
-    },
-    {
       "key": "Bili2",
       "name": "宝宝趣学",
       "type": 3,
       "api": "csp_Bili2",
       "searchable": 0,
+      "jar": "https://ghfast.top/https://github.com/huangxiong1992/jar/blob/main/bb.jar",
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bbdate.json"
     },
     {
