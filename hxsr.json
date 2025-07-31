@@ -7,7 +7,7 @@
   "spider": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jiaoyu.jar",
   "logo": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/lg.gif",
   "warningText": "接口免费仅供测试",
-  "lives": "",
+  "lives": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/testTV/refs/heads/main/sr.txt",
   "sites": [
     {
       "key": "教育合集",
@@ -17,11 +17,11 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": ","
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/Hxtjy.json,"
     },
     {
       "key": "Bili2",
-      "name": "宝宝趣学",
+      "name": "宝宝┃趣学",
       "type": 3,
       "api": "csp_Bili2",
       "searchable": 0,
@@ -29,14 +29,26 @@
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bbdate.json"
     },
     {
-      "key": "学堂",
-      "name": "知识┃学堂",
+      "key": "小灯塔国学",
+      "name": "国学┃启蒙",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hzhshi.json"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hxiaodengtaguoxue.json",
+      "jar": ""
+    },
+    {
+      "key": "幼儿启蒙",
+      "name": "幼儿┃启蒙",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hyouerqimeng.json",
+      "jar": ""
     },
     {
       "key": "儿童",
@@ -47,6 +59,17 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hshaoer.json",
+      "jar": ""
+    },
+    {
+      "key": "幼小衔接",
+      "name": "幼小┃衔接",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hyouxiaoxianjie.json",
       "jar": ""
     },
     {
@@ -83,28 +106,6 @@
       "jar": ""
     },
     {
-      "key": "幼小衔接",
-      "name": "幼小┃衔接",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hyouxiaoxianjie.json",
-      "jar": ""
-    },
-    {
-      "key": "幼儿启蒙",
-      "name": "幼儿┃启蒙",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hyouerqimeng.json",
-      "jar": ""
-    },
-    {
       "key": "csp_hiker_兔小贝",
       "name": "兔小贝┃儿歌",
       "type": 3,
@@ -128,7 +129,7 @@
     },
     {
       "key": "小灯塔",
-      "name": "小灯塔",
+      "name": "探索┃世界",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -139,7 +140,7 @@
     },
     {
       "key": "小灯塔科学",
-      "name": "小灯塔科学",
+      "name": "科学┃启蒙",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -150,7 +151,7 @@
     },
     {
       "key": "小灯塔地理",
-      "name": "小灯塔地理",
+      "name": "地理┃地理",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -160,19 +161,8 @@
       "jar": ""
     },
     {
-      "key": "小灯塔国学",
-      "name": "小灯塔国学",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hxiaodengtaguoxue.json",
-      "jar": ""
-    },
-    {
       "key": "小灯塔人文",
-      "name": "小灯塔人文",
+      "name": "人文┃启蒙",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -183,7 +173,7 @@
     },
     {
       "key": "儿童拼音",
-      "name": "儿童拼音",
+      "name": "儿童┃拼音",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
