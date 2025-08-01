@@ -19,7 +19,7 @@ CCTV-14 HD,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180
 
 
 
-央视卫视#genre#
+央视卫视,#genre#
 CCTV1,http://123.207.224.130:123/migu.php?id=cctv1
 CCTV2,http://123.207.224.130:123/migu.php?id=cctv2
 CCTV3,http://123.207.224.130:123/migu.php?id=cctv3
