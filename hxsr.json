@@ -28,32 +28,6 @@
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hxtjy.json"
     },
     {
-      "key": "仓鼠",
-      "name": "影视｜点播一",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/xingchencang.jar",
-      "ext": {
-        "url": "https://newappcms.cs4k.top",
-        "dataKey": "Z98KXaLtO2wC1Pte",
-        "dataIv": "Z98KXaLtO2wC1Pte",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
-    {
-      "key": "FourKTV",
-      "name": "影视｜点播二",
-      "type": 3,
-      "api": "csp_FourKTV",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/xingchenfuke.jar",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "Bili2",
       "name": "宝宝┃趣学",
       "type": 3,
@@ -369,6 +343,21 @@
       "filterable": 1,
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hxiaoxuejiaoyu.json",
       "jar": ""
+    },
+    {
+      "key": "仓鼠",
+      "name": "请勿相信任何广告|仅供个人测试",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/xingchencang.jar",
+      "ext": {
+        "url": "https://newappcms.cs4k.top",
+        "dataKey": "Z98KXaLtO2wC1Pte",
+        "dataIv": "Z98KXaLtO2wC1Pte",
+        "deviceId": "",
+        "version": "120"
+      }
     },
     {
       "key": "央视大全",
