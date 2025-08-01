@@ -33,22 +33,25 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet2",
-      "jar": "https://ghfast.top/https://github.com/huangxiong1992/jar/blob/main/xch.jar",
-      "ext": "https://newappcms.cs4k.top",
-    },
-    {
-      "key": "仓鼠",
-      "name": "影视｜点播一",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
+      "jar": ""jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/xingchencang.jar",
       "ext": {
         "url": "https://newappcms.cs4k.top",
-        "dataKey": "",
-        "dataIv": "",
+        "dataKey": "Z98KXaLtO2wC1Pte",
+        "dataIv": "Z98KXaLtO2wC1Pte",
         "deviceId": "",
         "version": "120"
       }
+    },
+    {
+      "key": "FourKTV",
+      "name": "影视｜点播二",
+      "type": 3,
+      "api": "csp_FourKTV",
+      "jar": ""jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/xingchenfuke.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "Bili2",
@@ -56,7 +59,7 @@
       "type": 3,
       "api": "csp_Bili2",
       "searchable": 0,
-      "jar": "https://ghfast.top/https://github.com/huangxiong1992/jar/blob/main/bb.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bb.jar",
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/bbdate.json"
     },
     {
