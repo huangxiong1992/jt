@@ -7,7 +7,15 @@
   "spider": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jiaoyu.jar",
   "logo": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/lg.gif",
   "warningText": "接口免费仅供测试",
-  "lives": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/testTV/refs/heads/main/sr.txt",
+  "lives": [
+    {
+      "name": "华夏少儿",
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/testTV/refs/heads/main/sr.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 2
+    }
+  ],
   "sites": [
     {
       "key": "教育合集",
@@ -17,7 +25,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/Hxtjy.json,"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/laonian/refs/heads/main/Hxtjy.json"
     },
     {
       "key": "Bili2",
