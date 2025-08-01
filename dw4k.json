@@ -3,13 +3,6 @@
   "logo":"https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/lg.gif",
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "豆瓣｜资源",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
       "key": "瓜子",
       "name": "帝王┃秒播 ( 点击首页 发现更多 祝您生活愉快! )",
       "type": 3,
