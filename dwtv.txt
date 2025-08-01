@@ -18,111 +18,111 @@ CCTV-14 HD,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180
 
 
 
-卫视测试,#genre#
 
+央视卫视#genre#
+CCTV1,http://123.207.224.130:123/migu.php?id=cctv1
+CCTV2,http://123.207.224.130:123/migu.php?id=cctv2
+CCTV3,http://123.207.224.130:123/migu.php?id=cctv3
+CCTV4,http://123.207.224.130:123/migu.php?id=cctv4
+CCTV4a,http://123.207.224.130:123/migu.php?id=cctv4a
+CCTV4o,http://123.207.224.130:123/migu.php?id=cctv4o
+CCTV6,http://123.207.224.130:123/migu.php?id=cctv6
+CCTV7,http://123.207.224.130:123/migu.php?id=cctv7
+CCTV8,http://123.207.224.130:123/migu.php?id=cctv8
+CCTV9,http://123.207.224.130:123/migu.php?id=cctv9
+CCTV10,http://123.207.224.130:123/migu.php?id=cctv10
+CCTV11,http://123.207.224.130:123/migu.php?id=cctv11
+CCTV12,http://123.207.224.130:123/migu.php?id=cctv12
+CCTV13,http://123.207.224.130:123/migu.php?id=cctv13
+CCTV14,http://123.207.224.130:123/migu.php?id=cctv14
+CCTV15,http://123.207.224.130:123/migu.php?id=cctv15
+CCTV17,http://123.207.224.130:123/migu.php?id=cctv17
+CCTV发现之旅,http://123.207.224.130:123/migu.php?id=fxzl
+CCTV老故事,http://123.207.224.130:123/migu.php?id=lgs
+CCTV中学生,http://123.207.224.130:123/migu.php?id=zxs
+CGTN,http://123.207.224.130:123/migu.php?id=cgtn
+CGTN纪录,http://123.207.224.130:123/migu.php?id=cgtnjl
+CCTV西班牙语,http://123.207.224.130:123/migu.php?id=cgtne
+CCTV法语,http://123.207.224.130:123/migu.php?id=cgtnf
+CCTV阿拉伯语,http://123.207.224.130:123/migu.php?id=cgtna
+CCTV俄语,http://123.207.224.130:123/migu.php?id=cgtnr
+陕西卫视,http://123.207.224.130:123/migu.php?id=sxws
+河南卫视,http://123.207.224.130:123/migu.php?id=hnws
+江西卫视,http://123.207.224.130:123/migu.php?id=jxws
+江苏卫视,http://123.207.224.130:123/migu.php?id=jsws
+广东卫视,http://123.207.224.130:123/migu.php?id=gdws
+大湾区卫视,http://123.207.224.130:123/migu.php?id=dwqws
+东方卫视,http://123.207.224.130:123/migu.php?id=dfws
+湖北卫视,http://123.207.224.130:123/migu.php?id=hubws
+吉林卫视,http://123.207.224.130:123/migu.php?id=jlws
+青海卫视,http://123.207.224.130:123/migu.php?id=qhws
+海南卫视,http://123.207.224.130:123/migu.php?id=hinws
+东方影视,http://123.207.224.130:123/migu.php?id=dfys
+东方卫视,http://123.207.224.130:123/miguHD.php?id=东方卫视
+内蒙古卫视,http://123.207.224.130:123/miguHD.php?id=内蒙古卫视
+广东卫视,http://123.207.224.130:123/miguHD.php?id=广东卫视
+江苏卫视,http://123.207.224.130:123/miguHD.php?id=江苏卫视
+江西卫视,http://123.207.224.130:123/miguHD.php?id=江西卫视
+河南卫视,http://123.207.224.130:123/miguHD.php?id=河南卫视
+浙江卫视,http://123.207.224.130:123/miguHD.php?id=浙江卫视
+湖北卫视,http://123.207.224.130:123/miguHD.php?id=湖北卫视
+陕西卫视,http://123.207.224.130:123/miguHD.php?id=陕西卫视
 
-北京卫视 HD,http://b.zgjok.com:35455/nptv/beijing.m3u8
-天津卫视HD,http://b.zgjok.com:35455/nptv/tianjing.m3u8
-东方卫视 HD,http://b.zgjok.com:35455/nptv/dongfang.m3u8
-东南卫视 HD,http://b.zgjok.com:35455/nptv/dongnan.m3u8
-海南卫视,http://b.zgjok.com:35455/nptv/hainan.m3u8
-广东卫视 HD,http://b.zgjok.com:35455/nptv/guangdong.m3u8
-广西卫视 HD,http://b.zgjok.com:35455/nptv/guangxi.m3u8
-深圳卫视 HD,http://b.zgjok.com:35455/nptv/shenzheng.m3u8
-江苏卫视,http://b.zgjok.com:35455/mgtv/623899368.m3u8
-江西卫视 HD,http://b.zgjok.com:35455/mgtv/783847495.m3u8
-浙江卫视 HD,http://b.zgjok.com:35455/nptv/zhejiang.m3u8
-湖南卫视 HD,http://b.zgjok.com:35455/nptv/hunan.m3u8
-湖北卫视 HD,http://b.zgjok.com:35455/mgtv/947472496.m3u8
-安徽卫视 HD,http://b.zgjok.com:35455/nptv/anhui.m3u8
-山东卫视 HD,http://b.zgjok.com:35455/nptv/shandong.m3u8
-山西卫视 HD,http://b.zgjok.com:35455/nptv/shanxi.m3u8
-河南卫视 HD,http://b.zgjok.com:35455/nptv/henan.m3u8
-河北卫视 HD,http://b.zgjok.com:35455/nptv/hebei.m3u8
-厦门卫视 HD,http://8.138.7.223/tv/fjtv1.php?id=xmws
-龙江卫视 HD,http://b.zgjok.com:35455/nptv/heilongjiang.m3u8
-吉林卫视 HD,http://b.zgjok.com:35455/nptv/jiling.m3u8
-辽宁卫视 HD,http://b.zgjok.com:35455/nptv/liaoning.m3u8
-云南卫视,http://b.zgjok.com:35455/nptv/yunnan.m3u8
-贵州卫视 HD,http://b.zgjok.com:35455/nptv/guizhou.m3u8
-四川卫视 HD,http://b.zgjok.com:35455/nptv/sichuan.m3u8
-重庆卫视 HD,http://b.zgjok.com:35455/nptv/chongqing.m3u8
-陕西卫视 HD,http://b.zgjok.com:35455/mgtv/738910838.m3u8
-甘肃卫视 HD,http://b.zgjok.com:35455/nptv/gansu.m3u8
-宁夏卫视 HD,http://b.zgjok.com:35455/nptv/ningxia.m3u8
-青海卫视 HD,http://b.zgjok.com:35455/nptv/qinghai.m3u8
-内蒙卫视 HD,http://b.zgjok.com:35455/nptv/neimenggu.m3u8
-西藏卫视 HD,http://b.zgjok.com:35455/nptv/xizang.m3u8
-新疆卫视 HD,http://b.zgjok.com:35455/nptv/xinjiang.m3u8
-兵团卫视 HD,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+广东影视,http://123.207.224.130:123/migu.php?id=gdys
+上海新闻综合,http://123.207.224.130:123/migu.php?id=shxwzh
+上海第一财经,http://123.207.224.130:123/migu.php?id=dycj
+江苏城市,http://123.207.224.130:123/migu.php?id=jscs
+江苏综艺,http://123.207.224.130:123/migu.php?id=jszy
+江苏影视,http://123.207.224.130:123/migu.php?id=jsys
+江苏公共新闻,http://123.207.224.130:123/migu.php?id=jsggxw
+江苏国际,http://123.207.224.130:123/migu.php?id=jsgj
+江苏教育,http://123.207.224.130:123/migu.php?id=jsjy
+江苏体育休闲,http://123.207.224.130:123/migu.php?id=jstyxx
+优漫卡通,http://123.207.224.130:123/migu.php?id=ymkt
+南京新闻综合,http://123.207.224.130:123/migu.php?id=njxwzh
+南京教科,http://123.207.224.130:123/migu.php?id=njkj
+南京十八,http://123.207.224.130:123/migu.php?id=njsb
+淮安新闻综合,http://123.207.224.130:123/migu.php?id=haxwzh
+连云港新闻综合,http://123.207.224.130:123/migu.php?id=lygxwzh
+泰州新闻综合,http://123.207.224.130:123/migu.php?id=tzxwzh
+宿迁新闻综合,http://123.207.224.130:123/migu.php?id=sqxwzh
+徐州新闻综合,http://123.207.224.130:123/migu.php?id=xzxwzh
 
+嘉佳卡通,http://123.207.224.130:123/migu.php?id=jjkt
+掼蛋精英赛,http://123.207.224.130:123/migu.php?id=gdjys
+高清大片,http://123.207.224.130:123/migu.php?id=gqdp
+红色轮播台,http://123.207.224.130:123/migu.php?id=hslbt
+经典动画大集合,http://123.207.224.130:123/migu.php?id=jddhdjh
+经典香港电影,http://123.207.224.130:123/migu.php?id=jdxgdy
+军事迷必看大片,http://123.207.224.130:123/migu.php?id=jsdp
+华语乐坛最强音,http://123.207.224.130:123/migu.php?id=hyytzqy
+咪咕24小时体育台,http://123.207.224.130:123/migu.php?id=mg24hty
+赛事最经典,http://123.207.224.130:123/migu.php?id=sszjd
+体坛名栏汇,http://123.207.224.130:123/migu.php?id=ttmlh
+乡村振兴,http://123.207.224.130:123/migu.php?id=xczx
+幸福中国年,http://123.207.224.130:123/migu.php?id=xfzgn
+新片放映厅,http://123.207.224.130:123/migu.php?id=xpfyt
 
-
-
-
-
-
-
-
-
-
-
-
-
-央卫视移,#genre#
-
-CCTV-1 HD,http://39.134.65.207/PLTV/88888888/224/3221225816/1.m3u8
-CCTV-2 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV-3 HD,http://39.134.66.119/wh7f454c46tw3011744069_352024828/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8?icpid=88888888&RTS=1744764756&from=4&hms_devid=1144&online=1744764756&vqe=3
-CCTV-4 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV-5 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-6 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV-7 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV-8 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-9 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-10 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV-11 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-CCTV-12 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-CCTV-14 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV-15 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CCTV-16 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-5+ HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-北京卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-天津卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-河北卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-河南卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-山东卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-山西卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-江西卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-江苏卫视HD,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225613/.m3u8
-江苏卫视HD,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226310/.m3u8
-江苏卫视,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226495/.m3u8
-浙江卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-东方卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-东南卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-湖南卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-湖北卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-安徽卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-广东卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-深圳卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-重庆卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-四川卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-内蒙古卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-黑龙江卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-吉林卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-辽宁卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-陕西卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
-宁夏卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-贵州卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-云南卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-广西卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-甘肃卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-青海卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-新疆卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-西藏卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-海南卫视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-兵团卫视 HD,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+CCTV1,http://123.207.224.130:123/miguHD.php?id=CCTV1  
+CCTV2,http://123.207.224.130:123/miguHD.php?id=CCTV2  
+CCTV3,http://123.207.224.130:123/miguHD.php?id=CCTV3  
+CCTV4,http://123.207.224.130:123/miguHD.php?id=CCTV4  
+CCTV5,http://123.207.224.130:123/miguHD.php?id=CCTV5  
+CCTV5+,http://123.207.224.130:123/miguHD.php?id=CCTV5p  
+CCTV6,http://123.207.224.130:123/miguHD.php?id=CCTV6  
+CCTV7,http://123.207.224.130:123/miguHD.php?id=CCTV7  
+CCTV8,http://123.207.224.130:123/miguHD.php?id=CCTV8  
+CCTV9,http://123.207.224.130:123/miguHD.php?id=CCTV9  
+CCTV10,http://123.207.224.130:123/miguHD.php?id=CCTV10  
+CCTV11,http://123.207.224.130:123/miguHD.php?id=CCTV11  
+CCTV12,http://123.207.224.130:123/miguHD.php?id=CCTV12  
+CCTV13,http://123.207.224.130:123/miguHD.php?id=CCTV13  
+CCTV14,http://123.207.224.130:123/miguHD.php?id=CCTV14  
+CCTV15,http://123.207.224.130:123/miguHD.php?id=CCTV15  
+CCTV17,http://123.207.224.130:123/miguHD.php?id=CCTV17   
+CHC影迷电影,http://123.207.224.130:123/miguHD.php?id=CHC影迷电影
+CHC家庭影院,http://123.207.224.130:123/miguHD.php?id=CHC家庭影院
+CHC动作电影,http://123.207.224.130:123/miguHD.php?id=CHC动作电影
 
 
 
