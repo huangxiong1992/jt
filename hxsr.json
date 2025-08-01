@@ -346,7 +346,7 @@
     },
     {
       "key": "仓鼠",
-      "name": "请勿相信任何广告|仅供个人测试",
+      "name": "影视|大全",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet2",
@@ -361,7 +361,7 @@
     },
     {
       "key": "央视大全",
-      "name": "动画｜点播",
+      "name": "请勿相信任何广告|仅供个人测试",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
       "searchable": 1,
