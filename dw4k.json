@@ -151,29 +151,8 @@
             "filterable": 0
     },
     {
-      "key": "星芽短剧",
-      "name": "蓝光｜短剧一",
-      "type": 3,
-      "playerType": 1,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752846100427/sp.png;md5;bc63fb712a21d9fef7f8ec6e78ed0971",
-      "ext": "https://file.commonspace.one/js/星芽短剧.js"
-    },
-    {
-            "key": "河马短剧",
-            "name": "蓝光｜短剧二",
-            "type": 3,
-            "api": "https://tv.youdu.fan:666/duhe/py/河马短剧.py",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-    },
-    {
       "key": "甜圈短剧",
-      "name": "蓝光┃短剧三",
+      "name": "蓝光┃短剧一",
       "type": 3,
       "api": "https://file.commonspace.one/py/甜圈短剧.py",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752846100427/sp.png;md5;bc63fb712a21d9fef7f8ec6e78ed0971",
@@ -184,16 +163,26 @@
       "playerType": 2
     },
     {
-      "key": "央视大全",
-      "name": "央央｜专区",
+      "key": "星芽短剧",
+      "name": "蓝光｜短剧二",
       "type": 3,
+      "playerType": 1,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/ysdq.js"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752846100427/sp.png;md5;bc63fb712a21d9fef7f8ec6e78ed0971",
+      "ext": "https://file.commonspace.one/js/星芽短剧.js"
     },
+    {
+            "key": "河马短剧",
+            "name": "蓝光｜短剧三",
+            "type": 3,
+            "api": "https://tv.youdu.fan:666/duhe/py/河马短剧.py",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+    },,
     {
             "key": "快手直播",
             "name": "游戏｜直播",
