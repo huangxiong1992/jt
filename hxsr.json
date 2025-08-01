@@ -37,15 +37,18 @@
       "ext": "https://newappcms.cs4k.top",
     },
     {
-      "key": "FourKTV",
-      "name": "影视｜点播二",
+      "key": "仓鼠",
+      "name": "影视｜点播一",
       "type": 3,
-      "api": "csp_FourKTV",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/xingchenfuke.jar",
-      "playerType": 2,
-      "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "https://newappcms.cs4k.top",
+        "dataKey": "",
+        "dataIv": "",
+        "deviceId": "",
+        "version": "120"
+      }
     },
     {
       "key": "Bili2",
