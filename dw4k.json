@@ -105,6 +105,19 @@
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
     },
     {
+      "key": "彼岸",
+      "name": "蓝光┃岸岸",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://172.247.44.217:30012",
+        "dataKey": "JLa1oRdL6+eK7@M)",
+        "dataIv": "JLa1oRdL6+eK7@M)",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
       "key": "云速",
       "name": "蓝光┃4K三",
       "type": 3,
@@ -509,3 +522,4 @@
     }
   ]
 }
+
