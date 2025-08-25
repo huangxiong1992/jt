@@ -348,6 +348,7 @@
       "name": "影视┃大全",
       "type": 3,
       "api": "csp_Gz360"
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/gg4k.jar;md5;46761ee087c0f297de2abf92ec088591"
     },
     {
       "key": "央视大全",
@@ -583,5 +584,6 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
