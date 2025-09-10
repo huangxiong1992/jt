@@ -16,6 +16,17 @@
       "searchable": 0
     },
     {
+            "key": "1905",
+            "name": "经典｜老电影",
+            "type": 3,
+            "api": "csp_Web1905",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
+            "searchable": 1,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+    },
+    {
       "key": "彼岸",
       "name": "蓝光┃A 如有广告勿信",
       "type": 3,
@@ -85,17 +96,6 @@
       "quickSearch": 1,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752846100427/sp.png;md5;bc63fb712a21d9fef7f8ec6e78ed0971",
       "ext": "https://img.sobot.com/10809/chatres/10809/ticket/20240919/4ec64d04a20af59e72f58d123a7a140e/WWYS_1726707452293.png"
-    },
-    {
-            "key": "1905",
-            "name": "经典｜老电影",
-            "type": 3,
-            "api": "csp_Web1905",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
-            "searchable": 1,
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
     },
     {
       "key": "星芽短剧",
@@ -316,6 +316,7 @@
     }
   ]
 }
+
 
 
 
