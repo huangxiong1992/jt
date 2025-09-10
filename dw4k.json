@@ -87,29 +87,6 @@
       "ext": "https://img.sobot.com/10809/chatres/10809/ticket/20240919/4ec64d04a20af59e72f58d123a7a140e/WWYS_1726707452293.png"
     },
     {
-      "key": "仓鼠",
-      "name": "蓝光｜4K一",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/xingchencang.jar",
-      "ext": {
-        "url": "https://newappcms.cs4k.top",
-        "dataKey": "Z98KXaLtO2wC1Pte",
-        "dataIv": "Z98KXaLtO2wC1Pte",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
-    {
-      "key": "火猫",
-      "name": "蓝光┃4K二",
-      "type": 3,
-      "api": "csp_Muou",
-      "ext": "7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/qj0615.jar;md5;410ad21caad9e6f6d40c1ae5ca2be662"
-    },
-    {
             "key": "1905",
             "name": "经典｜老电影",
             "type": 3,
@@ -121,20 +98,8 @@
             "filterable": 0
     },
     {
-      "key": "甜圈短剧",
-      "name": "蓝光┃短剧一",
-      "type": 3,
-      "api": "https://file.commonspace.one/py/甜圈短剧.py",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752846100427/sp.png;md5;bc63fb712a21d9fef7f8ec6e78ed0971",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
       "key": "星芽短剧",
-      "name": "蓝光｜短剧二",
+      "name": "蓝光｜短剧",
       "type": 3,
       "playerType": 1,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
@@ -163,17 +128,6 @@
           }
         ]
       }
-    },
-    {
-      "api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
-      "ext": "http://150.158.112.123/公众号玉玉应用笔记/js/zhongzi.js",
-      "filterable": 1,
-      "key": "hipy_js_种子音乐[听]",
-      "name": "歌曲┃大全",
-      "order_num": 0,
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 3
     },
     {
       "key": "csp_Bili_Meinvw",
@@ -231,28 +185,6 @@
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xsxp.txt"
     },
     {
-      "key": "健身",
-      "name": "休闲┃健身",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/31c6620e61954b1395d81ca96fcaaf95.jpg"
-    },
-    {
-      "key": "国学",
-      "name": "国学｜经典",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/1203091da6cb4dc58fb39e7af03ffbf3.jpg"
-    },
-    {
       "key": "兔小贝",
       "name": "启蒙┃教育",
       "type": 3,
@@ -273,39 +205,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/yejy.txt"
-    },
-    {
-      "key": "小学",
-      "name": "小学｜教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/3bbf4afa303f403eb89b6489b1958f93.jpg"
-    },
-    {
-      "key": "初中",
-      "name": "初中｜教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/75760f1471bc4180a49ce13b7105d834.jpg"
-    },
-    {
-      "key": "高中",
-      "name": "高中｜教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/53c803b0532c462fb2d2c3c641ba357b.jpg"
     },
     {
       "key": "cc",
@@ -417,6 +316,7 @@
     }
   ]
 }
+
 
 
 
