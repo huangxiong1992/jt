@@ -17,69 +17,49 @@ CCTV-14 HD,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180
 
 
 央视卫视,#genre#
-CCTV1,http://123.207.224.130:123/migu.php?id=cctv1
-CCTV2,http://123.207.224.130:123/migu.php?id=cctv2
-CCTV3,http://123.207.224.130:123/migu.php?id=cctv3
-CCTV4,http://123.207.224.130:123/migu.php?id=cctv4
-CCTV4a,http://123.207.224.130:123/migu.php?id=cctv4a
-CCTV4o,http://123.207.224.130:123/migu.php?id=cctv4o
-CCTV5,http://123.207.224.130:123/miguHD.php?id=CCTV5  
-CCTV5+,http://123.207.224.130:123/miguHD.php?id=CCTV5p  
-CCTV6,http://123.207.224.130:123/migu.php?id=cctv6
-CCTV7,http://123.207.224.130:123/migu.php?id=cctv7
-CCTV8,http://123.207.224.130:123/migu.php?id=cctv8
-CCTV9,http://123.207.224.130:123/migu.php?id=cctv9
-CCTV10,http://123.207.224.130:123/migu.php?id=cctv10
-CCTV12,http://123.207.224.130:123/migu.php?id=cctv12
-CCTV13,http://123.207.224.130:123/migu.php?id=cctv13
-CCTV14,http://123.207.224.130:123/migu.php?id=cctv14
-CCTV15,http://123.207.224.130:123/migu.php?id=cctv15
-CCTV17,http://123.207.224.130:123/migu.php?id=cctv17
-CCTV发现之旅,http://123.207.224.130:123/migu.php?id=fxzl
-CCTV老故事,http://123.207.224.130:123/migu.php?id=lgs
-CCTV中学生,http://123.207.224.130:123/migu.php?id=zxs
-CGTN,http://123.207.224.130:123/migu.php?id=cgtn
-CGTN纪录,http://123.207.224.130:123/migu.php?id=cgtnjl
-CCTV西班牙语,http://123.207.224.130:123/migu.php?id=cgtne
-CCTV法语,http://123.207.224.130:123/migu.php?id=cgtnf
-CCTV阿拉伯语,http://123.207.224.130:123/migu.php?id=cgtna
-CCTV俄语,http://123.207.224.130:123/migu.php?id=cgtnr
-陕西卫视,http://123.207.224.130:123/migu.php?id=sxws
-河南卫视,http://123.207.224.130:123/migu.php?id=hnws
-江西卫视,http://123.207.224.130:123/migu.php?id=jxws
-江苏卫视,http://123.207.224.130:123/migu.php?id=jsws
-广东卫视,http://123.207.224.130:123/migu.php?id=gdws
-东方卫视,http://123.207.224.130:123/migu.php?id=dfws
-湖北卫视,http://123.207.224.130:123/migu.php?id=hubws
-吉林卫视,http://123.207.224.130:123/migu.php?id=jlws
-青海卫视,http://123.207.224.130:123/migu.php?id=qhws
-海南卫视,http://123.207.224.130:123/migu.php?id=hinws
-东方影视,http://123.207.224.130:123/migu.php?id=dfys
-东方卫视,http://123.207.224.130:123/miguHD.php?id=东方卫视
-内蒙古卫视,http://123.207.224.130:123/miguHD.php?id=内蒙古卫视
-广东卫视,http://123.207.224.130:123/miguHD.php?id=广东卫视
-江苏卫视,http://123.207.224.130:123/miguHD.php?id=江苏卫视
-江西卫视,http://123.207.224.130:123/miguHD.php?id=江西卫视
-河南卫视,http://123.207.224.130:123/miguHD.php?id=河南卫视
-浙江卫视,http://123.207.224.130:123/miguHD.php?id=浙江卫视
-湖北卫视,http://123.207.224.130:123/miguHD.php?id=湖北卫视
-陕西卫视,http://123.207.224.130:123/miguHD.php?id=陕西卫视
 
-CCTV1,http://123.207.224.130:123/miguHD.php?id=CCTV1  
-CCTV2,http://123.207.224.130:123/miguHD.php?id=CCTV2  
-CCTV3,http://123.207.224.130:123/miguHD.php?id=CCTV3  
-CCTV4,http://123.207.224.130:123/miguHD.php?id=CCTV4  
-CCTV6,http://123.207.224.130:123/miguHD.php?id=CCTV6  
-CCTV7,http://123.207.224.130:123/miguHD.php?id=CCTV7  
-CCTV8,http://123.207.224.130:123/miguHD.php?id=CCTV8  
-CCTV9,http://123.207.224.130:123/miguHD.php?id=CCTV9  
-CCTV10,http://123.207.224.130:123/miguHD.php?id=CCTV10  
-CCTV11,http://123.207.224.130:123/miguHD.php?id=CCTV11  
-CCTV12,http://123.207.224.130:123/miguHD.php?id=CCTV12  
-CCTV13,http://123.207.224.130:123/miguHD.php?id=CCTV13  
-CCTV14,http://123.207.224.130:123/miguHD.php?id=CCTV14  
-CCTV15,http://123.207.224.130:123/miguHD.php?id=CCTV15  
-CCTV17,http://123.207.224.130:123/miguHD.php?id=CCTV17   
+CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
+ CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2 
+CCTV3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3 
+CCTV4,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4 
+CCTV5,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5 
+CCTV5+,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p 
+CCTV6,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6 
+CCTV7,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7 
+CCTV8,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8 
+CCTV9,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9 
+CCTV10,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10 
+CCTV11,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
+ CCTV12,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12 
+CCTV13,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13 
+CCTV14,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14 
+CCTV15,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15 
+CCTV16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16 
+CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17 
+北京卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws 
+东方卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws 
+浙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws 
+江苏卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws 
+湖南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws 
+广东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws 
+深圳卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws 
+天津卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws 
+安徽卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=ahws 
+山东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws 
+辽宁卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws 
+河北卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hbws 
+河南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hnws 
+江西卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jxws 
+四川卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws 
+重庆卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws 
+贵州卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws 
+湖北卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws 
+广西卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws 
+东南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws 
+海南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hinws 
+青海卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws 
+吉林卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws 
+黑龙江视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
 
 
 
@@ -4023,6 +4003,7 @@ PLAYFM,https://lhttp-hw.qtfm.cn/live/20035/64k.mp3
 3D09,https://vd2.bdstatic.com/mda-ki2cvyhz79rw40wg/v1-cae/sc/mda-ki2cvyhz79rw40wg.mp4
 3D10,https://vd3.bdstatic.com/mda-kksk814vwc1m06av/sc/mda-kksk814vwc1m06av.mp4
 3D11,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/1080p/cae_h264_delogo/1649341416696755483/mda-nd6k8tnavw6sj0a5.mp4
+
 
 
 
