@@ -3986,12 +3986,29 @@ PLAYFM,https://lhttp-hw.qtfm.cn/live/20035/64k.mp3
 
 
 
+3D一区,#genre#
+1,https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/mp4/refs/heads/main/3D1.mp4
+2,https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/mp4/refs/heads/main/3D2.mp4
+3,https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/mp4/refs/heads/main/3D3.mp4
+4,https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/mp4/refs/heads/main/3D4.mp4
+5,https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/mp4/refs/heads/main/3D5.mp4
+6,https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/mp4/refs/heads/main/3D6.mp4
+7,https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/mp4/refs/heads/main/3D7.mp4
+8,https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/mp4/refs/heads/main/3D8.mp4
+9,https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/mp4/refs/heads/main/3D9.mp4
+10,https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/mp4/refs/heads/main/3D10.mp4
+11,https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/mp4/refs/heads/main/3D11.mp4
+12,https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/mp4/refs/heads/main/3D12.mp4
+13,https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/mp4/refs/heads/main/3D13.mp4
+14,https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/mp4/refs/heads/main/3D14.mp4
+15,https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/mp4/refs/heads/main/3D15.mp4
+16,https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/mp4/refs/heads/main/3D16.mp4
 
 
 
 
 
-3D,#genre#
+3D二区,#genre#
 3D01,https://vd3.bdstatic.com/mda-mfnc43q5ngnzua6p/sc/cae_h264/1624437508830556235/mda-mfnc43q5ngnzua6p.mp4
 3D02,https://vd3.bdstatic.com/mda-kksk814vwc1m06av/sc/mda-kksk814vwc1m06av.mp4
 3D03https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
@@ -4003,6 +4020,7 @@ PLAYFM,https://lhttp-hw.qtfm.cn/live/20035/64k.mp3
 3D09,https://vd2.bdstatic.com/mda-ki2cvyhz79rw40wg/v1-cae/sc/mda-ki2cvyhz79rw40wg.mp4
 3D10,https://vd3.bdstatic.com/mda-kksk814vwc1m06av/sc/mda-kksk814vwc1m06av.mp4
 3D11,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/1080p/cae_h264_delogo/1649341416696755483/mda-nd6k8tnavw6sj0a5.mp4
+
 
 
 
