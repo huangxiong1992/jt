@@ -27,15 +27,65 @@
             "filterable": 0
     },
     {
+      "key": "金牌",
+      "name": "金牌┃秒播",
+      "type": 3,
+      "api": "https://13291.kstore.space/gangge/drpy2.min.js",
+      "ext": "https://13291.kstore.space/lib/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "360zy",
+      "name": "飞龙┃秒播",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod?",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "古装片",
+        "悬疑片",
+        "犯罪片",
+        "灾难片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "欧美动漫",
+        "日韩动漫",
+        "现代都市",
+        "脑洞悬疑",
+        "年代穿越",
+        "古装仙侠",
+        "女频恋爱",
+        "成长逆袭",
+        "反转爽剧"
+      ]
+    },
+    {
       "key": "农民",
-      "name": "农民 如有广告勿信",
+      "name": "农民┃高清 如有广告勿信",
       "type": 3,
       "api": "csp_XYQHiker",
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/NMYS.json"
     },
     {
       "key": "闪电影视",
-      "name": "闪电 如有广告勿信",
+      "name": "闪电┃超清 如有广告勿信",
       "type": 1,
       "api": "http://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -74,7 +124,7 @@
     },
     {
       "key": "drpy2_旺旺",
-      "name": "旺旺 如有广告勿信",
+      "name": "旺旺┃超清 如有广告勿信",
       "type": 3,
       "playerType": 2,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
@@ -83,6 +133,28 @@
       "quickSearch": 1,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752846100427/sp.png;md5;bc63fb712a21d9fef7f8ec6e78ed0971",
       "ext": "https://img.sobot.com/10809/chatres/10809/ticket/20240919/4ec64d04a20af59e72f58d123a7a140e/WWYS_1726707452293.png"
+    },
+    {
+      "key": "甜圈短剧",
+      "name": "蓝光┃短剧一",
+      "type": 3,
+      "api": "https://file.commonspace.one/py/甜圈短剧.py",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752846100427/sp.png;md5;bc63fb712a21d9fef7f8ec6e78ed0971",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "csp_XYQHiker_河马短剧",
+      "name": "蓝光┃短剧二",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/json/refs/heads/main/hema.json"
     },
     {
       "key": "drpy_js_蜻蜓FM",
@@ -245,6 +317,7 @@
     }
   ]
 }
+
 
 
 
