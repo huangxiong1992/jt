@@ -77,13 +77,6 @@
       ]
     },
     {
-      "key": "农民",
-      "name": "农民┃高清 如有广告勿信",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/NMYS.json"
-    },
-    {
       "key": "闪电影视",
       "name": "闪电┃超清 如有广告勿信",
       "type": 1,
@@ -317,6 +310,7 @@
     }
   ]
 }
+
 
 
 
