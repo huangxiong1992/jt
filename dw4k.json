@@ -27,28 +27,15 @@
             "filterable": 0
     },
     {
-      "key": "彼岸",
-      "name": "蓝光┃A 如有广告勿信",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://172.247.44.217:30012",
-        "dataKey": "JLa1oRdL6+eK7@M)",
-        "dataIv": "JLa1oRdL6+eK7@M)",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
       "key": "农民",
-      "name": "蓝光┃B 如有广告勿信",
+      "name": "农民 如有广告勿信",
       "type": 3,
       "api": "csp_XYQHiker",
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/NMYS.json"
     },
     {
       "key": "闪电影视",
-      "name": "蓝光┃C 如有广告勿信",
+      "name": "闪电 如有广告勿信",
       "type": 1,
       "api": "http://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -87,7 +74,7 @@
     },
     {
       "key": "drpy2_旺旺",
-      "name": "蓝光┃蓝光┃D 如有广告勿信",
+      "name": "旺旺 如有广告勿信",
       "type": 3,
       "playerType": 2,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
@@ -96,15 +83,6 @@
       "quickSearch": 1,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752846100427/sp.png;md5;bc63fb712a21d9fef7f8ec6e78ed0971",
       "ext": "https://img.sobot.com/10809/chatres/10809/ticket/20240919/4ec64d04a20af59e72f58d123a7a140e/WWYS_1726707452293.png"
-    },
-    {
-      "key": "星芽短剧",
-      "name": "蓝光｜短剧",
-      "type": 3,
-      "playerType": 1,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752846100427/sp.png;md5;bc63fb712a21d9fef7f8ec6e78ed0971",
-      "ext": "https://file.commonspace.one/js/星芽短剧.js"
     },
     {
       "key": "drpy_js_蜻蜓FM",
@@ -267,6 +245,7 @@
     }
   ]
 }
+
 
 
 
