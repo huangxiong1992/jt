@@ -3,21 +3,15 @@
   "logo":"https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/lg.gif",
   "sites": [
     {
-      "key": "瓜子",
-      "name": "蓝光┃秒播",
-      "type": 3,
-      "api": "csp_Gz360"
-    },
-    {
       "key": "豆瓣",
-      "name": "豆瓣｜推荐",
+      "name": "最新｜热播 如有卡顿更换其他线路 勿信任何广告",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
     },
     {
             "key": "1905",
-            "name": "经典｜老电影",
+            "name": "经典｜秒播",
             "type": 3,
             "api": "csp_Web1905",
             "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
@@ -27,11 +21,68 @@
             "filterable": 0
     },
     {
+      "key": "瓜子",
+      "name": "蓝光┃秒播",
+      "type": 3,
+      "api": "csp_Gz360"
+    },
+    {
       "key": "金牌",
       "name": "金牌┃秒播",
       "type": 3,
       "api": "https://13291.kstore.space/gangge/drpy2.min.js",
       "ext": "https://13291.kstore.space/lib/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "drpy2_旺旺",
+      "name": "旺旺┃秒播",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752846100427/sp.png;md5;bc63fb712a21d9fef7f8ec6e78ed0971",
+      "ext": "https://img.sobot.com/10809/chatres/10809/ticket/20240919/4ec64d04a20af59e72f58d123a7a140e/WWYS_1726707452293.png"
+    },
+    {
+      "key": "闪电影视",
+      "name": "闪电┃秒播",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "短剧",
+        "韩国剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "动作片",
+        "日本剧",
+        "泰剧",
+        "国产综艺",
+        "港台综艺",
+        "欧美综艺",
+        "日韩综艺",
+        "国产动漫",
+        "港台动漫",
+        "日韩动漫"
+      ]
     },
     {
       "key": "360zy",
@@ -75,57 +126,6 @@
         "成长逆袭",
         "反转爽剧"
       ]
-    },
-    {
-      "key": "闪电影视",
-      "name": "闪电┃超清 如有广告勿信",
-      "type": 1,
-      "api": "http://sdzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "国产剧",
-        "短剧",
-        "韩国剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "奇幻片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "悬疑片",
-        "惊悚片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "动作片",
-        "日本剧",
-        "泰剧",
-        "国产综艺",
-        "港台综艺",
-        "欧美综艺",
-        "日韩综艺",
-        "国产动漫",
-        "港台动漫",
-        "日韩动漫"
-      ]
-    },
-    {
-      "key": "drpy2_旺旺",
-      "name": "旺旺┃超清 如有广告勿信",
-      "type": 3,
-      "playerType": 2,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752846100427/sp.png;md5;bc63fb712a21d9fef7f8ec6e78ed0971",
-      "ext": "https://img.sobot.com/10809/chatres/10809/ticket/20240919/4ec64d04a20af59e72f58d123a7a140e/WWYS_1726707452293.png"
     },
     {
       "key": "甜圈短剧",
@@ -310,6 +310,7 @@
     }
   ]
 }
+
 
 
 
