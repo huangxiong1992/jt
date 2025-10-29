@@ -11,6 +11,7 @@
       "logo": "https://live.fanmingming.cn/tv/{name}.png"
     }
   ],
+  "logo": "./A/logo.gif",
   "sites": [
     {
       "key": "瓜子",
@@ -24,6 +25,19 @@
       "type": 3,
       "api": "https://13291.kstore.space/gangge/drpy2.min.js",
       "ext": "https://13291.kstore.space/lib/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "蓝鹰",
+      "name": "请勿相信任何广告",
+      "type": 3,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "http://172.247.192.138:18520",
+        "dataKey": "SuNlEkOLAoWJj1Oe",
+        "dataIv": "SuNlEkOLAoWJj1Oe",
+        "deviceId": "",
+        "version": ""
+      }
     }
   ],
   "parses": [
@@ -68,6 +82,3 @@
     }
   ]
 }
-
-
-
