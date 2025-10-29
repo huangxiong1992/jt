@@ -11,7 +11,6 @@
       "logo": "https://live.fanmingming.cn/tv/{name}.png"
     }
   ],
-  "logo": "./A/logo.gif",
   "sites": [
     {
       "key": "瓜子",
@@ -69,5 +68,6 @@
     }
   ]
 }
+
 
 
