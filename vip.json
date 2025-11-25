@@ -27,18 +27,6 @@
       "ext": "https://13291.kstore.space/lib/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.js"
     },
     {
-      "key": "drpy2_旺旺",
-      "name": "旺旺┃秒播",
-      "type": 3,
-      "playerType": 2,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/drpy2.min.js",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752846100427/sp.png;md5;bc63fb712a21d9fef7f8ec6e78ed0971",
-      "ext": "https://img.sobot.com/10809/chatres/10809/ticket/20240919/4ec64d04a20af59e72f58d123a7a140e/WWYS_1726707452293.png"
-    },
-    {
       "key": "闪电影视",
       "name": "闪电┃秒播",
       "type": 1,
@@ -210,17 +198,6 @@
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/ly.txt"
     },
     {
-      "key": "相声小品",
-      "name": "相声┃小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/xsxp.txt"
-    },
-    {
       "key": "兔小贝",
       "name": "启蒙┃教育",
       "type": 3,
@@ -230,17 +207,6 @@
         "type": "rect",
         "ratio": 1.597
       }
-    },
-    {
-      "key": "幼儿",
-      "name": "幼儿┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/jshen.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/js/refs/heads/main/yejy.txt"
     },
     {
       "key": "cc",
@@ -303,6 +269,7 @@
     }
   ]
 }
+
 
 
 
