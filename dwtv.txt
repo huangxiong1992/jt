@@ -20,7 +20,6 @@ CCTV2,http://hx26.999219.xyz/TVOD/ysp.php?pid=600001800&id=2024075401
 CCTV3,http://hx26.999219.xyz/TVOD/ysp.php?pid=600001801&id=2024068501
 CCTV4,http://hx26.999219.xyz/TVOD/ysp.php?pid=600001814&id=2024078301
 CCTV5,http://hx26.999219.xyz/TVOD/ysp.php?pid=600001818&id=2024078401
-CCTV5+,http://hx26.999219.xyz/TVOD/ysp.php?pid=600001817&id=2024078001
 CCTV6,http://hx26.999219.xyz/TVOD/ysp.php?pid=600108442&id=2013693901
 CCTV7,http://hx26.999219.xyz/TVOD/ysp.php?pid=600004092&id=2024072001
 CCTV8,http://hx26.999219.xyz/TVOD/ysp.php?pid=600001803&id=2024078501
@@ -3040,6 +3039,7 @@ PLAYFM,https://lhttp-hw.qtfm.cn/live/20035/64k.mp3
 遵义综合广播FM89.8,https://lhttp-hw.qtfm.cn/live/5022080/64k.mp3
 左云广播电台,https://lhttp-hw.qtfm.cn/live/20212394/64k.mp3
 아리랑모바일방송,https://lhttp-hw.qtfm.cn/live/5022144/64k.mp3
+
 
 
 
