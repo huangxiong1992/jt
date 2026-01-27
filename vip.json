@@ -3,14 +3,26 @@
   "logo":"https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/lg.gif",
   "sites": [
     {
+      "key": "热播",
+      "name": "热播",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
       "key": "瓜子",
-      "name": "蓝光┃秒播",
+      "name": "秒播",
       "type": 3,
       "api": "csp_Gz360"
     },
     {
             "key": "1905",
-            "name": "经典｜秒播",
+            "name": "经典",
             "type": 3,
             "api": "csp_Web1905",
             "jar": "https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/jar/refs/heads/main/duhe.jar",
@@ -67,7 +79,7 @@
     },
     {
       "key": "360zy",
-      "name": "飞龙┃秒播",
+      "name": "飞龙",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod?",
       "searchable": 1,
@@ -269,6 +281,7 @@
     }
   ]
 }
+
 
 
 
