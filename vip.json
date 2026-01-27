@@ -16,10 +16,21 @@
     },
     {
       "key": "瓜子",
-      "name": "秒播",
+      "name": "秒播A",
       "type": 3,
       "api": "csp_Gz360"
-    },
+    }
+    {
+            "key": "龙伊扒的",
+            "name": "秒播B",
+            "api": "csp_Gz360",
+            "jar": "https://gitee.com/hu-congrong/lxbsc/raw/main/lib/08015.jar",
+            "type": 3,
+            "searchable": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "changeable": 0
+        },
     {
             "key": "1905",
             "name": "经典",
@@ -281,6 +292,7 @@
     }
   ]
 }
+
 
 
 
