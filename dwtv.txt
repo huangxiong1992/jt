@@ -2,85 +2,75 @@
 
 
 
-欢迎体验,#genre#
-本软免费分享,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
-仅供个人测试,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
-获取长期盒子,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
-关注微信公众号,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
-皇兄语音云盒,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
-CCTV-14 HD,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-浙江卫视 HD,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-兵团卫视 HD,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
-
 央视卫视,#genre#
-
-
-CCTV1,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600001859&id=2024078201
-CCTV2,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600001800&id=2024075401
-CCTV3,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600001801&id=2024068501
-CCTV4,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600001814&id=2024078301
-CCTV5,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600001818&id=2024078401
-CCTV5+,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600001817&id=2024078001
-CCTV6,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600108442&id=2013693901
-CCTV7,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600004092&id=2024072001
-CCTV8,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600001803&id=2024078501
-CCTV9,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600004078&id=2024078601
-CCTV10,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600001805&id=2024078701
-CCTV11,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600001806&id=2027248701
-CCTV12,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600001807&id=2027248801
-CCTV13,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600001811&id=2024079001
-CCTV14,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600001809&id=2027248901
-CCTV15,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600001815&id=2027249001
-CCTV16,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600098637&id=2027249101
-CCTV16,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600099502&id=2027249301
-CCTV17,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600001810&id=2027249401
-CCTV4K,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002264&id=2027249501
-CCTV8K,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600156816&id=2026774101
-CGTN,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600014550&id=2024181701
-CGTN法语,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600084704&id=2024181801
-CGTN俄语,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600084758&id=2024181901
-CGTN阿拉伯语,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600084782&id=2024182001
-CGTN西班牙语,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600084744&id=2024182101
-CGTN外语纪录,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600084781&id=2024182301
-CCTV第一剧场,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600099655&id=2026874203
-CCTV风云剧场,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600099658&id=2025637103
-CCTV怀旧剧场,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600099620&id=2026874303
-CETV1,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600171827&id=2022823801
-
-北京卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002309&id=2024052703
-东方卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002483&id=2024054503
-江苏卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002521&id=2024171103
-浙江卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002520&id=2024054703
-湖南卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002475&id=2024054803
-湖北卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002508&id=2024171203
-广东卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002485&id=2024060903
-广西卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002509&id=2024060703
-黑龙江卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002498&id=2024061003
-海南卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002506&id=2024055603
-重庆卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002531&id=2024061103
-深圳卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002481&id=2024061303
-四川卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002516&id=2024061403
-河南卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002525&id=2024059703
-东南卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002484&id=2024061503
-贵州卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002490&id=2024061603
-江西卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002503&id=2024061703
-辽宁卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002505&id=2024171303
-安徽卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002532&id=2024171403
-河北卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002493&id=2024171503
-山东卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600002513&id=2024171603
-天津卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600152137&id=2019927003
-陕西卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600190400&id=2025561103
-内蒙古卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600190401&id=2025561203
-云南卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600190402&id=2025561303
-甘肃卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600190408&id=2025561703
-吉林卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600190405&id=2025561503
-青海卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600190406&id=2025559103
-宁夏卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600190737&id=2025608503
-山西卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600190407&id=2025560803
-新疆卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600152138&id=2019927403
-西藏卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600190403&id=2025558003
-兵团卫视,https://frp-tip.com:47246/ysp/TVOD/ysp.php?pid=600193252&id=2025990501
+CCTV1,http://119.91.7.169:2026/ysws.php?id=CCTV1
+CCTV-1,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1
+CCTV-2,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv2
+CCTV-3,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv3
+CCTV-4,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv4
+CCTV-5,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5
+CCTV-5+,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv5plus
+CCTV-6,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv6
+CCTV-7,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv7
+CCTV-8,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv8
+CCTV-9,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv9
+CCTV-10,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv10
+CCTV-11,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv11
+CCTV-12,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv12
+CCTV-13,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv13
+CCTV-14,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv14
+CCTV-15,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv15
+CCTV-16,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv16
+CCTV-17,webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv17
+CCTV-4K,webview://yvxymm.tv12.xyz/127.m3u8
+CCTV-8K,webview://https://yvxymm.tv12.xyz/128.m3u8
+安徽卫视,webview://https://yvxymm.tv12.xyz/19.m3u8
+重庆卫视,webview://https://yvxymm.tv12.xyz/21.m3u8
+东南卫视,webview://https://yvxymm.tv12.xyz/22.m3u8
+东方卫视,webview://https://yvxymm.tv12.xyz/23.m3u8
+甘肃卫视,webview://https://yvxymm.tv12.xyz/24.m3u8
+广西卫视,webview://https://yvxymm.tv12.xyz/25.m3u8
+广东卫视,webview://https://yvxymm.tv12.xyz/26.m3u8
+贵州卫视,webview://https://yvxymm.tv12.xyz/27.m3u8
+湖南卫视,webview://https://yvxymm.tv12.xyz/28.m3u8
+海南卫视,webview://https://yvxymm.tv12.xyz/29.m3u8
+河北卫视,webview://https://yvxymm.tv12.xyz/30.m3u8
+黑龙江卫视,webview://https://yvxymm.tv12.xyz/31.m3u8
+河南卫视,webview://https://yvxymm.tv12.xyz/32.m3u8
+湖北卫视,webview://https://yvxymm.tv12.xyz/33.m3u8
+吉林卫视,webview://https://yvxymm.tv12.xyz/34.m3u8
+江苏卫视,webview://https://yvxymm.tv12.xyz/35.m3u8
+江西卫视,webview://https://yvxymm.tv12.xyz/36.m3u8
+辽宁卫视,webview://https://yvxymm.tv12.xyz/37.m3u8
+内蒙古卫视,webview://https://yvxymm.tv12.xyz/38.m3u8
+宁夏卫视,webview://https://yvxymm.tv12.xyz/39.m3u8
+青海卫视,webview://https://yvxymm.tv12.xyz/40.m3u8
+山东卫视,webview://https://yvxymm.tv12.xyz/41.m3u8
+山西卫视,webview://https://yvxymm.tv12.xyz/42.m3u8
+陕西卫视,webview://https://yvxymm.tv12.xyz/43.m3u8
+四川卫视,webview://https://yvxymm.tv12.xyz/44.m3u8
+天津卫视,webview://https://yvxymm.tv12.xyz/45.m3u8
+西藏卫视,webview://https://yvxymm.tv12.xyz/46.m3u8
+新疆卫视,webview://https://yvxymm.tv12.xyz/47.m3u8
+云南卫视,webview://https://yvxymm.tv12.xyz/48.m3u8
+浙江卫视,webview://https://yvxymm.tv12.xyz/49.m3u8
+上海都市,webview://https://live.kankanews.com/huikan?id=4
+哈哈炫动,webview://https://live.kankanews.com/huikan?id=9
+风云剧场,http://150.158.112.123/公众号玉玉应用笔记/k-web/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600099658
+第一剧场,http://150.158.112.123/公众号玉玉应用笔记/k-web/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600099655
+怀旧剧场,http://150.158.112.123/公众号玉玉应用笔记/k-web/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600099620
+河北经济生活,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
+河北农民,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
+河北都市,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=3
+山东齐鲁,webview://https://yvxymm.tv12.xyz/159.m3u8
+山东综艺,webview://https://yvxymm.tv12.xyz/161.m3u8
+山东新闻,webview://https://yvxymm.tv12.xyz/162.m3u8
+西安都市,webview://https://v.xiancity.cn/folder8/folder39/folder30/
+安徽综艺体育,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=2
+cetv1,webview://https://cctv.tv12.xyz/35.m3u8
+CETV2,webview://https://cctv.tv12.xyz/36.m3u8
+广西都市频道 webview://https://cctv.tv12.xyz/30.m3u8
+广西影视频道 webview://https://cctv.tv12.xyz/31.m3u8
 
 
 
@@ -3111,6 +3101,7 @@ PLAYFM,https://lhttp-hw.qtfm.cn/live/20035/64k.mp3
 遵义综合广播FM89.8,https://lhttp-hw.qtfm.cn/live/5022080/64k.mp3
 左云广播电台,https://lhttp-hw.qtfm.cn/live/20212394/64k.mp3
 아리랑모바일방송,https://lhttp-hw.qtfm.cn/live/5022144/64k.mp3
+
 
 
 
